@@ -1,0 +1,4778 @@
+id,country_id/id,code,name
+worldstates_ad-2,base.ad,,Canillo
+worldstates_ad-3,base.ad,,Encamp
+worldstates_ad-4,base.ad,,La Massana
+worldstates_ad-5,base.ad,,Ordino
+worldstates_ad-6,base.ad,,Sant Julià de Lòria
+worldstates_ad-7,base.ad,,Andorra la Vella
+worldstates_ad-8,base.ad,,Escaldes-Engordany
+worldstates_ae-aj,base.ae,AJ,'Ajmān
+worldstates_ae-az,base.ae,AZ,Abū Z̧aby [Abu Dhabi]
+worldstates_ae-du,base.ae,DU,Dubayy [Dubai]
+worldstates_ae-fu,base.ae,FU,Al Fujayrah
+worldstates_ae-rk,base.ae,RK,Ra’s al Khaymah
+worldstates_ae-sh,base.ae,SH,Ash Shāriqah [Sharjah]
+worldstates_ae-uq,base.ae,UQ,Umm al Qaywayn
+worldstates_af-bal,base.af,BAL,Balkh
+worldstates_af-bam,base.af,BAM,Bāmyān
+worldstates_af-bdg,base.af,BDG,Bādghīs
+worldstates_af-bds,base.af,BDS,Badakhshān
+worldstates_af-bgl,base.af,BGL,Baghlān
+worldstates_af-day,base.af,DAY,Dāykundī
+worldstates_af-fra,base.af,FRA,Farāh
+worldstates_af-fyb,base.af,FYB,Fāryāb
+worldstates_af-gha,base.af,GHA,Ghaznī
+worldstates_af-gho,base.af,GHO,Ghōr
+worldstates_af-hel,base.af,HEL,Helmand
+worldstates_af-her,base.af,HER,Herāt
+worldstates_af-jow,base.af,JOW,Jowzjān
+worldstates_af-kab,base.af,KAB,Kābul
+worldstates_af-kan,base.af,KAN,Kandahār
+worldstates_af-kap,base.af,KAP,Kāpīsā
+worldstates_af-kdz,base.af,KDZ,Kunduz
+worldstates_af-kho,base.af,KHO,Khōst
+worldstates_af-knr,base.af,KNR,Kunar
+worldstates_af-lag,base.af,LAG,Laghmān
+worldstates_af-log,base.af,LOG,Lōgar
+worldstates_af-nan,base.af,NAN,Nangarhār
+worldstates_af-nim,base.af,NIM,Nīmrōz
+worldstates_af-nur,base.af,NUR,Nūristān
+worldstates_af-pan,base.af,PAN,Panjshayr
+worldstates_af-par,base.af,PAR,Parwān
+worldstates_af-pia,base.af,PIA,Paktiyā
+worldstates_af-pka,base.af,PKA,Paktīkā
+worldstates_af-sam,base.af,SAM,Samangān
+worldstates_af-sar,base.af,SAR,Sar-e Pul
+worldstates_af-tak,base.af,TAK,Takhār
+worldstates_af-uru,base.af,URU,Urūzgān
+worldstates_af-war,base.af,WAR,Wardak
+worldstates_af-zab,base.af,ZAB,Zābul
+worldstates_ag-3,base.ag,,Saint George
+worldstates_ag-4,base.ag,,Saint John
+worldstates_ag-5,base.ag,,Saint Mary
+worldstates_ag-6,base.ag,,Saint Paul
+worldstates_ag-7,base.ag,,Saint Peter
+worldstates_ag-8,base.ag,,Saint Philip
+worldstates_ag-10,base.ag,,Barbuda
+worldstates_ag-11,base.ag,,Redonda
+worldstates_al-br,base.al,BR,Berat
+worldstates_al-bu,base.al,BU,Bulqizë
+worldstates_al-di,base.al,DI,Dibër
+worldstates_al-dl,base.al,DL,Delvinë
+worldstates_al-dr,base.al,DR,Durrës
+worldstates_al-dv,base.al,DV,Devoll
+worldstates_al-el,base.al,EL,Elbasan
+worldstates_al-er,base.al,ER,Kolonjë
+worldstates_al-fr,base.al,FR,Fier
+worldstates_al-gj,base.al,GJ,Gjirokastër
+worldstates_al-gr,base.al,GR,Gramsh
+worldstates_al-ha,base.al,HA,Has
+worldstates_al-ka,base.al,KA,Kavajë
+worldstates_al-kb,base.al,KB,Kurbin
+worldstates_al-kc,base.al,KC,Kuçovë
+worldstates_al-ko,base.al,KO,Korçë
+worldstates_al-kr,base.al,KR,Krujë
+worldstates_al-ku,base.al,KU,Kukës
+worldstates_al-lb,base.al,LB,Librazhd
+worldstates_al-le,base.al,LE,Lezhë
+worldstates_al-lu,base.al,LU,Lushnjë
+worldstates_al-mk,base.al,MK,Mallakastër
+worldstates_al-mm,base.al,MM,Malësi e Madhe
+worldstates_al-mr,base.al,MR,Mirditë
+worldstates_al-mt,base.al,MT,Mat
+worldstates_al-pg,base.al,PG,Pogradec
+worldstates_al-pq,base.al,PQ,Peqin
+worldstates_al-pr,base.al,PR,Përmet
+worldstates_al-pu,base.al,PU,Pukë
+worldstates_al-sh,base.al,SH,Shkodër
+worldstates_al-sk,base.al,SK,Skrapar
+worldstates_al-sr,base.al,SR,Sarandë
+worldstates_al-te,base.al,TE,Tepelenë
+worldstates_al-tp,base.al,TP,Tropojë
+worldstates_al-tr,base.al,TR,Tiranë
+worldstates_al-vl,base.al,VL,Vlorë
+worldstates_am-ag,base.am,AG,Aragac̣otn
+worldstates_am-ar,base.am,AR,Ararat
+worldstates_am-av,base.am,AV,Armavir
+worldstates_am-er,base.am,ER,Erevan
+worldstates_am-gr,base.am,GR,Geġark'unik'
+worldstates_am-kt,base.am,KT,Kotayk'
+worldstates_am-lo,base.am,LO,Loṙi
+worldstates_am-sh,base.am,SH,Širak
+worldstates_am-su,base.am,SU,Syunik'
+worldstates_am-tv,base.am,TV,Tavuš
+worldstates_am-vd,base.am,VD,Vayoć Jor
+worldstates_ao-bgo,base.ao,BGO,Bengo
+worldstates_ao-bgu,base.ao,BGU,Benguela
+worldstates_ao-bie,base.ao,BIE,Bié
+worldstates_ao-cab,base.ao,CAB,Cabinda
+worldstates_ao-ccu,base.ao,CCU,Kuando Kubango
+worldstates_ao-cnn,base.ao,CNN,Cunene
+worldstates_ao-cno,base.ao,CNO,Kwanza Norte
+worldstates_ao-cus,base.ao,CUS,Kwanza Sul
+worldstates_ao-hua,base.ao,HUA,Huambo
+worldstates_ao-hui,base.ao,HUI,Huíla
+worldstates_ao-lno,base.ao,LNO,Lunda Norte
+worldstates_ao-lsu,base.ao,LSU,Lunda Sul
+worldstates_ao-lua,base.ao,LUA,Luanda
+worldstates_ao-mal,base.ao,MAL,Malange
+worldstates_ao-mox,base.ao,MOX,Moxico
+worldstates_ao-nam,base.ao,NAM,Namibe
+worldstates_ao-uig,base.ao,UIG,Uíge
+worldstates_ao-zai,base.ao,ZAI,Zaire
+worldstates_ar-a,base.ar,A,Salta
+worldstates_ar-b,base.ar,B,Buenos Aires
+worldstates_ar-c,base.ar,C,Ciudad Autónoma de Buenos Aires
+worldstates_ar-d,base.ar,D,San Luis
+worldstates_ar-e,base.ar,E,Entre Ríos
+worldstates_ar-f,base.ar,F,La Rioja
+worldstates_ar-g,base.ar,G,Santiago del Estero
+worldstates_ar-h,base.ar,H,Chaco
+worldstates_ar-j,base.ar,J,San Juan
+worldstates_ar-k,base.ar,K,Catamarca
+worldstates_ar-l,base.ar,L,La Pampa
+worldstates_ar-m,base.ar,M,Mendoza
+worldstates_ar-n,base.ar,N,Misiones
+worldstates_ar-p,base.ar,P,Formosa
+worldstates_ar-q,base.ar,Q,Neuquén
+worldstates_ar-r,base.ar,R,Río Negro
+worldstates_ar-s,base.ar,S,Santa Fe
+worldstates_ar-t,base.ar,T,Tucumán
+worldstates_ar-u,base.ar,U,Chubut
+worldstates_ar-v,base.ar,V,Tierra del Fuego
+worldstates_ar-w,base.ar,W,Corrientes
+worldstates_ar-x,base.ar,X,Córdoba
+worldstates_ar-y,base.ar,Y,Jujuy
+worldstates_ar-z,base.ar,Z,Santa Cruz
+worldstates_at-1,base.at,,Burgenland
+worldstates_at-2,base.at,,Kärnten
+worldstates_at-3,base.at,,Niederösterreich
+worldstates_at-4,base.at,,Oberösterreich
+worldstates_at-5,base.at,,Salzburg
+worldstates_at-6,base.at,,Steiermark
+worldstates_at-7,base.at,,Tirol
+worldstates_at-8,base.at,,Vorarlberg
+worldstates_at-9,base.at,,Wien
+worldstates_au-act,base.au,ACT,Australian Capital Territory
+worldstates_au-nsw,base.au,NSW,New South Wales
+worldstates_au-nt,base.au,NT,Northern Territory
+worldstates_au-qld,base.au,QLD,Queensland
+worldstates_au-sa,base.au,SA,South Australia
+worldstates_au-tas,base.au,TAS,Tasmania
+worldstates_au-vic,base.au,VIC,Victoria
+worldstates_au-wa,base.au,WA,Western Australia
+worldstates_az-abs,base.az,ABS,Abşeron
+worldstates_az-aga,base.az,AGA,Ağstafa
+worldstates_az-agc,base.az,AGC,Ağcabədi
+worldstates_az-agm,base.az,AGM,Ağdam
+worldstates_az-ags,base.az,AGS,Ağdaş
+worldstates_az-agu,base.az,AGU,Ağsu
+worldstates_az-ast,base.az,AST,Astara
+worldstates_az-ba,base.az,BA,Bakı
+worldstates_az-bab,base.az,BAB,Babək
+worldstates_az-bal,base.az,BAL,Balakən
+worldstates_az-bar,base.az,BAR,Bərdə
+worldstates_az-bey,base.az,BEY,Beyləqan
+worldstates_az-bil,base.az,BIL,Biləsuvar
+worldstates_az-cab,base.az,CAB,Cəbrayıl
+worldstates_az-cal,base.az,CAL,Cəlilabad
+worldstates_az-cul,base.az,CUL,Culfa
+worldstates_az-das,base.az,DAS,Daşkəsən
+worldstates_az-fuz,base.az,FUZ,Füzuli
+worldstates_az-ga,base.az,GA,Gəncə
+worldstates_az-gad,base.az,GAD,Gədəbəy
+worldstates_az-gor,base.az,GOR,Goranboy
+worldstates_az-goy,base.az,GOY,Göyçay
+worldstates_az-gyg,base.az,GYG,Göygöl
+worldstates_az-hac,base.az,HAC,Hacıqabul
+worldstates_az-imi,base.az,IMI,İmişli
+worldstates_az-ism,base.az,ISM,İsmayıllı
+worldstates_az-kal,base.az,KAL,Kəlbəcər
+worldstates_az-kan,base.az,KAN,Kǝngǝrli
+worldstates_az-kur,base.az,KUR,Kürdəmir
+worldstates_az-la,base.az,LA,Lənkəran
+worldstates_az-lac,base.az,LAC,Laçın
+worldstates_az-lan,base.az,LAN,Lənkəran
+worldstates_az-ler,base.az,LER,Lerik
+worldstates_az-mas,base.az,MAS,Masallı
+worldstates_az-mi,base.az,MI,Mingəçevir
+worldstates_az-na,base.az,NA,Naftalan
+worldstates_az-nef,base.az,NEF,Neftçala
+worldstates_az-nv,base.az,NV,Naxçıvan
+worldstates_az-nx,base.az,NX,Naxçıvan
+worldstates_az-ogu,base.az,OGU,Oğuz
+worldstates_az-ord,base.az,ORD,Ordubad
+worldstates_az-qab,base.az,QAB,Qəbələ
+worldstates_az-qax,base.az,QAX,Qax
+worldstates_az-qaz,base.az,QAZ,Qazax
+worldstates_az-qba,base.az,QBA,Quba
+worldstates_az-qbi,base.az,QBI,Qubadlı
+worldstates_az-qob,base.az,QOB,Qobustan
+worldstates_az-qus,base.az,QUS,Qusar
+worldstates_az-sa,base.az,SA,Şəki
+worldstates_az-sab,base.az,SAB,Sabirabad
+worldstates_az-sad,base.az,SAD,Sədərək
+worldstates_az-sah,base.az,SAH,Şahbuz
+worldstates_az-sak,base.az,SAK,Şəki
+worldstates_az-sal,base.az,SAL,Salyan
+worldstates_az-sar,base.az,SAR,Şərur
+worldstates_az-sat,base.az,SAT,Saatlı
+worldstates_az-sbn,base.az,SBN,Şabran
+worldstates_az-siy,base.az,SIY,Siyəzən
+worldstates_az-skr,base.az,SKR,Şəmkir
+worldstates_az-sm,base.az,SM,Sumqayıt
+worldstates_az-smi,base.az,SMI,Şamaxı
+worldstates_az-smx,base.az,SMX,Samux
+worldstates_az-sr,base.az,SR,Şirvan
+worldstates_az-sus,base.az,SUS,Şuşa
+worldstates_az-tar,base.az,TAR,Tərtər
+worldstates_az-tov,base.az,TOV,Tovuz
+worldstates_az-uca,base.az,UCA,Ucar
+worldstates_az-xa,base.az,XA,Xankəndi
+worldstates_az-xac,base.az,XAC,Xaçmaz
+worldstates_az-xci,base.az,XCI,Xocalı
+worldstates_az-xiz,base.az,XIZ,Xızı
+worldstates_az-xvd,base.az,XVD,Xocavənd
+worldstates_az-yar,base.az,YAR,Yardımlı
+worldstates_az-ye,base.az,YE,Yevlax
+worldstates_az-yev,base.az,YEV,Yevlax
+worldstates_az-zan,base.az,ZAN,Zəngilan
+worldstates_az-zaq,base.az,ZAQ,Zaqatala
+worldstates_az-zar,base.az,ZAR,Zərdab
+worldstates_ba-1,base.ba,,Unsko-Sanski Kanton
+worldstates_ba-2,base.ba,,Posavski Kanton
+worldstates_ba-3,base.ba,,Tuzlanski Kanton
+worldstates_ba-4,base.ba,,Zeničko-Dobojski Kanton
+worldstates_ba-5,base.ba,,Bosansko-Podrinjski Kanton
+worldstates_ba-6,base.ba,,Srednjobosanski Kanton
+worldstates_ba-7,base.ba,,Hercegovačko-Neretvanski Kanton
+worldstates_ba-8,base.ba,,Zapadnohercegovački kanton
+worldstates_ba-9,base.ba,,Kanton Sarajevo
+worldstates_ba-10,base.ba,,"Županija br. 10
+
+(Hercegbosanska županija)"
+worldstates_ba-bih,base.ba,BIH,Federacija Bosne i Hercegovine
+worldstates_ba-brc,base.ba,BRC,Brčko distrikt
+worldstates_ba-srp,base.ba,SRP,Republika Srpska
+worldstates_bb-1,base.bb,,Christ Church
+worldstates_bb-2,base.bb,,Saint Andrew
+worldstates_bb-3,base.bb,,Saint George
+worldstates_bb-4,base.bb,,Saint James
+worldstates_bb-5,base.bb,,Saint John
+worldstates_bb-6,base.bb,,Saint Joseph
+worldstates_bb-7,base.bb,,Saint Lucy
+worldstates_bb-8,base.bb,,Saint Michael
+worldstates_bb-9,base.bb,,Saint Peter
+worldstates_bb-10,base.bb,,Saint Philip
+worldstates_bb-11,base.bb,,Saint Thomas
+worldstates_bd-1,base.bd,,Bandarban
+worldstates_bd-2,base.bd,,Barguna
+worldstates_bd-3,base.bd,,Bogra
+worldstates_bd-4,base.bd,,Brahmanbaria
+worldstates_bd-5,base.bd,,Bagerhat
+worldstates_bd-6,base.bd,,Barisal
+worldstates_bd-7,base.bd,,Bhola
+worldstates_bd-8,base.bd,,Comilla
+worldstates_bd-9,base.bd,,Chandpur
+worldstates_bd-10,base.bd,,Chittagong
+worldstates_bd-11,base.bd,,Cox's Bazar
+worldstates_bd-12,base.bd,,Chuadanga
+worldstates_bd-13,base.bd,,Dhaka
+worldstates_bd-14,base.bd,,Dinajpur
+worldstates_bd-15,base.bd,,Faridpur
+worldstates_bd-16,base.bd,,Feni
+worldstates_bd-17,base.bd,,Gopalganj
+worldstates_bd-18,base.bd,,Gazipur
+worldstates_bd-19,base.bd,,Gaibandha
+worldstates_bd-20,base.bd,,Habiganj
+worldstates_bd-21,base.bd,,Jamalpur
+worldstates_bd-22,base.bd,,Jessore
+worldstates_bd-23,base.bd,,Jhenaidah
+worldstates_bd-24,base.bd,,Jaipurhat
+worldstates_bd-25,base.bd,,Jhalakati
+worldstates_bd-26,base.bd,,Kishoreganj
+worldstates_bd-27,base.bd,,Khulna
+worldstates_bd-28,base.bd,,Kurigram
+worldstates_bd-29,base.bd,,Khagrachari
+worldstates_bd-30,base.bd,,Kushtia
+worldstates_bd-31,base.bd,,Lakshmipur
+worldstates_bd-32,base.bd,,Lalmonirhat
+worldstates_bd-33,base.bd,,Manikganj
+worldstates_bd-34,base.bd,,Mymensingh
+worldstates_bd-35,base.bd,,Munshiganj
+worldstates_bd-36,base.bd,,Madaripur
+worldstates_bd-37,base.bd,,Magura
+worldstates_bd-38,base.bd,,Moulvibazar
+worldstates_bd-39,base.bd,,Meherpur
+worldstates_bd-40,base.bd,,Narayanganj
+worldstates_bd-41,base.bd,,Netrakona
+worldstates_bd-42,base.bd,,Narsingdi
+worldstates_bd-43,base.bd,,Narail
+worldstates_bd-44,base.bd,,Natore
+worldstates_bd-45,base.bd,,Nawabganj
+worldstates_bd-46,base.bd,,Nilphamari
+worldstates_bd-47,base.bd,,Noakhali
+worldstates_bd-48,base.bd,,Naogaon
+worldstates_bd-49,base.bd,,Pabna
+worldstates_bd-50,base.bd,,Pirojpur
+worldstates_bd-51,base.bd,,Patuakhali
+worldstates_bd-52,base.bd,,Panchagarh
+worldstates_bd-53,base.bd,,Rajbari
+worldstates_bd-54,base.bd,,Rajshahi
+worldstates_bd-55,base.bd,,Rangpur
+worldstates_bd-56,base.bd,,Rangamati
+worldstates_bd-57,base.bd,,Sherpur
+worldstates_bd-58,base.bd,,Satkhira
+worldstates_bd-59,base.bd,,Sirajganj
+worldstates_bd-60,base.bd,,Sylhet
+worldstates_bd-61,base.bd,,Sunamganj
+worldstates_bd-62,base.bd,,Shariatpur
+worldstates_bd-63,base.bd,,Tangail
+worldstates_bd-64,base.bd,,Thakurgaon
+worldstates_be-bru,base.be,BRU,"Bruxelles-Capitale, Région de"
+worldstates_be-van,base.be,VAN,Antwerpen
+worldstates_be-vbr,base.be,VBR,Vlaams Brabant
+worldstates_be-vlg,base.be,VLG,Vlaamse Gewest
+worldstates_be-vli,base.be,VLI,Limburg
+worldstates_be-vov,base.be,VOV,Oost-Vlaanderen
+worldstates_be-vwv,base.be,VWV,West-Vlaanderen
+worldstates_be-wal,base.be,WAL,"Wallonne, Région"
+worldstates_be-wbr,base.be,WBR,Brabant wallon
+worldstates_be-wht,base.be,WHT,Hainaut
+worldstates_be-wlg,base.be,WLG,Liège
+worldstates_be-wlx,base.be,WLX,Luxembourg
+worldstates_be-wna,base.be,WNA,Namur
+worldstates_bf-bal,base.bf,BAL,Balé
+worldstates_bf-bam,base.bf,BAM,Bam
+worldstates_bf-ban,base.bf,BAN,Banwa
+worldstates_bf-baz,base.bf,BAZ,"Bazèga
+
+ga"
+worldstates_bf-bgr,base.bf,BGR,Bougouriba
+worldstates_bf-blg,base.bf,BLG,Boulgou
+worldstates_bf-blk,base.bf,BLK,Boulkiemdé
+worldstates_bf-com,base.bf,COM,Comoé
+worldstates_bf-gan,base.bf,GAN,Ganzourgou
+worldstates_bf-gna,base.bf,GNA,Gnagna
+worldstates_bf-gou,base.bf,GOU,Gourma
+worldstates_bf-hou,base.bf,HOU,Houet
+worldstates_bf-iob,base.bf,IOB,Ioba
+worldstates_bf-kad,base.bf,KAD,Kadiogo
+worldstates_bf-ken,base.bf,KEN,Kénédougou
+worldstates_bf-kmd,base.bf,KMD,Komondjari
+worldstates_bf-kmp,base.bf,KMP,Kompienga
+worldstates_bf-kop,base.bf,KOP,Koulpélogo
+worldstates_bf-kos,base.bf,KOS,Kossi
+worldstates_bf-kot,base.bf,KOT,Kouritenga
+worldstates_bf-kow,base.bf,KOW,Kourwéogo
+worldstates_bf-ler,base.bf,LER,Léraba
+worldstates_bf-lor,base.bf,LOR,Loroum
+worldstates_bf-mou,base.bf,MOU,Mouhoun
+worldstates_bf-nam,base.bf,NAM,Namentenga
+worldstates_bf-nao,base.bf,NAO,Nahouri
+worldstates_bf-nay,base.bf,NAY,Nayala
+worldstates_bf-nou,base.bf,NOU,Noumbiel
+worldstates_bf-oub,base.bf,OUB,Oubritenga
+worldstates_bf-oud,base.bf,OUD,Oudalan
+worldstates_bf-pas,base.bf,PAS,Passoré
+worldstates_bf-pon,base.bf,PON,Poni
+worldstates_bf-sen,base.bf,SEN,Séno
+worldstates_bf-sis,base.bf,SIS,Sissili
+worldstates_bf-smt,base.bf,SMT,Sanmatenga
+worldstates_bf-sng,base.bf,SNG,Sanguié
+worldstates_bf-som,base.bf,SOM,Soum
+worldstates_bf-sor,base.bf,SOR,Sourou
+worldstates_bf-tap,base.bf,TAP,Tapoa
+worldstates_bf-tui,base.bf,TUI,Tui
+worldstates_bf-yag,base.bf,YAG,Yagha
+worldstates_bf-yat,base.bf,YAT,Yatenga
+worldstates_bf-zir,base.bf,ZIR,Ziro
+worldstates_bf-zon,base.bf,ZON,Zondoma
+worldstates_bf-zou,base.bf,ZOU,Zoundwéogo
+worldstates_bg-1,base.bg,,Blagoevgrad
+worldstates_bg-2,base.bg,,Burgas
+worldstates_bg-3,base.bg,,Varna
+worldstates_bg-4,base.bg,,Veliko Tarnovo
+worldstates_bg-5,base.bg,,Vidin
+worldstates_bg-6,base.bg,,Vratsa
+worldstates_bg-7,base.bg,,Gabrovo
+worldstates_bg-8,base.bg,,Dobrich
+worldstates_bg-9,base.bg,,Kardzhali
+worldstates_bg-10,base.bg,,Kjustendil
+worldstates_bg-11,base.bg,,Lovech
+worldstates_bg-12,base.bg,,Montana
+worldstates_bg-13,base.bg,,Pazardzik
+worldstates_bg-14,base.bg,,Pernik
+worldstates_bg-15,base.bg,,Pleven
+worldstates_bg-16,base.bg,,Plovdiv
+worldstates_bg-17,base.bg,,Razgrad
+worldstates_bg-18,base.bg,,Ruse
+worldstates_bg-19,base.bg,,Silistra
+worldstates_bg-20,base.bg,,Sliven
+worldstates_bg-21,base.bg,,Smolyan
+worldstates_bg-22,base.bg,,Sofia (stolitsa)
+worldstates_bg-23,base.bg,,Sofia
+worldstates_bg-24,base.bg,,Stara Zagora
+worldstates_bg-25,base.bg,,Targovishte
+worldstates_bg-26,base.bg,,Haskovo
+worldstates_bg-27,base.bg,,Shumen
+worldstates_bg-28,base.bg,,Yambol
+worldstates_bh-13,base.bh,,Al Manāmah (Al ‘Aşimah)
+worldstates_bh-14,base.bh,,Al Janūbīyah
+worldstates_bh-15,base.bh,,Al Muḩarraq
+worldstates_bh-16,base.bh,,Al Wusţá
+worldstates_bh-17,base.bh,,Ash Shamālīyah
+worldstates_bi-bb,base.bi,BB,Bubanza
+worldstates_bi-bl,base.bi,BL,Bujumbura Rural
+worldstates_bi-bm,base.bi,BM,Bujumbura Mairie
+worldstates_bi-br,base.bi,BR,Bururi
+worldstates_bi-ca,base.bi,CA,Cankuzo
+worldstates_bi-ci,base.bi,CI,Cibitoke
+worldstates_bi-gi,base.bi,GI,Gitega
+worldstates_bi-ki,base.bi,KI,Kirundo
+worldstates_bi-kr,base.bi,KR,Karuzi
+worldstates_bi-ky,base.bi,KY,Kayanza
+worldstates_bi-ma,base.bi,MA,Makamba
+worldstates_bi-mu,base.bi,MU,Muramvya
+worldstates_bi-mw,base.bi,MW,Mwaro
+worldstates_bi-my,base.bi,MY,Muyinga
+worldstates_bi-ng,base.bi,NG,Ngozi
+worldstates_bi-rt,base.bi,RT,Rutana
+worldstates_bi-ry,base.bi,RY,Ruyigi
+worldstates_bj-ak,base.bj,AK,Atakora
+worldstates_bj-al,base.bj,AL,Alibori
+worldstates_bj-aq,base.bj,AQ,Atlantique
+worldstates_bj-bo,base.bj,BO,Borgou
+worldstates_bj-co,base.bj,CO,Collines
+worldstates_bj-do,base.bj,DO,Donga
+worldstates_bj-ko,base.bj,KO,Kouffo
+worldstates_bj-li,base.bj,LI,Littoral
+worldstates_bj-mo,base.bj,MO,Mono
+worldstates_bj-ou,base.bj,OU,Ouémé
+worldstates_bj-pl,base.bj,PL,Plateau
+worldstates_bj-zo,base.bj,ZO,Zou
+worldstates_bn-be,base.bn,BE,Belait
+worldstates_bn-bm,base.bn,BM,Brunei-Muara
+worldstates_bn-te,base.bn,TE,Temburong
+worldstates_bn-tu,base.bn,TU,Tutong
+worldstates_bo-b,base.bo,B,El Beni
+worldstates_bo-c,base.bo,C,Cochabamba
+worldstates_bo-h,base.bo,H,Chuquisaca
+worldstates_bo-l,base.bo,L,La Paz
+worldstates_bo-n,base.bo,N,Pando
+worldstates_bo-o,base.bo,O,Oruro
+worldstates_bo-p,base.bo,P,Potosí
+worldstates_bo-s,base.bo,S,Santa Cruz
+worldstates_bo-t,base.bo,T,Tarija
+worldstates_bq-bo,base.bq,BO,Bonaire
+worldstates_bq-sa,base.bq,SA,Saba
+worldstates_bq-se,base.bq,SE,Sint Eustatius
+worldstates_br-ac,base.br,AC,Acre
+worldstates_br-al,base.br,AL,Alagoas
+worldstates_br-am,base.br,AM,Amazonas
+worldstates_br-ap,base.br,AP,Amapá
+worldstates_br-ba,base.br,BA,Bahia
+worldstates_br-ce,base.br,CE,Ceará
+worldstates_br-df,base.br,DF,Distrito Federal
+worldstates_br-es,base.br,ES,Espírito Santo
+worldstates_br-go,base.br,GO,Goiás
+worldstates_br-ma,base.br,MA,Maranhão
+worldstates_br-mg,base.br,MG,Minas Gerais
+worldstates_br-ms,base.br,MS,Mato Grosso do Sul
+worldstates_br-mt,base.br,MT,Mato Grosso
+worldstates_br-pa,base.br,PA,Pará
+worldstates_br-pb,base.br,PB,Paraíba
+worldstates_br-pe,base.br,PE,Pernambuco
+worldstates_br-pi,base.br,PI,Piauí
+worldstates_br-pr,base.br,PR,Paraná
+worldstates_br-rj,base.br,RJ,Rio de Janeiro
+worldstates_br-rn,base.br,RN,Rio Grande do Norte
+worldstates_br-ro,base.br,RO,Rondônia
+worldstates_br-rr,base.br,RR,Roraima
+worldstates_br-rs,base.br,RS,Rio Grande do Sul
+worldstates_br-sc,base.br,SC,Santa Catarina
+worldstates_br-se,base.br,SE,Sergipe
+worldstates_br-sp,base.br,SP,São Paulo
+worldstates_br-to,base.br,TO,Tocantins
+worldstates_bs-ak,base.bs,AK,Acklins
+worldstates_bs-bi,base.bs,BI,Bimini
+worldstates_bs-bp,base.bs,BP,Black Point
+worldstates_bs-by,base.bs,BY,Berry Islands
+worldstates_bs-ce,base.bs,CE,Central Eleuthera
+worldstates_bs-ci,base.bs,CI,Cat Island
+worldstates_bs-ck,base.bs,CK,Crooked Island and Long Cay
+worldstates_bs-co,base.bs,CO,Central Abaco
+worldstates_bs-cs,base.bs,CS,Central Andros
+worldstates_bs-eg,base.bs,EG,East Grand Bahama
+worldstates_bs-ex,base.bs,EX,Exuma
+worldstates_bs-fp,base.bs,FP,City of Freeport
+worldstates_bs-gc,base.bs,GC,Grand Cay
+worldstates_bs-hi,base.bs,HI,Harbour Island
+worldstates_bs-ht,base.bs,HT,Hope Town
+worldstates_bs-in,base.bs,IN,Inagua
+worldstates_bs-li,base.bs,LI,Long Island
+worldstates_bs-mc,base.bs,MC,Mangrove Cay
+worldstates_bs-mg,base.bs,MG,Mayaguana
+worldstates_bs-mi,base.bs,MI,Moore's Island
+worldstates_bs-ne,base.bs,NE,North Eleuthera
+worldstates_bs-no,base.bs,NO,North Abaco
+worldstates_bs-ns,base.bs,NS,North Andros
+worldstates_bs-rc,base.bs,RC,Rum Cay
+worldstates_bs-ri,base.bs,RI,Ragged Island
+worldstates_bs-sa,base.bs,SA,South Andros
+worldstates_bs-se,base.bs,SE,South Eleuthera
+worldstates_bs-so,base.bs,SO,South Abaco
+worldstates_bs-ss,base.bs,SS,San Salvador
+worldstates_bs-sw,base.bs,SW,Spanish Wells
+worldstates_bs-wg,base.bs,WG,West Grand Bahama
+worldstates_bt-11,base.bt,,Paro
+worldstates_bt-12,base.bt,,Chhukha
+worldstates_bt-13,base.bt,,Ha
+worldstates_bt-14,base.bt,,Samtse
+worldstates_bt-15,base.bt,,Thimphu
+worldstates_bt-21,base.bt,,Tsirang
+worldstates_bt-22,base.bt,,Dagana
+worldstates_bt-23,base.bt,,Punakha
+worldstates_bt-24,base.bt,,Wangdue Phodrang
+worldstates_bt-31,base.bt,,Sarpang
+worldstates_bt-32,base.bt,,Trongsa
+worldstates_bt-33,base.bt,,Bumthang
+worldstates_bt-34,base.bt,,Zhemgang
+worldstates_bt-41,base.bt,,Trashigang
+worldstates_bt-42,base.bt,,Monggar
+worldstates_bt-43,base.bt,,Pemagatshel
+worldstates_bt-44,base.bt,,Lhuentse
+worldstates_bt-45,base.bt,,Samdrup Jongkha
+worldstates_bt-ga,base.bt,GA,Gasa
+worldstates_bt-ty,base.bt,TY,Trashi Yangtse
+worldstates_bw-ce,base.bw,CE,Central
+worldstates_bw-ch,base.bw,CH,Chobe
+worldstates_bw-fr,base.bw,FR,Francistown
+worldstates_bw-ga,base.bw,GA,Gaborone
+worldstates_bw-gh,base.bw,GH,Ghanzi
+worldstates_bw-jw,base.bw,JW,Jwaneng
+worldstates_bw-kg,base.bw,KG,Kgalagadi
+worldstates_bw-kl,base.bw,KL,Kgatleng
+worldstates_bw-kw,base.bw,KW,Kweneng
+worldstates_bw-lo,base.bw,LO,Lobatse
+worldstates_bw-ne,base.bw,NE,North East
+worldstates_bw-nw,base.bw,NW,North West
+worldstates_bw-se,base.bw,SE,South East
+worldstates_bw-so,base.bw,SO,Southern
+worldstates_bw-sp,base.bw,SP,Selibe Phikwe
+worldstates_bw-st,base.bw,ST,Sowa Town
+worldstates_by-br,base.by,BR,Bresckaja voblasć (be) - Brestskaja oblast' (ru)
+worldstates_by-hm,base.by,HM,Horad Minsk
+worldstates_by-ho,base.by,HO,Homyel'skaya voblasts' (be) - Gomel'skaya oblast' (ru)
+worldstates_by-hr,base.by,HR,Hrodzenskaya voblasts' (be) - Grodnenskaya oblast' (ru)
+worldstates_by-ma,base.by,MA,Mahilyowskaya voblasts' (be) - Mogilevskaya oblast' (ru)
+worldstates_by-mi,base.by,MI,Minskaya voblasts' (be) - Minskaya oblast' (ru)
+worldstates_by-vi,base.by,VI,Vitsyebskaya voblasts' (be) - Vitebskaya oblast' (ru)
+worldstates_bz-bz,base.bz,BZ,Belize
+worldstates_bz-cy,base.bz,CY,Cayo
+worldstates_bz-czl,base.bz,CZL,Corozal
+worldstates_bz-ow,base.bz,OW,Orange Walk
+worldstates_bz-sc,base.bz,SC,Stann Creek
+worldstates_bz-tol,base.bz,TOL,Toledo
+worldstates_ca-ab,base.ca,AB,Alberta
+worldstates_ca-bc,base.ca,BC,British Columbia
+worldstates_ca-mb,base.ca,MB,Manitoba
+worldstates_ca-nb,base.ca,NB,New Brunswick
+worldstates_ca-nl,base.ca,NL,Newfoundland and Labrador
+worldstates_ca-ns,base.ca,NS,Nova Scotia
+worldstates_ca-nt,base.ca,NT,Northwest Territories
+worldstates_ca-nu,base.ca,NU,Nunavut
+worldstates_ca-on,base.ca,ON,Ontario
+worldstates_ca-pe,base.ca,PE,Prince Edward Island
+worldstates_ca-qc,base.ca,QC,Quebec
+worldstates_ca-sk,base.ca,SK,Saskatchewan
+worldstates_ca-yt,base.ca,YT,Yukon
+worldstates_cd-bc,base.cd,BC,Bas-Congo
+worldstates_cd-bn,base.cd,BN,Bandundu
+worldstates_cd-eq,base.cd,EQ,Équateur
+worldstates_cd-ka,base.cd,KA,Katanga
+worldstates_cd-ke,base.cd,KE,Kasai-Oriental
+worldstates_cd-kn,base.cd,KN,Kinshasa
+worldstates_cd-kw,base.cd,KW,Kasai-Occidental
+worldstates_cd-ma,base.cd,MA,Maniema
+worldstates_cd-nk,base.cd,NK,Nord-Kivu
+worldstates_cd-or,base.cd,OR,Orientale
+worldstates_cd-sk,base.cd,SK,Sud-Kivu
+worldstates_cf-ac,base.cf,AC,Ouham
+worldstates_cf-bb,base.cf,BB,Bamingui-Bangoran
+worldstates_cf-bgf,base.cf,BGF,Bangui
+worldstates_cf-bk,base.cf,BK,Basse-Kotto
+worldstates_cf-hk,base.cf,HK,Haute-Kotto
+worldstates_cf-hm,base.cf,HM,Haut-Mbomou
+worldstates_cf-hs,base.cf,HS,Mambéré-Kadéï
+worldstates_cf-kb,base.cf,KB,Gribingui
+worldstates_cf-kg,base.cf,KG,Kémo‐Gribingui
+worldstates_cf-lb,base.cf,LB,Lobaye
+worldstates_cf-mb,base.cf,MB,Mbomou
+worldstates_cf-mp,base.cf,MP,Ombella-Mpoko
+worldstates_cf-nm,base.cf,NM,Nana-Mambéré
+worldstates_cf-op,base.cf,OP,Ouham-Pendé
+worldstates_cf-se,base.cf,SE,Sangha
+worldstates_cf-uk,base.cf,UK,Ouaka
+worldstates_cf-vk,base.cf,VK,Vakaga
+worldstates_cg-11,base.cg,,Bouenza
+worldstates_cg-12,base.cg,,Pool
+worldstates_cg-13,base.cg,,Sangha
+worldstates_cg-14,base.cg,,Plateaux
+worldstates_cg-15,base.cg,,Cuvette-Ouest
+worldstates_cg-16,base.cg,,Pointe-Noire
+worldstates_cg-2,base.cg,,Lékoumou
+worldstates_cg-5,base.cg,,Kouilou
+worldstates_cg-7,base.cg,,Likouala
+worldstates_cg-8,base.cg,,Cuvette
+worldstates_cg-9,base.cg,,Niari
+worldstates_cg-bzv,base.cg,BZV,Brazzaville
+worldstates_ch-ag,base.ch,AG,Aargau (de)
+worldstates_ch-ai,base.ch,AI,Appenzell Innerrhoden (de)
+worldstates_ch-ar,base.ch,AR,Appenzell Ausserrhoden (de)
+worldstates_ch-be,base.ch,BE,Bern (de)
+worldstates_ch-bl,base.ch,BL,Basel-Landschaft (de)
+worldstates_ch-bs,base.ch,BS,Basel-Stadt (de)
+worldstates_ch-fr,base.ch,FR,Fribourg (fr)
+worldstates_ch-ge,base.ch,GE,Genève (fr)
+worldstates_ch-gl,base.ch,GL,Glarus (de)
+worldstates_ch-gr,base.ch,GR,Graubünden (de)
+worldstates_ch-ju,base.ch,JU,Jura (fr)
+worldstates_ch-lu,base.ch,LU,Luzern (de)
+worldstates_ch-ne,base.ch,NE,Neuchâtel (fr)
+worldstates_ch-nw,base.ch,NW,Nidwalden (de)
+worldstates_ch-ow,base.ch,OW,Obwalden (de)
+worldstates_ch-sg,base.ch,SG,Sankt Gallen (de)
+worldstates_ch-sh,base.ch,SH,Schaffhausen (de)
+worldstates_ch-so,base.ch,SO,Solothurn (de)
+worldstates_ch-sz,base.ch,SZ,Schwyz (de)
+worldstates_ch-tg,base.ch,TG,Thurgau (de)
+worldstates_ch-ti,base.ch,TI,Ticino (it)
+worldstates_ch-ur,base.ch,UR,Uri (de)
+worldstates_ch-vd,base.ch,VD,Vaud (fr)
+worldstates_ch-vs,base.ch,VS,Valais (fr)
+worldstates_ch-zg,base.ch,ZG,Zug (de)
+worldstates_ch-zh,base.ch,ZH,Zürich (de)
+worldstates_ci-1,base.ci,,Lagunes (Région des)
+worldstates_ci-2,base.ci,,Haut-Sassandra (Région du)
+worldstates_ci-3,base.ci,,Savanes (Région des)
+worldstates_ci-4,base.ci,,Vallée du Bandama (Région de la)
+worldstates_ci-5,base.ci,,Moyen-Comoé (Région du)
+worldstates_ci-6,base.ci,,18 Montagnes (Région des)
+worldstates_ci-7,base.ci,,Lacs (Région des)
+worldstates_ci-8,base.ci,,Zanzan (Région du)
+worldstates_ci-9,base.ci,,Bas-Sassandra (Région du)
+worldstates_ci-10,base.ci,,Denguélé (Région du)
+worldstates_ci-11,base.ci,,Nzi-Comoé (Région)
+worldstates_ci-12,base.ci,,Marahoué (Région de la)
+worldstates_ci-13,base.ci,,Sud-Comoé (Région du)
+worldstates_ci-14,base.ci,,Worodougou (Région du)
+worldstates_ci-15,base.ci,,Sud-Bandama (Région du)
+worldstates_ci-16,base.ci,,Agnébi (Région de l')
+worldstates_ci-17,base.ci,,Bafing (Région du)
+worldstates_ci-18,base.ci,,Fromager (Région du)
+worldstates_ci-19,base.ci,,Moyen-Cavally (Région du)
+worldstates_cl-ai,base.cl,AI,Aysén
+worldstates_cl-an,base.cl,AN,Antofagasta
+worldstates_cl-ap,base.cl,AP,Arica y Parinacota
+worldstates_cl-ar,base.cl,AR,Araucanía
+worldstates_cl-at,base.cl,AT,Atacama
+worldstates_cl-bi,base.cl,BI,Biobío
+worldstates_cl-co,base.cl,CO,Coquimbo
+worldstates_cl-li,base.cl,LI,Libertador General Bernardo O'Higgins
+worldstates_cl-ll,base.cl,LL,Los Lagos
+worldstates_cl-lr,base.cl,LR,Los Ríos
+worldstates_cl-ma,base.cl,MA,Magallanes
+worldstates_cl-ml,base.cl,ML,Maule
+worldstates_cl-rm,base.cl,RM,Región Metropolitana de Santiago
+worldstates_cl-ta,base.cl,TA,Tarapacá
+worldstates_cl-vs,base.cl,VS,Valparaíso
+worldstates_cm-ad,base.cm,AD,Adamaoua
+worldstates_cm-ce,base.cm,CE,Centre
+worldstates_cm-en,base.cm,EN,Far North
+worldstates_cm-es,base.cm,ES,East
+worldstates_cm-lt,base.cm,LT,Littoral
+worldstates_cm-no,base.cm,NO,North
+worldstates_cm-nw,base.cm,NW,North-West
+worldstates_cm-ou,base.cm,OU,West
+worldstates_cm-su,base.cm,SU,South
+worldstates_cm-sw,base.cm,SW,South-West
+worldstates_cn-11,base.cn,,Beijing
+worldstates_cn-12,base.cn,,Tianjin
+worldstates_cn-13,base.cn,,Hebei
+worldstates_cn-14,base.cn,,Shanxi
+worldstates_cn-15,base.cn,,Nei Mongol (mn)
+worldstates_cn-21,base.cn,,Liaoning
+worldstates_cn-22,base.cn,,Jilin
+worldstates_cn-23,base.cn,,Heilongjiang
+worldstates_cn-31,base.cn,,Shanghai
+worldstates_cn-32,base.cn,,Jiangsu
+worldstates_cn-33,base.cn,,Zhejiang
+worldstates_cn-34,base.cn,,Anhui
+worldstates_cn-35,base.cn,,Fujian
+worldstates_cn-36,base.cn,,Jiangxi
+worldstates_cn-37,base.cn,,Shandong
+worldstates_cn-41,base.cn,,Henan
+worldstates_cn-42,base.cn,,Hubei
+worldstates_cn-43,base.cn,,Hunan
+worldstates_cn-44,base.cn,,Guangdong
+worldstates_cn-45,base.cn,,Guangxi
+worldstates_cn-46,base.cn,,Hainan
+worldstates_cn-50,base.cn,,Chongqing
+worldstates_cn-51,base.cn,,Sichuan
+worldstates_cn-52,base.cn,,Guizhou
+worldstates_cn-53,base.cn,,Yunnan
+worldstates_cn-54,base.cn,,Xizang
+worldstates_cn-61,base.cn,,Shaanxi
+worldstates_cn-62,base.cn,,Gansu
+worldstates_cn-63,base.cn,,Qinghai
+worldstates_cn-64,base.cn,,Ningxia
+worldstates_cn-65,base.cn,,Xinjiang
+worldstates_cn-71,base.cn,,Taiwan
+worldstates_cn-91,base.cn,,Xianggang
+worldstates_cn-92,base.cn,,Aomen
+worldstates_co-ama,base.co,AMA,Amazonas
+worldstates_co-ant,base.co,ANT,Antioquia
+worldstates_co-ara,base.co,ARA,Arauca
+worldstates_co-atl,base.co,ATL,Atlántico
+worldstates_co-bol,base.co,BOL,Bolívar
+worldstates_co-boy,base.co,BOY,Boyacá
+worldstates_co-cal,base.co,CAL,Caldas
+worldstates_co-caq,base.co,CAQ,Caquetá
+worldstates_co-cas,base.co,CAS,Casanare
+worldstates_co-cau,base.co,CAU,Cauca
+worldstates_co-ces,base.co,CES,Cesar
+worldstates_co-cho,base.co,CHO,Chocó
+worldstates_co-cor,base.co,COR,Córdoba
+worldstates_co-cun,base.co,CUN,Cundinamarca
+worldstates_co-dc,base.co,DC,Distrito Capital de Bogotá
+worldstates_co-gua,base.co,GUA,Guainía
+worldstates_co-guv,base.co,GUV,Guaviare
+worldstates_co-hui,base.co,HUI,Huila
+worldstates_co-lag,base.co,LAG,La Guajira
+worldstates_co-mag,base.co,MAG,Magdalena
+worldstates_co-met,base.co,MET,Meta
+worldstates_co-nar,base.co,NAR,Nariño
+worldstates_co-nsa,base.co,NSA,Norte de Santander
+worldstates_co-put,base.co,PUT,Putumayo
+worldstates_co-qui,base.co,QUI,Quindío
+worldstates_co-ris,base.co,RIS,Risaralda
+worldstates_co-san,base.co,SAN,Santander
+worldstates_co-sap,base.co,SAP,"San Andrés, Providencia y Santa Catalina"
+worldstates_co-suc,base.co,SUC,Sucre
+worldstates_co-tol,base.co,TOL,Tolima
+worldstates_co-vac,base.co,VAC,Valle del Cauca
+worldstates_co-vau,base.co,VAU,Vaupés
+worldstates_co-vid,base.co,VID,Vichada
+worldstates_cr-a,base.cr,A,Alajuela
+worldstates_cr-c,base.cr,C,Cartago
+worldstates_cr-g,base.cr,G,Guanacaste
+worldstates_cr-h,base.cr,H,Heredia
+worldstates_cr-l,base.cr,L,Limón
+worldstates_cr-p,base.cr,P,Puntarenas
+worldstates_cr-sj,base.cr,SJ,San José
+worldstates_cu-1,base.cu,,Pinar del Río
+worldstates_cu-2,base.cu,,La Habana
+worldstates_cu-3,base.cu,,Ciudad de La Habana
+worldstates_cu-4,base.cu,,Matanzas
+worldstates_cu-5,base.cu,,Villa Clara
+worldstates_cu-6,base.cu,,Cienfuegos
+worldstates_cu-7,base.cu,,Sancti Spíritus
+worldstates_cu-8,base.cu,,Ciego de Ávila
+worldstates_cu-9,base.cu,,Camagüey
+worldstates_cu-10,base.cu,,Las Tunas
+worldstates_cu-11,base.cu,,Holguín
+worldstates_cu-12,base.cu,,Granma
+worldstates_cu-13,base.cu,,Santiago de Cuba
+worldstates_cu-14,base.cu,,Guantánamo
+worldstates_cu-15,base.cu,,Artemisa
+worldstates_cu-16,base.cu,,Mayabeque
+worldstates_cu-99,base.cu,,Isla de la Juventud
+worldstates_cv-br,base.cv,BR,Brava
+worldstates_cv-bv,base.cv,BV,Boa Vista
+worldstates_cv-ca,base.cv,CA,Santa Catarina
+worldstates_cv-cf,base.cv,CF,Santa Catarina do Fogo
+worldstates_cv-cr,base.cv,CR,Santa Cruz
+worldstates_cv-ma,base.cv,MA,Maio
+worldstates_cv-mo,base.cv,MO,Mosteiros
+worldstates_cv-pa,base.cv,PA,Paul
+worldstates_cv-pn,base.cv,PN,Porto Novo
+worldstates_cv-pr,base.cv,PR,Praia
+worldstates_cv-rb,base.cv,RB,Ribeira Brava
+worldstates_cv-rg,base.cv,RG,Ribeira Grande
+worldstates_cv-rs,base.cv,RS,Ribeira Grande de Santiago
+worldstates_cv-sd,base.cv,SD,São Domingos
+worldstates_cv-sf,base.cv,SF,São Filipe
+worldstates_cv-sl,base.cv,SL,Sal
+worldstates_cv-sm,base.cv,SM,São Miguel
+worldstates_cv-so,base.cv,SO,São Lourenço dos Órgãos
+worldstates_cv-ss,base.cv,SS,São Salvador do Mundo
+worldstates_cv-sv,base.cv,SV,São Vicente
+worldstates_cv-ta,base.cv,TA,Tarrafal
+worldstates_cv-ts,base.cv,TS,Tarrafal de São Nicolau
+worldstates_cy-1,base.cy,,Lefkosia
+worldstates_cy-2,base.cy,,Lemesos
+worldstates_cy-3,base.cy,,Larnaka
+worldstates_cy-4,base.cy,,Ammochostos
+worldstates_cy-5,base.cy,,Pafos
+worldstates_cy-6,base.cy,,Keryneia
+worldstates_cz-jc,base.cz,JC,Jihočeský kraj
+worldstates_cz-jm,base.cz,JM,Jihomoravský kraj
+worldstates_cz-ka,base.cz,KA,Karlovarský kraj
+worldstates_cz-kr,base.cz,KR,Královéhradecký kraj
+worldstates_cz-li,base.cz,LI,Liberecký kraj
+worldstates_cz-mo,base.cz,MO,Moravskoslezský kraj
+worldstates_cz-ol,base.cz,OL,Olomoucký kraj
+worldstates_cz-pa,base.cz,PA,Pardubický kraj
+worldstates_cz-pl,base.cz,PL,Plzeňský kraj
+worldstates_cz-pr,base.cz,PR,"Praha, hlavní město"
+worldstates_cz-st,base.cz,ST,Středočeský kraj
+worldstates_cz-us,base.cz,US,Ústecký kraj
+worldstates_cz-vy,base.cz,VY,Vysočina
+worldstates_cz-zl,base.cz,ZL,Zlínský kraj
+worldstates_de-bb,base.de,BB,Brandenburg
+worldstates_de-be,base.de,BE,Berlin
+worldstates_de-bw,base.de,BW,Baden-Württemberg
+worldstates_de-by,base.de,BY,Bayern
+worldstates_de-hb,base.de,HB,Bremen
+worldstates_de-he,base.de,HE,Hessen
+worldstates_de-hh,base.de,HH,Hamburg
+worldstates_de-mv,base.de,MV,Mecklenburg-Vorpommern
+worldstates_de-ni,base.de,NI,Niedersachsen
+worldstates_de-nw,base.de,NW,Nordrhein-Westfalen
+worldstates_de-rp,base.de,RP,Rheinland-Pfalz
+worldstates_de-sh,base.de,SH,Schleswig-Holstein
+worldstates_de-sl,base.de,SL,Saarland
+worldstates_de-sn,base.de,SN,Sachsen
+worldstates_de-st,base.de,ST,Sachsen-Anhalt
+worldstates_de-th,base.de,TH,Thüringen
+worldstates_dj-ar,base.dj,AR,Arta
+worldstates_dj-as,base.dj,AS,Ali Sabieh
+worldstates_dj-di,base.dj,DI,Dikhil
+worldstates_dj-dj,base.dj,DJ,Djibouti
+worldstates_dj-ob,base.dj,OB,Obock
+worldstates_dj-ta,base.dj,TA,Tadjourah
+worldstates_dk-81,base.dk,,Nordjylland
+worldstates_dk-82,base.dk,,Midtjylland
+worldstates_dk-83,base.dk,,Syddanmark
+worldstates_dk-84,base.dk,,Hovedstaden
+worldstates_dk-85,base.dk,,Sjælland
+worldstates_dm-2,base.dm,,Saint Andrew
+worldstates_dm-3,base.dm,,Saint David
+worldstates_dm-4,base.dm,,Saint George
+worldstates_dm-5,base.dm,,Saint John
+worldstates_dm-6,base.dm,,Saint Joseph
+worldstates_dm-7,base.dm,,Saint Luke
+worldstates_dm-8,base.dm,,Saint Mark
+worldstates_dm-9,base.dm,,Saint Patrick
+worldstates_dm-10,base.dm,,Saint Paul
+worldstates_dm-11,base.dm,,Saint Peter
+worldstates_do-1,base.do,,Distrito Nacional (Santo Domingo)
+worldstates_do-2,base.do,,Azua
+worldstates_do-3,base.do,,Baoruco
+worldstates_do-4,base.do,,Barahona
+worldstates_do-5,base.do,,Dajabón
+worldstates_do-6,base.do,,Duarte
+worldstates_do-7,base.do,,La Estrelleta [Elías Piña]
+worldstates_do-8,base.do,,El Seibo
+worldstates_do-9,base.do,,Espaillat
+worldstates_do-10,base.do,,Independencia
+worldstates_do-11,base.do,,La Altagracia
+worldstates_do-12,base.do,,La Romana
+worldstates_do-13,base.do,,La Vega
+worldstates_do-14,base.do,,María Trinidad Sánchez
+worldstates_do-15,base.do,,Monte Cristi
+worldstates_do-16,base.do,,Pedernales
+worldstates_do-17,base.do,,Peravia
+worldstates_do-18,base.do,,Puerto Plata
+worldstates_do-19,base.do,,Hermanas Mirabal
+worldstates_do-20,base.do,,Samaná
+worldstates_do-21,base.do,,San Cristóbal
+worldstates_do-22,base.do,,San Juan
+worldstates_do-23,base.do,,San Pedro de Macorís
+worldstates_do-24,base.do,,Sánchez Ramírez
+worldstates_do-25,base.do,,Santiago
+worldstates_do-26,base.do,,Santiago Rodríguez
+worldstates_do-27,base.do,,Valverde
+worldstates_do-28,base.do,,Monseñor Nouel
+worldstates_do-29,base.do,,Monte Plata
+worldstates_do-30,base.do,,Hato Mayor
+worldstates_do-31,base.do,,San José de Ocoa
+worldstates_do-32,base.do,,Santo Domingo
+worldstates_do-33,base.do,,Cibao Nordeste
+worldstates_do-34,base.do,,Cibao Noroeste
+worldstates_do-35,base.do,,Cibao Norte
+worldstates_do-36,base.do,,Cibao Sur
+worldstates_do-37,base.do,,El Valle
+worldstates_do-38,base.do,,Enriquillo
+worldstates_do-39,base.do,,Higuamo
+worldstates_do-40,base.do,,Ozama
+worldstates_do-41,base.do,,Valdesia
+worldstates_do-42,base.do,,Yuma
+worldstates_dz-1,base.dz,,Adrar
+worldstates_dz-2,base.dz,,Chlef
+worldstates_dz-3,base.dz,,Laghouat
+worldstates_dz-4,base.dz,,Oum el Bouaghi
+worldstates_dz-5,base.dz,,Batna
+worldstates_dz-6,base.dz,,Béjaïa
+worldstates_dz-7,base.dz,,Biskra
+worldstates_dz-8,base.dz,,Béchar
+worldstates_dz-9,base.dz,,Blida
+worldstates_dz-10,base.dz,,Bouira
+worldstates_dz-11,base.dz,,Tamanrasset
+worldstates_dz-12,base.dz,,Tébessa
+worldstates_dz-13,base.dz,,Tlemcen
+worldstates_dz-14,base.dz,,Tiaret
+worldstates_dz-15,base.dz,,Tizi Ouzou
+worldstates_dz-16,base.dz,,Alger
+worldstates_dz-17,base.dz,,Djelfa
+worldstates_dz-18,base.dz,,Jijel
+worldstates_dz-19,base.dz,,Sétif
+worldstates_dz-20,base.dz,,Saïda
+worldstates_dz-21,base.dz,,Skikda
+worldstates_dz-22,base.dz,,Sidi Bel Abbès
+worldstates_dz-23,base.dz,,Annaba
+worldstates_dz-24,base.dz,,Guelma
+worldstates_dz-25,base.dz,,Constantine
+worldstates_dz-26,base.dz,,Médéa
+worldstates_dz-27,base.dz,,Mostaganem
+worldstates_dz-28,base.dz,,Msila
+worldstates_dz-29,base.dz,,Mascara
+worldstates_dz-30,base.dz,,Ouargla
+worldstates_dz-31,base.dz,,Oran
+worldstates_dz-32,base.dz,,El Bayadh
+worldstates_dz-33,base.dz,,Illizi
+worldstates_dz-34,base.dz,,Bordj Bou Arréridj
+worldstates_dz-35,base.dz,,Boumerdès
+worldstates_dz-36,base.dz,,El Tarf
+worldstates_dz-37,base.dz,,Tindouf
+worldstates_dz-38,base.dz,,Tissemsilt
+worldstates_dz-39,base.dz,,El Oued
+worldstates_dz-40,base.dz,,Khenchela
+worldstates_dz-41,base.dz,,Souk Ahras
+worldstates_dz-42,base.dz,,Tipaza
+worldstates_dz-43,base.dz,,Mila
+worldstates_dz-44,base.dz,,Aïn Defla
+worldstates_dz-45,base.dz,,Naama
+worldstates_dz-46,base.dz,,Aïn Témouchent
+worldstates_dz-47,base.dz,,Ghardaïa
+worldstates_dz-48,base.dz,,Relizane
+worldstates_ec-a,base.ec,A,Azuay
+worldstates_ec-b,base.ec,B,Bolívar
+worldstates_ec-c,base.ec,C,Carchi
+worldstates_ec-d,base.ec,D,Orellana
+worldstates_ec-e,base.ec,E,Esmeraldas
+worldstates_ec-f,base.ec,F,Cañar
+worldstates_ec-g,base.ec,G,Guayas
+worldstates_ec-h,base.ec,H,Chimborazo
+worldstates_ec-i,base.ec,I,Imbabura
+worldstates_ec-l,base.ec,L,Loja
+worldstates_ec-m,base.ec,M,Manabí
+worldstates_ec-n,base.ec,N,Napo
+worldstates_ec-o,base.ec,O,El Oro
+worldstates_ec-p,base.ec,P,Pichincha
+worldstates_ec-r,base.ec,R,Los Ríos
+worldstates_ec-s,base.ec,S,Morona-Santiago
+worldstates_ec-sd,base.ec,SD,Santo Domingo de los Tsáchilas
+worldstates_ec-se,base.ec,SE,Santa Elena
+worldstates_ec-t,base.ec,T,Tungurahua
+worldstates_ec-u,base.ec,U,Sucumbíos
+worldstates_ec-w,base.ec,W,Galápagos
+worldstates_ec-x,base.ec,X,Cotopaxi
+worldstates_ec-y,base.ec,Y,Pastaza
+worldstates_ec-z,base.ec,Z,Zamora-Chinchipe
+worldstates_ee-37,base.ee,,Harjumaa
+worldstates_ee-39,base.ee,,Hiiumaa
+worldstates_ee-44,base.ee,,Ida-Virumaa
+worldstates_ee-49,base.ee,,Jõgevamaa
+worldstates_ee-51,base.ee,,Järvamaa
+worldstates_ee-57,base.ee,,Läänemaa
+worldstates_ee-59,base.ee,,Lääne-Virumaa
+worldstates_ee-65,base.ee,,Põlvamaa
+worldstates_ee-67,base.ee,,Pärnumaa
+worldstates_ee-70,base.ee,,Raplamaa
+worldstates_ee-74,base.ee,,Saaremaa
+worldstates_ee-78,base.ee,,Tartumaa
+worldstates_ee-82,base.ee,,Valgamaa
+worldstates_ee-84,base.ee,,Viljandimaa
+worldstates_ee-86,base.ee,,Võrumaa
+worldstates_eg-alx,base.eg,ALX,AI Iskandarīyah
+worldstates_eg-asn,base.eg,ASN,Aswān
+worldstates_eg-ast,base.eg,AST,Asyūţ
+worldstates_eg-ba,base.eg,BA,Al Baḩr al Aḩmar
+worldstates_eg-bh,base.eg,BH,Al Buḩayrah
+worldstates_eg-bns,base.eg,BNS,Banī Suwayf
+worldstates_eg-c,base.eg,C,AI Qāhirah
+worldstates_eg-dk,base.eg,DK,Ad Daqahlīyah
+worldstates_eg-dt,base.eg,DT,Dumyāţ
+worldstates_eg-fym,base.eg,FYM,AI Fayyūm
+worldstates_eg-gh,base.eg,GH,AI Gharbīyah
+worldstates_eg-gz,base.eg,GZ,AI Jīzah
+worldstates_eg-is,base.eg,IS,AI Ismā 'īlīyah
+worldstates_eg-js,base.eg,JS,Janūb Sīnā'
+worldstates_eg-kb,base.eg,KB,AI Qalyūbīyah
+worldstates_eg-kfs,base.eg,KFS,Kafr ash Shaykh
+worldstates_eg-kn,base.eg,KN,Qinā
+worldstates_eg-lx,base.eg,LX,Al Uqşur
+worldstates_eg-mn,base.eg,MN,AI Minyā
+worldstates_eg-mnf,base.eg,MNF,AI Minūfīyah
+worldstates_eg-mt,base.eg,MT,Maţrūh
+worldstates_eg-pts,base.eg,PTS,Būr Sa'īd
+worldstates_eg-shg,base.eg,SHG,Sūhāj
+worldstates_eg-shr,base.eg,SHR,Ash Sharqīyah
+worldstates_eg-sin,base.eg,SIN,Shamāl Sīnā'
+worldstates_eg-suz,base.eg,SUZ,As Suways
+worldstates_eg-wad,base.eg,WAD,AI Wādī al Jadīd
+worldstates_er-an,base.er,AN,‘Anseba
+worldstates_er-dk,base.er,DK,Debubawi K’eyyĭḥ Baḥri
+worldstates_er-du,base.er,DU,Debub
+worldstates_er-gb,base.er,GB,Gash-Barka
+worldstates_er-ma,base.er,MA,Ma’ĭkel
+worldstates_er-sk,base.er,SK,Semienawi K’eyyĭḥ Baḥri
+worldstates_es-a,base.es,A,Alicante / Alacant
+worldstates_es-ab,base.es,AB,Albacete
+worldstates_es-al,base.es,AL,Almería
+worldstates_es-av,base.es,AV,Ávila
+worldstates_es-b,base.es,B,Barcelona  [Barcelona]
+worldstates_es-ba,base.es,BA,Badajoz
+worldstates_es-bi,base.es,BI,Biskaia
+worldstates_es-bu,base.es,BU,Burgos
+worldstates_es-c,base.es,C,A Coruña  [La Coruña]
+worldstates_es-ca,base.es,CA,Cádiz
+worldstates_es-cc,base.es,CC,Cáceres
+worldstates_es-ce,base.es,CE,Ceuta
+worldstates_es-co,base.es,CO,Córdoba
+worldstates_es-cr,base.es,CR,Ciudad Real
+worldstates_es-cs,base.es,CS,Castellón / Castelló
+worldstates_es-cu,base.es,CU,Cuenca
+worldstates_es-gc,base.es,GC,Las Palmas
+worldstates_es-gi,base.es,GI,Girona  [Gerona]
+worldstates_es-gr,base.es,GR,Granada
+worldstates_es-gu,base.es,GU,Guadalajara
+worldstates_es-h,base.es,H,Huelva
+worldstates_es-hu,base.es,HU,Huesca
+worldstates_es-j,base.es,J,Jaén
+worldstates_es-l,base.es,L,Lleida  [Lérida]
+worldstates_es-le,base.es,LE,León
+worldstates_es-lo,base.es,LO,La Rioja
+worldstates_es-lu,base.es,LU,Lugo  [Lugo]
+worldstates_es-m,base.es,M,Madrid
+worldstates_es-ma,base.es,MA,Málaga
+worldstates_es-ml,base.es,ML,Melilla
+worldstates_es-mu,base.es,MU,Murcia
+worldstates_es-na,base.es,NA,Navarra / Nafarroa
+worldstates_es-o,base.es,O,Asturias
+worldstates_es-or,base.es,OR,Ourense  [Orense]
+worldstates_es-p,base.es,P,Palencia
+worldstates_es-pm,base.es,PM,Balears  [Baleares]
+worldstates_es-po,base.es,PO,Pontevedra  [Pontevedra]
+worldstates_es-s,base.es,S,Cantabria
+worldstates_es-sa,base.es,SA,Salamanca
+worldstates_es-se,base.es,SE,Sevilla
+worldstates_es-sg,base.es,SG,Segovia
+worldstates_es-so,base.es,SO,Soria
+worldstates_es-ss,base.es,SS,Gipuzkoa
+worldstates_es-t,base.es,T,Tarragona  [Tarragona]
+worldstates_es-te,base.es,TE,Teruel
+worldstates_es-tf,base.es,TF,Santa Cruz de Tenerife
+worldstates_es-to,base.es,TO,Toledo
+worldstates_es-v,base.es,V,Valencia / València
+worldstates_es-va,base.es,VA,Valladolid
+worldstates_es-vi,base.es,VI,Álava / Araba
+worldstates_es-z,base.es,Z,Zaragoza
+worldstates_es-za,base.es,ZA,Zamora
+worldstates_et-aa,base.et,AA,Ādīs Ābeba
+worldstates_et-af,base.et,AF,Āfar
+worldstates_et-am,base.et,AM,Āmara
+worldstates_et-be,base.et,BE,Bīnshangul Gumuz
+worldstates_et-dd,base.et,DD,Dirē Dawa
+worldstates_et-ga,base.et,GA,Gambēla Hizboch
+worldstates_et-ha,base.et,HA,Hārerī Hizb
+worldstates_et-or,base.et,OR,Oromīya
+worldstates_et-sn,base.et,SN,YeDebub Bihēroch Bihēreseboch na Hizboch
+worldstates_et-so,base.et,SO,Sumalē
+worldstates_et-ti,base.et,TI,Tigray
+worldstates_fi-1,base.fi,,Ahvenanmaan maakunta
+worldstates_fi-2,base.fi,,Etelä-Karjala
+worldstates_fi-3,base.fi,,Etelä-Pohjanmaa
+worldstates_fi-4,base.fi,,Etelä-Savo
+worldstates_fi-5,base.fi,,Kainuu
+worldstates_fi-6,base.fi,,Kanta-Häme
+worldstates_fi-7,base.fi,,Keski-Pohjanmaa
+worldstates_fi-8,base.fi,,Keski-Suomi
+worldstates_fi-9,base.fi,,Kymenlaakso
+worldstates_fi-10,base.fi,,Lappi
+worldstates_fi-11,base.fi,,Pirkanmaa
+worldstates_fi-12,base.fi,,Pohjanmaa
+worldstates_fi-13,base.fi,,Pohjois-Karjala
+worldstates_fi-14,base.fi,,Pohjois-Pohjanmaa
+worldstates_fi-15,base.fi,,Pohjois-Savo
+worldstates_fi-16,base.fi,,Päijät-Häme
+worldstates_fi-17,base.fi,,Satakunta
+worldstates_fi-18,base.fi,,Uusimaa
+worldstates_fi-19,base.fi,,Varsinais-Suomi
+worldstates_fj-1,base.fj,,Ba
+worldstates_fj-2,base.fj,,Bua
+worldstates_fj-3,base.fj,,Cakaudrove
+worldstates_fj-4,base.fj,,Kadavu
+worldstates_fj-5,base.fj,,Lau
+worldstates_fj-6,base.fj,,Lomaiviti
+worldstates_fj-7,base.fj,,Macuata
+worldstates_fj-8,base.fj,,Nadroga and Navosa
+worldstates_fj-9,base.fj,,Naitasiri
+worldstates_fj-10,base.fj,,Namosi
+worldstates_fj-11,base.fj,,Ra
+worldstates_fj-12,base.fj,,Rewa
+worldstates_fj-13,base.fj,,Serua
+worldstates_fj-14,base.fj,,Tailevu
+worldstates_fj-c,base.fj,C,Central
+worldstates_fj-e,base.fj,E,Eastern
+worldstates_fj-n,base.fj,N,Northern
+worldstates_fj-r,base.fj,R,Rotuma
+worldstates_fj-w,base.fj,W,Western
+worldstates_fm-ksa,base.fm,KSA,Kosrae
+worldstates_fm-pni,base.fm,PNI,Pohnpei
+worldstates_fm-trk,base.fm,TRK,Chuuk
+worldstates_fm-yap,base.fm,YAP,Yap
+worldstates_fr-1,base.fr,,Ain
+worldstates_fr-2,base.fr,,Aisne
+worldstates_fr-3,base.fr,,Allier
+worldstates_fr-4,base.fr,,Alpes-de-Haute-Provence
+worldstates_fr-5,base.fr,,Hautes-Alpes
+worldstates_fr-6,base.fr,,Alpes-Maritimes
+worldstates_fr-7,base.fr,,Ardèche
+worldstates_fr-8,base.fr,,Ardennes
+worldstates_fr-9,base.fr,,Ariège
+worldstates_fr-10,base.fr,,Aube
+worldstates_fr-11,base.fr,,Aude
+worldstates_fr-12,base.fr,,Aveyron
+worldstates_fr-13,base.fr,,Bouches-du-Rhône
+worldstates_fr-14,base.fr,,Calvados
+worldstates_fr-15,base.fr,,Cantal
+worldstates_fr-16,base.fr,,Charente
+worldstates_fr-17,base.fr,,Charente-Maritime
+worldstates_fr-18,base.fr,,Cher
+worldstates_fr-19,base.fr,,Corrèze
+worldstates_fr-21,base.fr,,Côte-d'Or
+worldstates_fr-22,base.fr,,Côtes-d'Armor
+worldstates_fr-23,base.fr,,Creuse
+worldstates_fr-24,base.fr,,Dordogne
+worldstates_fr-25,base.fr,,Doubs
+worldstates_fr-26,base.fr,,Drôme
+worldstates_fr-27,base.fr,,Eure
+worldstates_fr-28,base.fr,,Eure-et-Loir
+worldstates_fr-29,base.fr,,Finistère
+worldstates_fr-2a,base.fr,2A,Corse-du-Sud
+worldstates_fr-2b,base.fr,2B,Haute-Corse
+worldstates_fr-30,base.fr,,Gard
+worldstates_fr-31,base.fr,,Haute-Garonne
+worldstates_fr-32,base.fr,,Gers
+worldstates_fr-33,base.fr,,Gironde
+worldstates_fr-34,base.fr,,Hérault
+worldstates_fr-35,base.fr,,Ille-et-Vilaine
+worldstates_fr-36,base.fr,,Indre
+worldstates_fr-37,base.fr,,Indre-et-Loire
+worldstates_fr-38,base.fr,,Isère
+worldstates_fr-39,base.fr,,Jura
+worldstates_fr-40,base.fr,,Landes
+worldstates_fr-41,base.fr,,Loir-et-Cher
+worldstates_fr-42,base.fr,,Loire
+worldstates_fr-43,base.fr,,Haute-Loire
+worldstates_fr-44,base.fr,,Loire-Atlantique
+worldstates_fr-45,base.fr,,Loiret
+worldstates_fr-46,base.fr,,Lot
+worldstates_fr-47,base.fr,,Lot-et-Garonne
+worldstates_fr-48,base.fr,,Lozère
+worldstates_fr-49,base.fr,,Maine-et-Loire
+worldstates_fr-50,base.fr,,Manche
+worldstates_fr-51,base.fr,,Marne
+worldstates_fr-52,base.fr,,Haute-Marne
+worldstates_fr-53,base.fr,,Mayenne
+worldstates_fr-54,base.fr,,Meurthe-et-Moselle
+worldstates_fr-55,base.fr,,Meuse
+worldstates_fr-56,base.fr,,Morbihan
+worldstates_fr-57,base.fr,,Moselle
+worldstates_fr-58,base.fr,,Nièvre
+worldstates_fr-59,base.fr,,Nord
+worldstates_fr-60,base.fr,,Oise
+worldstates_fr-61,base.fr,,Orne
+worldstates_fr-62,base.fr,,Pas-de-Calais
+worldstates_fr-63,base.fr,,Puy-de-Dôme
+worldstates_fr-64,base.fr,,Pyrénées-Atlantiques
+worldstates_fr-65,base.fr,,Hautes-Pyrénées
+worldstates_fr-66,base.fr,,Pyrénées-Orientales
+worldstates_fr-67,base.fr,,Bas-Rhin
+worldstates_fr-68,base.fr,,Haut-Rhin
+worldstates_fr-69,base.fr,,Rhône
+worldstates_fr-70,base.fr,,Haute-Saône
+worldstates_fr-71,base.fr,,Saône-et-Loire
+worldstates_fr-72,base.fr,,Sarthe
+worldstates_fr-73,base.fr,,Savoie
+worldstates_fr-74,base.fr,,Haute-Savoie
+worldstates_fr-75,base.fr,,Paris
+worldstates_fr-76,base.fr,,Seine-Maritime
+worldstates_fr-77,base.fr,,Seine-et-Marne
+worldstates_fr-78,base.fr,,Yvelines
+worldstates_fr-79,base.fr,,Deux-Sèvres
+worldstates_fr-80,base.fr,,Somme
+worldstates_fr-81,base.fr,,Tarn
+worldstates_fr-82,base.fr,,Tarn-et-Garonne
+worldstates_fr-83,base.fr,,Var
+worldstates_fr-84,base.fr,,Vaucluse
+worldstates_fr-85,base.fr,,Vendée
+worldstates_fr-86,base.fr,,Vienne
+worldstates_fr-87,base.fr,,Haute-Vienne
+worldstates_fr-88,base.fr,,Vosges
+worldstates_fr-89,base.fr,,Yonne
+worldstates_fr-90,base.fr,,Territoire de Belfort
+worldstates_fr-91,base.fr,,Essonne
+worldstates_fr-92,base.fr,,Hauts-de-Seine
+worldstates_fr-93,base.fr,,Seine-Saint-Denis
+worldstates_fr-94,base.fr,,Val-de-Marne
+worldstates_fr-95,base.fr,,Val-d'Oise
+worldstates_ga-1,base.ga,,Estuaire
+worldstates_ga-2,base.ga,,Haut-Ogooué
+worldstates_ga-3,base.ga,,Moyen-Ogooué
+worldstates_ga-4,base.ga,,Ngounié
+worldstates_ga-5,base.ga,,Nyanga
+worldstates_ga-6,base.ga,,Ogooué-Ivindo
+worldstates_ga-7,base.ga,,Ogooué-Lolo
+worldstates_ga-8,base.ga,,Ogooué-Maritime
+worldstates_ga-9,base.ga,,Woleu-Ntem
+worldstates_gb-abd,base.gb,ABD,Aberdeenshire
+worldstates_gb-abe,base.gb,ABE,Aberdeen City
+worldstates_gb-agb,base.gb,AGB,Argyll and Bute
+worldstates_gb-agy,base.gb,AGY,Isle of Anglesey [Sir Ynys Môn GB-YNM]
+worldstates_gb-ans,base.gb,ANS,Angus
+worldstates_gb-ant,base.gb,ANT,Antrim
+worldstates_gb-ard,base.gb,ARD,Ards
+worldstates_gb-arm,base.gb,ARM,Armagh
+worldstates_gb-bas,base.gb,BAS,Bath and North East Somerset
+worldstates_gb-bbd,base.gb,BBD,Blackburn with Darwen
+worldstates_gb-bdf,base.gb,BDF,Bedford
+worldstates_gb-bdg,base.gb,BDG,Barking and Dagenham
+worldstates_gb-ben,base.gb,BEN,Brent
+worldstates_gb-bex,base.gb,BEX,Bexley
+worldstates_gb-bfs,base.gb,BFS,Belfast
+worldstates_gb-bge,base.gb,BGE,Bridgend [Pen-y-bont ar Ogwr GB-POG]
+worldstates_gb-bgw,base.gb,BGW,Blaenau Gwent
+worldstates_gb-bir,base.gb,BIR,Birmingham
+worldstates_gb-bkm,base.gb,BKM,Buckinghamshire
+worldstates_gb-bla,base.gb,BLA,Ballymena
+worldstates_gb-bly,base.gb,BLY,Ballymoney
+worldstates_gb-bmh,base.gb,BMH,Bournemouth
+worldstates_gb-bnb,base.gb,BNB,Banbridge
+worldstates_gb-bne,base.gb,BNE,Barnet
+worldstates_gb-bnh,base.gb,BNH,Brighton and Hove
+worldstates_gb-bns,base.gb,BNS,Barnsley
+worldstates_gb-bol,base.gb,BOL,Bolton
+worldstates_gb-bpl,base.gb,BPL,Blackpool
+worldstates_gb-brc,base.gb,BRC,Bracknell Forest
+worldstates_gb-brd,base.gb,BRD,Bradford
+worldstates_gb-bry,base.gb,BRY,Bromley
+worldstates_gb-bst,base.gb,BST,"Bristol, City of"
+worldstates_gb-bur,base.gb,BUR,Bury
+worldstates_gb-cam,base.gb,CAM,Cambridgeshire
+worldstates_gb-cay,base.gb,CAY,Caerphilly [Caerffili GB-CAF]
+worldstates_gb-cbf,base.gb,CBF,Central Bedfordshire
+worldstates_gb-cgn,base.gb,CGN,Ceredigion [Sir Ceredigion]
+worldstates_gb-cgv,base.gb,CGV,Craigavon
+worldstates_gb-che,base.gb,CHE,Cheshire East
+worldstates_gb-chw,base.gb,CHW,Cheshire West and Chester
+worldstates_gb-ckf,base.gb,CKF,Carrickfergus
+worldstates_gb-ckt,base.gb,CKT,Cookstown
+worldstates_gb-cld,base.gb,CLD,Calderdale
+worldstates_gb-clk,base.gb,CLK,Clackmannanshire
+worldstates_gb-clr,base.gb,CLR,Coleraine
+worldstates_gb-cma,base.gb,CMA,Cumbria
+worldstates_gb-cmd,base.gb,CMD,Camden
+worldstates_gb-cmn,base.gb,CMN,Carmarthenshire [Sir Gaerfyrddin GB-GFY]
+worldstates_gb-con,base.gb,CON,Cornwall
+worldstates_gb-cov,base.gb,COV,Coventry
+worldstates_gb-crf,base.gb,CRF,Cardiff [Caerdydd GB-CRD]
+worldstates_gb-cry,base.gb,CRY,Croydon
+worldstates_gb-csr,base.gb,CSR,Castlereagh
+worldstates_gb-cwy,base.gb,CWY,Conwy
+worldstates_gb-dal,base.gb,DAL,Darlington
+worldstates_gb-dby,base.gb,DBY,Derbyshire
+worldstates_gb-den,base.gb,DEN,Denbighshire [Sir Ddinbych GB-DDB]
+worldstates_gb-der,base.gb,DER,Derby
+worldstates_gb-dev,base.gb,DEV,Devon
+worldstates_gb-dgn,base.gb,DGN,Dungannon and South Tyrone
+worldstates_gb-dgy,base.gb,DGY,Dumfries and Galloway
+worldstates_gb-dnc,base.gb,DNC,Doncaster
+worldstates_gb-dnd,base.gb,DND,Dundee City
+worldstates_gb-dor,base.gb,DOR,Dorset
+worldstates_gb-dow,base.gb,DOW,Down
+worldstates_gb-dry,base.gb,DRY,Derry
+worldstates_gb-dud,base.gb,DUD,Dudley
+worldstates_gb-dur,base.gb,DUR,Durham
+worldstates_gb-eal,base.gb,EAL,Ealing
+worldstates_gb-eay,base.gb,EAY,East Ayrshire
+worldstates_gb-edh,base.gb,EDH,"Edinburgh, City of"
+worldstates_gb-edu,base.gb,EDU,East Dunbartonshire
+worldstates_gb-eln,base.gb,ELN,East Lothian
+worldstates_gb-els,base.gb,ELS,Eilean Siar
+worldstates_gb-enf,base.gb,ENF,Enfield
+worldstates_gb-erw,base.gb,ERW,East Renfrewshire
+worldstates_gb-ery,base.gb,ERY,East Riding of Yorkshire
+worldstates_gb-ess,base.gb,ESS,Essex
+worldstates_gb-esx,base.gb,ESX,East Sussex
+worldstates_gb-fal,base.gb,FAL,Falkirk
+worldstates_gb-fer,base.gb,FER,Fermanagh
+worldstates_gb-fif,base.gb,FIF,Fife
+worldstates_gb-fln,base.gb,FLN,Flintshire [Sir y Fflint GB-FFL]
+worldstates_gb-gat,base.gb,GAT,Gateshead
+worldstates_gb-glg,base.gb,GLG,Glasgow City
+worldstates_gb-gls,base.gb,GLS,Gloucestershire
+worldstates_gb-gre,base.gb,GRE,Greenwich
+worldstates_gb-gwn,base.gb,GWN,Gwynedd
+worldstates_gb-hal,base.gb,HAL,Halton
+worldstates_gb-ham,base.gb,HAM,Hampshire
+worldstates_gb-hav,base.gb,HAV,Havering
+worldstates_gb-hck,base.gb,HCK,Hackney
+worldstates_gb-hef,base.gb,HEF,Herefordshire
+worldstates_gb-hil,base.gb,HIL,Hillingdon
+worldstates_gb-hld,base.gb,HLD,Highland
+worldstates_gb-hmf,base.gb,HMF,Hammersmith and Fulham
+worldstates_gb-hns,base.gb,HNS,Hounslow
+worldstates_gb-hpl,base.gb,HPL,Hartlepool
+worldstates_gb-hrt,base.gb,HRT,Hertfordshire
+worldstates_gb-hrw,base.gb,HRW,Harrow
+worldstates_gb-hry,base.gb,HRY,Haringey
+worldstates_gb-ios,base.gb,IOS,Isles of Scilly
+worldstates_gb-iow,base.gb,IOW,Isle of Wight
+worldstates_gb-isl,base.gb,ISL,Islington
+worldstates_gb-ivc,base.gb,IVC,Inverclyde
+worldstates_gb-kec,base.gb,KEC,Kensington and Chelsea
+worldstates_gb-ken,base.gb,KEN,Kent
+worldstates_gb-khl,base.gb,KHL,Kingston upon Hull
+worldstates_gb-kir,base.gb,KIR,Kirklees
+worldstates_gb-ktt,base.gb,KTT,Kingston upon Thames
+worldstates_gb-kwl,base.gb,KWL,Knowsley
+worldstates_gb-lan,base.gb,LAN,Lancashire
+worldstates_gb-lbh,base.gb,LBH,Lambeth
+worldstates_gb-lce,base.gb,LCE,Leicester
+worldstates_gb-lds,base.gb,LDS,Leeds
+worldstates_gb-lec,base.gb,LEC,Leicestershire
+worldstates_gb-lew,base.gb,LEW,Lewisham
+worldstates_gb-lin,base.gb,LIN,Lincolnshire
+worldstates_gb-liv,base.gb,LIV,Liverpool
+worldstates_gb-lmv,base.gb,LMV,Limavady
+worldstates_gb-lnd,base.gb,LND,"London, City of"
+worldstates_gb-lrn,base.gb,LRN,Larne
+worldstates_gb-lsb,base.gb,LSB,Lisburn
+worldstates_gb-lut,base.gb,LUT,Luton
+worldstates_gb-man,base.gb,MAN,Manchester
+worldstates_gb-mdb,base.gb,MDB,Middlesbrough
+worldstates_gb-mdw,base.gb,MDW,Medway
+worldstates_gb-mft,base.gb,MFT,Magherafelt
+worldstates_gb-mik,base.gb,MIK,Milton Keynes
+worldstates_gb-mln,base.gb,MLN,Midlothian
+worldstates_gb-mon,base.gb,MON,Monmouthshire [Sir Fynwy GB-FYN]
+worldstates_gb-mrt,base.gb,MRT,Merton
+worldstates_gb-mry,base.gb,MRY,Moray
+worldstates_gb-mty,base.gb,MTY,Merthyr Tydfil [Merthyr Tudful GB-MTU]
+worldstates_gb-myl,base.gb,MYL,Moyle
+worldstates_gb-nay,base.gb,NAY,North Ayrshire
+worldstates_gb-nbl,base.gb,NBL,Northumberland
+worldstates_gb-ndn,base.gb,NDN,North Down
+worldstates_gb-nel,base.gb,NEL,North East Lincolnshire
+worldstates_gb-net,base.gb,NET,Newcastle upon Tyne
+worldstates_gb-nfk,base.gb,NFK,Norfolk
+worldstates_gb-ngm,base.gb,NGM,Nottingham
+worldstates_gb-nlk,base.gb,NLK,North Lanarkshire
+worldstates_gb-nln,base.gb,NLN,North Lincolnshire
+worldstates_gb-nsm,base.gb,NSM,North Somerset
+worldstates_gb-nta,base.gb,NTA,Newtownabbey
+worldstates_gb-nth,base.gb,NTH,Northamptonshire
+worldstates_gb-ntl,base.gb,NTL,Neath Port Talbot [Castell-nedd Port Talbot GB-CTL]
+worldstates_gb-ntt,base.gb,NTT,Nottinghamshire
+worldstates_gb-nty,base.gb,NTY,North Tyneside
+worldstates_gb-nwm,base.gb,NWM,Newham
+worldstates_gb-nwp,base.gb,NWP,Newport [Casnewydd GB-CNW]
+worldstates_gb-nyk,base.gb,NYK,North Yorkshire
+worldstates_gb-nym,base.gb,NYM,Newry and Mourne
+worldstates_gb-old,base.gb,OLD,Oldham
+worldstates_gb-omh,base.gb,OMH,Omagh
+worldstates_gb-ork,base.gb,ORK,Orkney Islands
+worldstates_gb-oxf,base.gb,OXF,Oxfordshire
+worldstates_gb-pem,base.gb,PEM,Pembrokeshire [Sir Benfro GB-BNF]
+worldstates_gb-pkn,base.gb,PKN,Perth and Kinross
+worldstates_gb-ply,base.gb,PLY,Plymouth
+worldstates_gb-pol,base.gb,POL,Poole
+worldstates_gb-por,base.gb,POR,Portsmouth
+worldstates_gb-pow,base.gb,POW,Powys
+worldstates_gb-pte,base.gb,PTE,Peterborough
+worldstates_gb-rcc,base.gb,RCC,Redcar and Cleveland
+worldstates_gb-rch,base.gb,RCH,Rochdale
+worldstates_gb-rct,base.gb,RCT,"Rhondda, Cynon, Taff [Rhondda, Cynon,Taf]"
+worldstates_gb-rdb,base.gb,RDB,Redbridge
+worldstates_gb-rdg,base.gb,RDG,Reading
+worldstates_gb-rfw,base.gb,RFW,Renfrewshire
+worldstates_gb-ric,base.gb,RIC,Richmond upon Thames
+worldstates_gb-rot,base.gb,ROT,Rotherham
+worldstates_gb-rut,base.gb,RUT,Rutland
+worldstates_gb-saw,base.gb,SAW,Sandwell
+worldstates_gb-say,base.gb,SAY,South Ayrshire
+worldstates_gb-scb,base.gb,SCB,"Scottish Borders, The"
+worldstates_gb-sfk,base.gb,SFK,Suffolk
+worldstates_gb-sft,base.gb,SFT,Sefton
+worldstates_gb-sgc,base.gb,SGC,South Gloucestershire
+worldstates_gb-shf,base.gb,SHF,Sheffield
+worldstates_gb-shn,base.gb,SHN,St. Helens
+worldstates_gb-shr,base.gb,SHR,Shropshire
+worldstates_gb-skp,base.gb,SKP,Stockport
+worldstates_gb-slf,base.gb,SLF,Salford
+worldstates_gb-slg,base.gb,SLG,Slough
+worldstates_gb-slk,base.gb,SLK,South Lanarkshire
+worldstates_gb-snd,base.gb,SND,Sunderland
+worldstates_gb-sol,base.gb,SOL,Solihull
+worldstates_gb-som,base.gb,SOM,Somerset
+worldstates_gb-sos,base.gb,SOS,Southend-on-Sea
+worldstates_gb-sry,base.gb,SRY,Surrey
+worldstates_gb-stb,base.gb,STB,Strabane
+worldstates_gb-ste,base.gb,STE,Stoke-on-Trent
+worldstates_gb-stg,base.gb,STG,Stirling
+worldstates_gb-sth,base.gb,STH,Southampton
+worldstates_gb-stn,base.gb,STN,Sutton
+worldstates_gb-sts,base.gb,STS,Staffordshire
+worldstates_gb-stt,base.gb,STT,Stockton-on-Tees
+worldstates_gb-sty,base.gb,STY,South Tyneside
+worldstates_gb-swa,base.gb,SWA,Swansea [Abertawe GB-ATA]
+worldstates_gb-swd,base.gb,SWD,Swindon
+worldstates_gb-swk,base.gb,SWK,Southwark
+worldstates_gb-tam,base.gb,TAM,Tameside
+worldstates_gb-tfw,base.gb,TFW,Telford and Wrekin
+worldstates_gb-thr,base.gb,THR,Thurrock
+worldstates_gb-tob,base.gb,TOB,Torbay
+worldstates_gb-tof,base.gb,TOF,Torfaen [Tor-faen]
+worldstates_gb-trf,base.gb,TRF,Trafford
+worldstates_gb-twh,base.gb,TWH,Tower Hamlets
+worldstates_gb-vgl,base.gb,VGL,"Vale of Glamorgan, The [Bro Morgannwg GB-BMG]"
+worldstates_gb-war,base.gb,WAR,Warwickshire
+worldstates_gb-wbk,base.gb,WBK,West Berkshire
+worldstates_gb-wdu,base.gb,WDU,West Dunbartonshire
+worldstates_gb-wft,base.gb,WFT,Waltham Forest
+worldstates_gb-wgn,base.gb,WGN,Wigan
+worldstates_gb-wil,base.gb,WIL,Wiltshire
+worldstates_gb-wkf,base.gb,WKF,Wakefield
+worldstates_gb-wll,base.gb,WLL,Walsall
+worldstates_gb-wln,base.gb,WLN,West Lothian
+worldstates_gb-wlv,base.gb,WLV,Wolverhampton
+worldstates_gb-wnd,base.gb,WND,Wandsworth
+worldstates_gb-wnm,base.gb,WNM,Windsor and Maidenhead
+worldstates_gb-wok,base.gb,WOK,Wokingham
+worldstates_gb-wor,base.gb,WOR,Worcestershire
+worldstates_gb-wrl,base.gb,WRL,Wirral
+worldstates_gb-wrt,base.gb,WRT,Warrington
+worldstates_gb-wrx,base.gb,WRX,Wrexham [Wrecsam GB-WRC]
+worldstates_gb-wsm,base.gb,WSM,Westminster
+worldstates_gb-wsx,base.gb,WSX,West Sussex
+worldstates_gb-yor,base.gb,YOR,York
+worldstates_gb-zet,base.gb,ZET,Shetland Islands
+worldstates_gd-1,base.gd,,Saint Andrew
+worldstates_gd-2,base.gd,,Saint David
+worldstates_gd-3,base.gd,,Saint George
+worldstates_gd-4,base.gd,,Saint John
+worldstates_gd-5,base.gd,,Saint Mark
+worldstates_gd-6,base.gd,,Saint Patrick
+worldstates_gd-10,base.gd,,Southern Grenadine Islands
+worldstates_ge-ab,base.ge,AB,Abkhazia
+worldstates_ge-aj,base.ge,AJ,Ajaria
+worldstates_ge-gu,base.ge,GU,Guria
+worldstates_ge-im,base.ge,IM,Imeret'i
+worldstates_ge-ka,base.ge,KA,Kakhet'i
+worldstates_ge-kk,base.ge,KK,K'vemo K'art'li
+worldstates_ge-mm,base.ge,MM,Mts'khet'a-Mt'ianet'i
+worldstates_ge-rl,base.ge,RL,Racha-Lech’khumi-K’vemo Svanet’i
+worldstates_ge-sj,base.ge,SJ,Samts'khe-Javakhet'i
+worldstates_ge-sk,base.ge,SK,Shida K'art'li
+worldstates_ge-sz,base.ge,SZ,Samegrelo-Zemo Svanet'i
+worldstates_ge-tb,base.ge,TB,T'bilisi
+worldstates_gh-aa,base.gh,AA,Greater Accra
+worldstates_gh-ah,base.gh,AH,Ashanti
+worldstates_gh-ba,base.gh,BA,Brong-Ahafo
+worldstates_gh-cp,base.gh,CP,Central
+worldstates_gh-ep,base.gh,EP,Eastern
+worldstates_gh-np,base.gh,NP,Northern
+worldstates_gh-tv,base.gh,TV,Volta
+worldstates_gh-ue,base.gh,UE,Upper East
+worldstates_gh-uw,base.gh,UW,Upper West
+worldstates_gh-wp,base.gh,WP,Western
+worldstates_gl-ku,base.gl,KU,Kommune Kujalleq
+worldstates_gl-qa,base.gl,QA,Qaasuitsup Kommunia
+worldstates_gl-qe,base.gl,QE,Qeqqata Kommunia
+worldstates_gl-sm,base.gl,SM,Kommuneqarfik Sermersooq
+worldstates_gm-b,base.gm,B,Banjul
+worldstates_gm-l,base.gm,L,Lower River
+worldstates_gm-m,base.gm,M,Central River
+worldstates_gm-n,base.gm,N,North Bank
+worldstates_gm-u,base.gm,U,Upper River
+worldstates_gm-w,base.gm,W,Western
+worldstates_gn-be,base.gn,BE,Beyla
+worldstates_gn-bf,base.gn,BF,Boffa
+worldstates_gn-bk,base.gn,BK,Boké
+worldstates_gn-co,base.gn,CO,Coyah
+worldstates_gn-db,base.gn,DB,Dabola
+worldstates_gn-di,base.gn,DI,Dinguiraye
+worldstates_gn-dl,base.gn,DL,Dalaba
+worldstates_gn-du,base.gn,DU,Dubréka
+worldstates_gn-fa,base.gn,FA,Faranah
+worldstates_gn-fo,base.gn,FO,Forécariah
+worldstates_gn-fr,base.gn,FR,Fria
+worldstates_gn-ga,base.gn,GA,Gaoual
+worldstates_gn-gu,base.gn,GU,Guékédou
+worldstates_gn-ka,base.gn,KA,Kankan
+worldstates_gn-kb,base.gn,KB,Koubia
+worldstates_gn-kd,base.gn,KD,Kindia
+worldstates_gn-ke,base.gn,KE,Kérouané
+worldstates_gn-kn,base.gn,KN,Koundara
+worldstates_gn-ko,base.gn,KO,Kouroussa
+worldstates_gn-ks,base.gn,KS,Kissidougou
+worldstates_gn-la,base.gn,LA,Labé
+worldstates_gn-le,base.gn,LE,Lélouma
+worldstates_gn-lo,base.gn,LO,Lola
+worldstates_gn-mc,base.gn,MC,Macenta
+worldstates_gn-md,base.gn,MD,Mandiana
+worldstates_gn-ml,base.gn,ML,Mali
+worldstates_gn-mm,base.gn,MM,Mamou
+worldstates_gn-nz,base.gn,NZ,Nzérékoré
+worldstates_gn-pi,base.gn,PI,Pita
+worldstates_gn-si,base.gn,SI,Siguiri
+worldstates_gn-te,base.gn,TE,Télimélé
+worldstates_gn-to,base.gn,TO,Tougué
+worldstates_gn-yo,base.gn,YO,Yomou
+worldstates_gq-an,base.gq,AN,Annobón
+worldstates_gq-bn,base.gq,BN,Bioko Norte
+worldstates_gq-bs,base.gq,BS,Bioko Sur
+worldstates_gq-cs,base.gq,CS,Centro Sur
+worldstates_gq-kn,base.gq,KN,Kié‐Ntem
+worldstates_gq-li,base.gq,LI,Litoral
+worldstates_gq-wn,base.gq,WN,Wele‐Nzas
+worldstates_gr-1,base.gr,,Aitoloakarnanía
+worldstates_gr-3,base.gr,,Voiotia
+worldstates_gr-4,base.gr,,Evvoia
+worldstates_gr-5,base.gr,,Evrytania
+worldstates_gr-6,base.gr,,Fthiotida
+worldstates_gr-7,base.gr,,Fokida
+worldstates_gr-11,base.gr,,Argolida
+worldstates_gr-12,base.gr,,Arkadia
+worldstates_gr-13,base.gr,,Achaïa
+worldstates_gr-14,base.gr,,Ileia
+worldstates_gr-15,base.gr,,Korinthia
+worldstates_gr-16,base.gr,,Lakonia
+worldstates_gr-17,base.gr,,Messinia
+worldstates_gr-21,base.gr,,Zakynthos
+worldstates_gr-22,base.gr,,Kerkyra
+worldstates_gr-23,base.gr,,Kefallinía
+worldstates_gr-24,base.gr,,Lefkada
+worldstates_gr-31,base.gr,,Arta
+worldstates_gr-32,base.gr,,Thesprotia
+worldstates_gr-33,base.gr,,Ioannina
+worldstates_gr-34,base.gr,,Preveza
+worldstates_gr-41,base.gr,,Karditsa
+worldstates_gr-42,base.gr,,Larisa
+worldstates_gr-43,base.gr,,Magnisia
+worldstates_gr-44,base.gr,,Trikala
+worldstates_gr-51,base.gr,,Grevena
+worldstates_gr-52,base.gr,,Drama
+worldstates_gr-53,base.gr,,Imathia
+worldstates_gr-54,base.gr,,Thessaloniki
+worldstates_gr-55,base.gr,,Kavala
+worldstates_gr-56,base.gr,,Kastoria
+worldstates_gr-57,base.gr,,Kilkis
+worldstates_gr-58,base.gr,,Kozani
+worldstates_gr-59,base.gr,,Pella
+worldstates_gr-61,base.gr,,Pieria
+worldstates_gr-62,base.gr,,Serres
+worldstates_gr-63,base.gr,,Florina
+worldstates_gr-64,base.gr,,Chalkidiki
+worldstates_gr-69,base.gr,,Ágion Óros
+worldstates_gr-71,base.gr,,Evros
+worldstates_gr-72,base.gr,,Xanthi
+worldstates_gr-73,base.gr,,Rodopi
+worldstates_gr-81,base.gr,,Dodekánisa
+worldstates_gr-82,base.gr,,Kyklades
+worldstates_gr-83,base.gr,,Lesvos
+worldstates_gr-84,base.gr,,Samos
+worldstates_gr-85,base.gr,,Chios
+worldstates_gr-91,base.gr,,Irakleio
+worldstates_gr-92,base.gr,,Lasithi
+worldstates_gr-93,base.gr,,Rethýmnis
+worldstates_gr-94,base.gr,,Chania
+worldstates_gr-a1,base.gr,A1,Attiki
+worldstates_gt-av,base.gt,AV,Alta Verapaz
+worldstates_gt-bv,base.gt,BV,Baja Verapaz
+worldstates_gt-cm,base.gt,CM,Chimaltenango
+worldstates_gt-cq,base.gt,CQ,Chiquimula
+worldstates_gt-es,base.gt,ES,Escuintla
+worldstates_gt-gu,base.gt,GU,Guatemala
+worldstates_gt-hu,base.gt,HU,Huehuetenango
+worldstates_gt-iz,base.gt,IZ,Izabal
+worldstates_gt-ja,base.gt,JA,Jalapa
+worldstates_gt-ju,base.gt,JU,Jutiapa
+worldstates_gt-pe,base.gt,PE,Petén
+worldstates_gt-pr,base.gt,PR,El Progreso
+worldstates_gt-qc,base.gt,QC,Quiché
+worldstates_gt-qz,base.gt,QZ,Quetzaltenango
+worldstates_gt-re,base.gt,RE,Retalhuleu
+worldstates_gt-sa,base.gt,SA,Sacatepéquez
+worldstates_gt-sm,base.gt,SM,San Marcos
+worldstates_gt-so,base.gt,SO,Sololá
+worldstates_gt-sr,base.gt,SR,Santa Rosa
+worldstates_gt-su,base.gt,SU,Suchitepéquez
+worldstates_gt-to,base.gt,TO,Totonicapán
+worldstates_gt-za,base.gt,ZA,Zacapa
+worldstates_gw-ba,base.gw,BA,Bafatá
+worldstates_gw-bl,base.gw,BL,Bolama
+worldstates_gw-bm,base.gw,BM,Biombo
+worldstates_gw-bs,base.gw,BS,Bissau
+worldstates_gw-ca,base.gw,CA,Cacheu
+worldstates_gw-ga,base.gw,GA,Gabú
+worldstates_gw-oi,base.gw,OI,Oio
+worldstates_gw-qu,base.gw,QU,Quinara
+worldstates_gw-to,base.gw,TO,Tombali 
+worldstates_gy-ba,base.gy,BA,Barima-Waini
+worldstates_gy-cu,base.gy,CU,Cuyuni-Mazaruni
+worldstates_gy-de,base.gy,DE,Demerara-Mahaica
+worldstates_gy-eb,base.gy,EB,East Berbice-Corentyne
+worldstates_gy-es,base.gy,ES,Essequibo Islands-West Demerara
+worldstates_gy-ma,base.gy,MA,Mahaica-Berbice
+worldstates_gy-pm,base.gy,PM,Pomeroon-Supenaam
+worldstates_gy-pt,base.gy,PT,Potaro-Siparuni
+worldstates_gy-ud,base.gy,UD,Upper Demerara-Berbice
+worldstates_gy-ut,base.gy,UT,Upper Takutu-Upper Essequibo
+worldstates_hn-at,base.hn,AT,Atlántida
+worldstates_hn-ch,base.hn,CH,Choluteca
+worldstates_hn-cl,base.hn,CL,Colón
+worldstates_hn-cm,base.hn,CM,Comayagua
+worldstates_hn-cp,base.hn,CP,Copán
+worldstates_hn-cr,base.hn,CR,Cortés
+worldstates_hn-ep,base.hn,EP,El Paraíso
+worldstates_hn-fm,base.hn,FM,Francisco Morazán
+worldstates_hn-gd,base.hn,GD,Gracias a Dios
+worldstates_hn-ib,base.hn,IB,Islas de la Bahía
+worldstates_hn-in,base.hn,IN,Intibucá
+worldstates_hn-le,base.hn,LE,Lempira
+worldstates_hn-lp,base.hn,LP,La Paz
+worldstates_hn-oc,base.hn,OC,Ocotepeque
+worldstates_hn-ol,base.hn,OL,Olancho
+worldstates_hn-sb,base.hn,SB,Santa Bárbara
+worldstates_hn-va,base.hn,VA,Valle
+worldstates_hn-yo,base.hn,YO,Yoro
+worldstates_hr-1,base.hr,,Zagrebačka županija
+worldstates_hr-2,base.hr,,Krapinsko-zagorska županija
+worldstates_hr-3,base.hr,,Sisačko-moslavačka županija
+worldstates_hr-4,base.hr,,Karlovačka županija
+worldstates_hr-5,base.hr,,Varaždinska županija
+worldstates_hr-6,base.hr,,Koprivničko-križevačka županija
+worldstates_hr-7,base.hr,,Bjelovarsko-bilogorska županija
+worldstates_hr-8,base.hr,,Primorsko-goranska županija
+worldstates_hr-9,base.hr,,Ličko-senjska županija
+worldstates_hr-10,base.hr,,Virovitičko-podravska županija
+worldstates_hr-11,base.hr,,Požeško-slavonska županija
+worldstates_hr-12,base.hr,,Brodsko-posavska županija
+worldstates_hr-13,base.hr,,Zadarska županija
+worldstates_hr-14,base.hr,,Osječko-baranjska županija
+worldstates_hr-15,base.hr,,Šibensko-kninska županija
+worldstates_hr-16,base.hr,,Vukovarsko-srijemska županija
+worldstates_hr-17,base.hr,,Splitsko-dalmatinska županija
+worldstates_hr-18,base.hr,,Istarska županija
+worldstates_hr-19,base.hr,,Dubrovačko-neretvanska županija
+worldstates_hr-20,base.hr,,Međimurska županija
+worldstates_hr-21,base.hr,,Grad Zagreb
+worldstates_ht-ar,base.ht,AR,Artibonite
+worldstates_ht-ce,base.ht,CE,Centre
+worldstates_ht-ga,base.ht,GA,Grande-Anse
+worldstates_ht-nd,base.ht,ND,Nord
+worldstates_ht-ne,base.ht,NE,Nord-Est
+worldstates_ht-ni,base.ht,NI,Nippes
+worldstates_ht-no,base.ht,NO,Nord-Ouest
+worldstates_ht-ou,base.ht,OU,Ouest
+worldstates_ht-sd,base.ht,SD,Sud
+worldstates_ht-se,base.ht,SE,Sud-Est
+worldstates_hu-ba,base.hu,BA,Baranya
+worldstates_hu-bc,base.hu,BC,Békéscsaba
+worldstates_hu-be,base.hu,BE,Békés
+worldstates_hu-bk,base.hu,BK,Bács-Kiskun
+worldstates_hu-bu,base.hu,BU,Budapest
+worldstates_hu-bz,base.hu,BZ,Borsod-Abaúj-Zemplén
+worldstates_hu-cs,base.hu,CS,Csongrád
+worldstates_hu-de,base.hu,DE,Debrecen
+worldstates_hu-du,base.hu,DU,Dunaújváros
+worldstates_hu-eg,base.hu,EG,Eger
+worldstates_hu-er,base.hu,ER,Érd
+worldstates_hu-fe,base.hu,FE,Fejér
+worldstates_hu-gs,base.hu,GS,Győr‐Moson‐Sopron
+worldstates_hu-gy,base.hu,GY,Győr
+worldstates_hu-hb,base.hu,HB,Hajdú-Bihar
+worldstates_hu-he,base.hu,HE,Heves
+worldstates_hu-hv,base.hu,HV,Hódmezővásárhely
+worldstates_hu-jn,base.hu,JN,Jász-Nagykun-Szolnok
+worldstates_hu-ke,base.hu,KE,Komárom-Esztergom
+worldstates_hu-km,base.hu,KM,Kecskemét
+worldstates_hu-kv,base.hu,KV,Kaposvár
+worldstates_hu-mi,base.hu,MI,Miskolc
+worldstates_hu-nk,base.hu,NK,Nagykanizsa
+worldstates_hu-no,base.hu,NO,Nógrád
+worldstates_hu-ny,base.hu,NY,Nyíregyháza
+worldstates_hu-pe,base.hu,PE,Pest
+worldstates_hu-ps,base.hu,PS,Pécs
+worldstates_hu-sd,base.hu,SD,Szeged
+worldstates_hu-sf,base.hu,SF,Székesfehérvár
+worldstates_hu-sh,base.hu,SH,Szombathely
+worldstates_hu-sk,base.hu,SK,Szolnok
+worldstates_hu-sn,base.hu,SN,Sopron
+worldstates_hu-so,base.hu,SO,Somogy
+worldstates_hu-ss,base.hu,SS,Szekszárd
+worldstates_hu-st,base.hu,ST,Salgótarján
+worldstates_hu-sz,base.hu,SZ,Szabolcs-Szatmár-Bereg
+worldstates_hu-tb,base.hu,TB,Tatabánya
+worldstates_hu-to,base.hu,TO,Tolna
+worldstates_hu-va,base.hu,VA,Vas
+worldstates_hu-ve,base.hu,VE,Veszprém
+worldstates_hu-vm,base.hu,VM,Veszprém
+worldstates_hu-za,base.hu,ZA,Zala
+worldstates_hu-ze,base.hu,ZE,Zalaegerszeg
+worldstates_id-ac,base.id,AC,Aceh
+worldstates_id-ba,base.id,BA,Bali
+worldstates_id-bb,base.id,BB,Bangka Belitung
+worldstates_id-be,base.id,BE,Bengkulu
+worldstates_id-bt,base.id,BT,Banten
+worldstates_id-go,base.id,GO,Gorontalo
+worldstates_id-ja,base.id,JA,Jambi
+worldstates_id-jb,base.id,JB,Jawa Barat
+worldstates_id-ji,base.id,JI,Jawa Timur
+worldstates_id-jk,base.id,JK,Jakarta Raya
+worldstates_id-jt,base.id,JT,Jawa Tengah
+worldstates_id-kb,base.id,KB,Kalimantan Barat
+worldstates_id-ki,base.id,KI,Kalimantan Timur
+worldstates_id-kr,base.id,KR,Kepulauan Riau
+worldstates_id-ks,base.id,KS,Kalimantan Selatan
+worldstates_id-kt,base.id,KT,Kalimantan Tengah
+worldstates_id-ku,base.id,KU,Kalimantan Utara
+worldstates_id-la,base.id,LA,Lampung
+worldstates_id-ma,base.id,MA,Maluku
+worldstates_id-mu,base.id,MU,Maluku Utara
+worldstates_id-nb,base.id,NB,Nusa Tenggara Barat
+worldstates_id-nt,base.id,NT,Nusa Tenggara Timur
+worldstates_id-pa,base.id,PA,Papua
+worldstates_id-pb,base.id,PB,Papua Barat
+worldstates_id-ri,base.id,RI,Riau
+worldstates_id-sa,base.id,SA,Sulawesi Utara
+worldstates_id-sb,base.id,SB,Sumatera Barat
+worldstates_id-sg,base.id,SG,Sulawesi Tenggara
+worldstates_id-sn,base.id,SN,Sulawesi Selatan
+worldstates_id-sr,base.id,SR,Sulawesi Barat
+worldstates_id-ss,base.id,SS,Sumatera Selatan
+worldstates_id-st,base.id,ST,Sulawesi Tengah
+worldstates_id-su,base.id,SU,Sumatera Utara
+worldstates_id-yo,base.id,YO,Yogyakarta
+worldstates_ie-ce,base.ie,CE,Clare
+worldstates_ie-cn,base.ie,CN,Cavan
+worldstates_ie-co,base.ie,CO,Cork
+worldstates_ie-cw,base.ie,CW,Carlow
+worldstates_ie-d,base.ie,D,Dublin
+worldstates_ie-dl,base.ie,DL,Donegal
+worldstates_ie-g,base.ie,G,Galway
+worldstates_ie-ke,base.ie,KE,Kildare
+worldstates_ie-kk,base.ie,KK,Kilkenny
+worldstates_ie-ky,base.ie,KY,Kerry
+worldstates_ie-ld,base.ie,LD,Longford
+worldstates_ie-lh,base.ie,LH,Louth
+worldstates_ie-lk,base.ie,LK,Limerick
+worldstates_ie-lm,base.ie,LM,Leitrim
+worldstates_ie-ls,base.ie,LS,Laois
+worldstates_ie-mh,base.ie,MH,Meath
+worldstates_ie-mn,base.ie,MN,Monaghan
+worldstates_ie-mo,base.ie,MO,Mayo
+worldstates_ie-oy,base.ie,OY,Offaly
+worldstates_ie-rn,base.ie,RN,Roscommon
+worldstates_ie-so,base.ie,SO,Sligo
+worldstates_ie-ta,base.ie,TA,Tipperary
+worldstates_ie-wd,base.ie,WD,Waterford
+worldstates_ie-wh,base.ie,WH,Westmeath
+worldstates_ie-ww,base.ie,WW,Wicklow
+worldstates_ie-wx,base.ie,WX,Wexford
+worldstates_il-d,base.il,D,HaDarom
+worldstates_il-ha,base.il,HA, H̱efa
+worldstates_il-jm,base.il,JM,Yerushalayim
+worldstates_il-m,base.il,M,HaMerkaz
+worldstates_il-ta,base.il,TA,Tel-Aviv
+worldstates_il-z,base.il,Z,HaTsafon
+worldstates_in-an,base.in,AN,Andaman and Nicobar Islands
+worldstates_in-ap,base.in,AP,Andhra Pradesh
+worldstates_in-ar,base.in,AR,Arunachal Pradesh
+worldstates_in-as,base.in,AS,Assam
+worldstates_in-br,base.in,BR,Bihar
+worldstates_in-ch,base.in,CH,Chandigarh
+worldstates_in-ct,base.in,CT,Chhattisgarh
+worldstates_in-dd,base.in,DD,Daman and Diu
+worldstates_in-dl,base.in,DL,Delhi
+worldstates_in-dn,base.in,DN,Dadra and Nagar Haveli
+worldstates_in-ga,base.in,GA,Goa
+worldstates_in-gj,base.in,GJ,Gujarat
+worldstates_in-hp,base.in,HP,Himachal Pradesh
+worldstates_in-hr,base.in,HR,Haryana
+worldstates_in-jh,base.in,JH,Jharkhand
+worldstates_in-jk,base.in,JK,Jammu and Kashmir
+worldstates_in-ka,base.in,KA,Karnataka
+worldstates_in-kl,base.in,KL,Kerala
+worldstates_in-ld,base.in,LD,Lakshadweep
+worldstates_in-mh,base.in,MH,Maharashtra
+worldstates_in-ml,base.in,ML,Meghalaya
+worldstates_in-mn,base.in,MN,Manipur
+worldstates_in-mp,base.in,MP,Madhya Pradesh
+worldstates_in-mz,base.in,MZ,Mizoram
+worldstates_in-nl,base.in,NL,Nagaland
+worldstates_in-or,base.in,OR,Odisha
+worldstates_in-pb,base.in,PB,Punjab
+worldstates_in-py,base.in,PY,Puducherry
+worldstates_in-rj,base.in,RJ,Rajasthan
+worldstates_in-sk,base.in,SK,Sikkim
+worldstates_in-tg,base.in,TG,Telangana
+worldstates_in-tn,base.in,TN,Tamil Nadu
+worldstates_in-tr,base.in,TR,Tripura
+worldstates_in-up,base.in,UP,Uttar Pradesh
+worldstates_in-ut,base.in,UT,Uttarakhand
+worldstates_in-wb,base.in,WB,West Bengal
+worldstates_iq-an,base.iq,AN,AI Anbār
+worldstates_iq-ar,base.iq,AR,Arbīl
+worldstates_iq-ba,base.iq,BA,Al Başrah
+worldstates_iq-bb,base.iq,BB,Bābil
+worldstates_iq-bg,base.iq,BG,Baghdād
+worldstates_iq-da,base.iq,DA,Dahūk
+worldstates_iq-di,base.iq,DI,Diyālá
+worldstates_iq-dq,base.iq,DQ,Dhī Qār
+worldstates_iq-ka,base.iq,KA,Karbalā'
+worldstates_iq-ki,base.iq,KI,Kirkūk
+worldstates_iq-ma,base.iq,MA,Maysān
+worldstates_iq-mu,base.iq,MU,AI Muthanná
+worldstates_iq-na,base.iq,NA,An Najaf
+worldstates_iq-ni,base.iq,NI,Nīnawá
+worldstates_iq-qa,base.iq,QA,Al Qādisīyah
+worldstates_iq-sd,base.iq,SD,Şalāh ad Dīn
+worldstates_iq-su,base.iq,SU,As Sulaymānīyah
+worldstates_iq-wa,base.iq,WA,Wāsiţ
+worldstates_ir-1,base.ir,,ĀZarbāyjān-e Sharqī
+worldstates_ir-2,base.ir,,ĀZarbāyjān-e Gharbī
+worldstates_ir-3,base.ir,,Ardabīl
+worldstates_ir-4,base.ir,,Eşfahān
+worldstates_ir-5,base.ir,,Īlām
+worldstates_ir-6,base.ir,,Būshehr
+worldstates_ir-7,base.ir,,Tehrān
+worldstates_ir-8,base.ir,,Chahār Mahāll va Bakhtīārī
+worldstates_ir-10,base.ir,,Khūzestān
+worldstates_ir-11,base.ir,,Zanjān
+worldstates_ir-12,base.ir,,Semnān
+worldstates_ir-13,base.ir,,Sīstān va Balūchestān
+worldstates_ir-14,base.ir,,Fārs
+worldstates_ir-15,base.ir,,Kermān
+worldstates_ir-16,base.ir,,Kordestān
+worldstates_ir-17,base.ir,,Kermānshāh
+worldstates_ir-18,base.ir,,Kohkīlūyeh va Būyer Ahmad
+worldstates_ir-19,base.ir,,Gīlān
+worldstates_ir-20,base.ir,,Lorestān
+worldstates_ir-21,base.ir,,Māzandarān
+worldstates_ir-22,base.ir,,Markazī
+worldstates_ir-23,base.ir,,Hormozgān
+worldstates_ir-24,base.ir,,Hamadān
+worldstates_ir-25,base.ir,,Yazd
+worldstates_ir-26,base.ir,,Qom
+worldstates_ir-27,base.ir,,Golestān
+worldstates_ir-28,base.ir,,Qazvīn
+worldstates_ir-29,base.ir,,Khorāsān-e Janūbī
+worldstates_ir-30,base.ir,,Khorāsān-e Razavī
+worldstates_ir-31,base.ir,,Khorāsān-e Shemālī
+worldstates_ir-32,base.ir,,Alborz
+worldstates_is-0,base.is,,Reykjavík
+worldstates_is-1,base.is,,Höfuðborgarsvæði utan Reykjavíkur
+worldstates_is-2,base.is,,Suðurnes
+worldstates_is-3,base.is,,Vesturland
+worldstates_is-4,base.is,,Vestfirðir
+worldstates_is-5,base.is,,Norðurland vestra
+worldstates_is-6,base.is,,Norðurland eystra
+worldstates_is-7,base.is,,Austurland
+worldstates_is-8,base.is,,Suðurland
+worldstates_it-ag,base.it,AG,Agrigento
+worldstates_it-al,base.it,AL,Alessandria
+worldstates_it-an,base.it,AN,Ancona
+worldstates_it-ao,base.it,AO,Aosta / Aoste (fr)
+worldstates_it-ap,base.it,AP,Ascoli Piceno
+worldstates_it-aq,base.it,AQ,L'Aquila
+worldstates_it-ar,base.it,AR,Arezzo
+worldstates_it-at,base.it,AT,Asti
+worldstates_it-av,base.it,AV,Avellino
+worldstates_it-ba,base.it,BA,Bari
+worldstates_it-bg,base.it,BG,Bergamo
+worldstates_it-bi,base.it,BI,Biella
+worldstates_it-bl,base.it,BL,Belluno
+worldstates_it-bn,base.it,BN,Benevento
+worldstates_it-bo,base.it,BO,Bologna
+worldstates_it-br,base.it,BR,Brindisi
+worldstates_it-bs,base.it,BS,Brescia
+worldstates_it-bt,base.it,BT,Barletta-Andria-Trani
+worldstates_it-bz,base.it,BZ,Bolzano / Bozen (de)
+worldstates_it-ca,base.it,CA,Cagliari
+worldstates_it-cb,base.it,CB,Campobasso
+worldstates_it-ce,base.it,CE,Caserta
+worldstates_it-ch,base.it,CH,Chieti
+worldstates_it-ci,base.it,CI,Carbonia-Iglesias
+worldstates_it-cl,base.it,CL,Caltanissetta
+worldstates_it-cn,base.it,CN,Cuneo
+worldstates_it-co,base.it,CO,Como
+worldstates_it-cr,base.it,CR,Cremona
+worldstates_it-cs,base.it,CS,Cosenza
+worldstates_it-ct,base.it,CT,Catania
+worldstates_it-cz,base.it,CZ,Catanzaro
+worldstates_it-en,base.it,EN,Enna
+worldstates_it-fc,base.it,FC,Forlì-Cesena
+worldstates_it-fe,base.it,FE,Ferrara
+worldstates_it-fg,base.it,FG,Foggia
+worldstates_it-fi,base.it,FI,Firenze
+worldstates_it-fm,base.it,FM,Fermo
+worldstates_it-fr,base.it,FR,Frosinone
+worldstates_it-ge,base.it,GE,Genova
+worldstates_it-go,base.it,GO,Gorizia
+worldstates_it-gr,base.it,GR,Grosseto
+worldstates_it-im,base.it,IM,Imperia
+worldstates_it-is,base.it,IS,Isernia
+worldstates_it-kr,base.it,KR,Crotone
+worldstates_it-lc,base.it,LC,Lecco
+worldstates_it-le,base.it,LE,Lecce
+worldstates_it-li,base.it,LI,Livorno
+worldstates_it-lo,base.it,LO,Lodi
+worldstates_it-lt,base.it,LT,Latina
+worldstates_it-lu,base.it,LU,Lucca
+worldstates_it-mb,base.it,MB,Monza e Brianza
+worldstates_it-mc,base.it,MC,Macerata
+worldstates_it-me,base.it,ME,Messina
+worldstates_it-mi,base.it,MI,Milano
+worldstates_it-mn,base.it,MN,Mantova
+worldstates_it-mo,base.it,MO,Modena
+worldstates_it-ms,base.it,MS,Massa-Carrara
+worldstates_it-mt,base.it,MT,Matera
+worldstates_it-na,base.it,NA,Napoli
+worldstates_it-no,base.it,NO,Novara
+worldstates_it-nu,base.it,NU,Nuoro
+worldstates_it-og,base.it,OG,Ogliastra
+worldstates_it-or,base.it,OR,Oristano
+worldstates_it-ot,base.it,OT,Olbia-Tempio
+worldstates_it-pa,base.it,PA,Palermo
+worldstates_it-pc,base.it,PC,Piacenza
+worldstates_it-pd,base.it,PD,Padova
+worldstates_it-pe,base.it,PE,Pescara
+worldstates_it-pg,base.it,PG,Perugia
+worldstates_it-pi,base.it,PI,Pisa
+worldstates_it-pn,base.it,PN,Pordenone
+worldstates_it-po,base.it,PO,Prato
+worldstates_it-pr,base.it,PR,Parma
+worldstates_it-pt,base.it,PT,Pistoia
+worldstates_it-pu,base.it,PU,Pesaro e Urbino
+worldstates_it-pv,base.it,PV,Pavia
+worldstates_it-pz,base.it,PZ,Potenza
+worldstates_it-ra,base.it,RA,Ravenna
+worldstates_it-rc,base.it,RC,Reggio Calabria
+worldstates_it-re,base.it,RE,Reggio Emilia
+worldstates_it-rg,base.it,RG,Ragusa
+worldstates_it-ri,base.it,RI,Rieti
+worldstates_it-rm,base.it,RM,Roma
+worldstates_it-rn,base.it,RN,Rimini
+worldstates_it-ro,base.it,RO,Rovigo
+worldstates_it-sa,base.it,SA,Salerno
+worldstates_it-si,base.it,SI,Siena
+worldstates_it-so,base.it,SO,Sondrio
+worldstates_it-sp,base.it,SP,La Spezia
+worldstates_it-sr,base.it,SR,Siracusa
+worldstates_it-ss,base.it,SS,Sassari
+worldstates_it-sv,base.it,SV,Savona
+worldstates_it-ta,base.it,TA,Taranto
+worldstates_it-te,base.it,TE,Teramo
+worldstates_it-tn,base.it,TN,Trento
+worldstates_it-to,base.it,TO,Torino
+worldstates_it-tp,base.it,TP,Trapani
+worldstates_it-tr,base.it,TR,Terni
+worldstates_it-ts,base.it,TS,Trieste
+worldstates_it-tv,base.it,TV,Treviso
+worldstates_it-ud,base.it,UD,Udine
+worldstates_it-va,base.it,VA,Varese
+worldstates_it-vb,base.it,VB,Verbano-Cusio-Ossola
+worldstates_it-vc,base.it,VC,Vercelli
+worldstates_it-ve,base.it,VE,Venezia
+worldstates_it-vi,base.it,VI,Vicenza
+worldstates_it-vr,base.it,VR,Verona
+worldstates_it-vs,base.it,VS,Medio Campidano
+worldstates_it-vt,base.it,VT,Viterbo
+worldstates_it-vv,base.it,VV,Vibo Valentia
+worldstates_jm-1,base.jm,,Kingston
+worldstates_jm-2,base.jm,,Saint Andrew
+worldstates_jm-3,base.jm,,Saint Thomas
+worldstates_jm-4,base.jm,,Portland
+worldstates_jm-5,base.jm,,Saint Mary
+worldstates_jm-6,base.jm,,Saint Ann
+worldstates_jm-7,base.jm,,Trelawny
+worldstates_jm-8,base.jm,,Saint James
+worldstates_jm-9,base.jm,,Hanover
+worldstates_jm-10,base.jm,,Westmoreland
+worldstates_jm-11,base.jm,,Saint Elizabeth
+worldstates_jm-12,base.jm,,Manchester
+worldstates_jm-13,base.jm,,Clarendon
+worldstates_jm-14,base.jm,,Saint Catherine
+worldstates_jo-aj,base.jo,AJ,ʽAjlūn
+worldstates_jo-am,base.jo,AM,'Ammān
+worldstates_jo-aq,base.jo,AQ,Al'Aqaba
+worldstates_jo-at,base.jo,AT,Aţ Ţafīlah
+worldstates_jo-az,base.jo,AZ,Az Zarqā'
+worldstates_jo-ba,base.jo,BA,AI Balqā'
+worldstates_jo-ir,base.jo,IR,Irbid
+worldstates_jo-ja,base.jo,JA,Jarash
+worldstates_jo-ka,base.jo,KA,AI Karak
+worldstates_jo-ma,base.jo,MA,AI Mafraq
+worldstates_jo-md,base.jo,MD,Mādaba
+worldstates_jo-mn,base.jo,MN,Ma'ān
+worldstates_jp-1,base.jp,,Hokkaidô [Hokkaido]
+worldstates_jp-2,base.jp,,Aomori
+worldstates_jp-3,base.jp,,Iwate
+worldstates_jp-4,base.jp,,Miyagi
+worldstates_jp-5,base.jp,,Akita
+worldstates_jp-6,base.jp,,Yamagata
+worldstates_jp-7,base.jp,,Hukusima [Fukushima]
+worldstates_jp-8,base.jp,,Ibaraki
+worldstates_jp-9,base.jp,,Totigi [Tochigi]
+worldstates_jp-10,base.jp,,Gunma
+worldstates_jp-11,base.jp,,Saitama
+worldstates_jp-12,base.jp,,Tiba [Chiba]
+worldstates_jp-13,base.jp,,Tôkyô [Tokyo]
+worldstates_jp-14,base.jp,,Kanagawa
+worldstates_jp-15,base.jp,,Niigata
+worldstates_jp-16,base.jp,,Toyama
+worldstates_jp-17,base.jp,,Isikawa [Ishikawa]
+worldstates_jp-18,base.jp,,Hukui [Fukui]
+worldstates_jp-19,base.jp,,Yamanasi [Yamanashi]
+worldstates_jp-20,base.jp,,Nagano
+worldstates_jp-21,base.jp,,Gihu [Gifu]
+worldstates_jp-22,base.jp,,Sizuoka [Shizuoka]
+worldstates_jp-23,base.jp,,Aiti [Aichi]
+worldstates_jp-24,base.jp,,Mie
+worldstates_jp-25,base.jp,,Siga [Shiga]
+worldstates_jp-26,base.jp,,Hyôgo [Kyoto]
+worldstates_jp-27,base.jp,,Ôsaka [Osaka]
+worldstates_jp-28,base.jp,,Hyôgo[Hyogo]
+worldstates_jp-29,base.jp,,Nara
+worldstates_jp-30,base.jp,,Wakayama
+worldstates_jp-31,base.jp,,Tottori
+worldstates_jp-32,base.jp,,Simane [Shimane]
+worldstates_jp-33,base.jp,,Okayama
+worldstates_jp-34,base.jp,,Hirosima [Hiroshima]
+worldstates_jp-35,base.jp,,Yamaguti [Yamaguchi]
+worldstates_jp-36,base.jp,,Tokusima [Tokushima]
+worldstates_jp-37,base.jp,,Kagawa
+worldstates_jp-38,base.jp,,Ehime
+worldstates_jp-39,base.jp,,Kôti [Kochi]
+worldstates_jp-40,base.jp,,Hukuoka [Fukuoka]
+worldstates_jp-41,base.jp,,Saga
+worldstates_jp-42,base.jp,,Nagasaki
+worldstates_jp-43,base.jp,,Kumamoto
+worldstates_jp-44,base.jp,,Ôita [Oita]
+worldstates_jp-45,base.jp,,Miyazaki
+worldstates_jp-46,base.jp,,Kagosima [Kagoshima]
+worldstates_jp-47,base.jp,,Okinawa
+worldstates_ke-1,base.ke,,Baringo
+worldstates_ke-2,base.ke,,Bomet
+worldstates_ke-3,base.ke,,Bungoma
+worldstates_ke-4,base.ke,,Busia
+worldstates_ke-5,base.ke,,Elgeyo/Marakwet
+worldstates_ke-6,base.ke,,Embu
+worldstates_ke-7,base.ke,,Garissa
+worldstates_ke-8,base.ke,,Homa Bay
+worldstates_ke-9,base.ke,,Isiolo
+worldstates_ke-10,base.ke,,Kajiado
+worldstates_ke-11,base.ke,,Kakamega
+worldstates_ke-12,base.ke,,Kericho
+worldstates_ke-13,base.ke,,Kiambu
+worldstates_ke-14,base.ke,,Kilifi
+worldstates_ke-15,base.ke,,Kirinyaga
+worldstates_ke-16,base.ke,,Kisii
+worldstates_ke-17,base.ke,,Kisumu
+worldstates_ke-18,base.ke,,Kitui
+worldstates_ke-19,base.ke,,Kwale
+worldstates_ke-20,base.ke,,Laikipia
+worldstates_ke-21,base.ke,,Lamu
+worldstates_ke-22,base.ke,,Machakos
+worldstates_ke-23,base.ke,,Makueni
+worldstates_ke-24,base.ke,,Mandera
+worldstates_ke-25,base.ke,,Marsabit
+worldstates_ke-26,base.ke,,Meru
+worldstates_ke-27,base.ke,,Migori
+worldstates_ke-28,base.ke,,Mombasa
+worldstates_ke-29,base.ke,,Murang'a
+worldstates_ke-30,base.ke,,Nairobi City
+worldstates_ke-31,base.ke,,Nakuru
+worldstates_ke-32,base.ke,,Nandi
+worldstates_ke-33,base.ke,,Narok
+worldstates_ke-34,base.ke,,Nyamira
+worldstates_ke-35,base.ke,,Nyandarua
+worldstates_ke-36,base.ke,,Nyeri
+worldstates_ke-37,base.ke,,Samburu
+worldstates_ke-38,base.ke,,Siaya
+worldstates_ke-39,base.ke,,Taita/Taveta
+worldstates_ke-40,base.ke,,Tana River
+worldstates_ke-41,base.ke,,Tharaka-Nithi
+worldstates_ke-42,base.ke,,Trans Nzoia
+worldstates_ke-43,base.ke,,Turkana
+worldstates_ke-44,base.ke,,Uasin Gishu
+worldstates_ke-45,base.ke,,Vihiga
+worldstates_ke-46,base.ke,,Wajir
+worldstates_ke-47,base.ke,,West Pokot
+worldstates_kg-b,base.kg,B,Batken
+worldstates_kg-c,base.kg,C,Chü
+worldstates_kg-gb,base.kg,GB,Bishkek
+worldstates_kg-go,base.kg,GO,Osh
+worldstates_kg-j,base.kg,J,Jalal-Abad
+worldstates_kg-n,base.kg,N,Naryn
+worldstates_kg-o,base.kg,O,Osh
+worldstates_kg-t,base.kg,T,Talas
+worldstates_kg-y,base.kg,Y,Ysyk-Köl
+worldstates_kh-1,base.kh,,Banteay Mean Chey [Bântéay Méanchey]
+worldstates_kh-10,base.kh,,Kracheh [Krâchéh]
+worldstates_kh-11,base.kh,,Mondol Kiri [Môndól Kiri]
+worldstates_kh-12,base.kh,,Phnom Penh [Phnum Pénh]
+worldstates_kh-13,base.kh,,Preah Vihear [Preăh Vihéar]
+worldstates_kh-14,base.kh,,Prey Veaeng [Prey Vêng]
+worldstates_kh-15,base.kh,,Pousaat [Poŭthĭsăt]
+worldstates_kh-16,base.kh,,Rotanak Kiri [Rôtânôkiri]
+worldstates_kh-17,base.kh,,Siem Reab [Siĕmréab]
+worldstates_kh-18,base.kh,,Krong Preah Sihanouk [Krŏng Preăh Sihanouk]
+worldstates_kh-19,base.kh,,Stueng Traeng [Stoĕng Trêng]
+worldstates_kh-2,base.kh,,Baat Dambang [Bătdâmbâng]
+worldstates_kh-20,base.kh,,Svaay Rieng [Svay Riĕng]
+worldstates_kh-21,base.kh,,Taakaev [Takêv]
+worldstates_kh-22,base.kh,,Otdar Mean Chey [Ŏtdâr Méanchey]
+worldstates_kh-23,base.kh,,Krong Kaeb [Krŏng Kêb]
+worldstates_kh-24,base.kh,,Krong Pailin [Krŏng Pailĭn]
+worldstates_kh-3,base.kh,,Kampong Chaam [Kâmpóng Cham]
+worldstates_kh-4,base.kh,,Kampong Chhnang [Kâmpóng Chhnăng]
+worldstates_kh-5,base.kh,,Kampong Spueu [Kâmpóng Spœ]
+worldstates_kh-6,base.kh,,Kampong Thum [Kâmpóng Thum]
+worldstates_kh-7,base.kh,,Kampot [Kâmpôt]
+worldstates_kh-8,base.kh,,Kandaal [Kândal]
+worldstates_kh-9,base.kh,,Kaoh Kong [Kaôh Kŏng]
+worldstates_ki-g,base.ki,G,Gilbert Islands
+worldstates_ki-l,base.ki,L,Line Islands
+worldstates_ki-p,base.ki,P,Phoenix Islands
+worldstates_km-a,base.km,A,Anjouan
+worldstates_km-g,base.km,G,Grande Comore
+worldstates_km-m,base.km,M,Mohéli
+worldstates_kn-1,base.kn,,Christ Church Nichola Town
+worldstates_kn-2,base.kn,,Saint Anne Sandy Point
+worldstates_kn-3,base.kn,,Saint George Basseterre
+worldstates_kn-4,base.kn,,Saint George Gingerland
+worldstates_kn-5,base.kn,,Saint James Windward
+worldstates_kn-6,base.kn,,Saint John Capisterre
+worldstates_kn-7,base.kn,,Saint John Figtree
+worldstates_kn-8,base.kn,,Saint Mary Cayon
+worldstates_kn-9,base.kn,,Saint Paul Capisterre
+worldstates_kn-10,base.kn,,Saint Paul Charlestown
+worldstates_kn-11,base.kn,,Saint Peter Basseterre
+worldstates_kn-12,base.kn,,Saint Thomas Lowland
+worldstates_kn-13,base.kn,,Saint Thomas Middle Island
+worldstates_kn-15,base.kn,,Trinity Palmetto Point
+worldstates_kp-1,base.kp,,Phyeongyang
+worldstates_kp-2,base.kp,,Phyeongannamto
+worldstates_kp-3,base.kp,,Phyeonganpukto
+worldstates_kp-4,base.kp,,Jakangto
+worldstates_kp-5,base.kp,,Hwanghainamto
+worldstates_kp-6,base.kp,,Hwanghaipukto
+worldstates_kp-7,base.kp,,Kangweonto
+worldstates_kp-8,base.kp,,Hamkyeongnamto
+worldstates_kp-9,base.kp,,Hamkyeongpukto
+worldstates_kp-10,base.kp,,Yanggang-do
+worldstates_kp-13,base.kp,,Nasǒn
+worldstates_kr-11,base.kr,,Seoul-teukbyeolsi [Seoul]
+worldstates_kr-26,base.kr,,Busan Gwang'yeogsi [Pusan‐Kwangyǒkshi]
+worldstates_kr-27,base.kr,,Daegu Gwang'yeogsi [Taegu‐Kwangyǒkshi]
+worldstates_kr-28,base.kr,,Incheon Gwang'yeogsi [Incheon]
+worldstates_kr-29,base.kr,,Gwangju Gwang'yeogsi [Kwangju‐Kwangyǒkshi]
+worldstates_kr-30,base.kr,,Daejeon Gwang'yeogsi [Taejǒn‐Kwangyǒkshi]
+worldstates_kr-31,base.kr,,Ulsan Gwang'yeogsi [Ulsan-Kwangyŏkshi]
+worldstates_kr-41,base.kr,,Gyeonggido [Kyŏnggi-do]
+worldstates_kr-42,base.kr,,Gang'weondo [Kang-won-do]
+worldstates_kr-43,base.kr,,Chungcheongbugdo [Ch'ungch'ŏngbuk-do]
+worldstates_kr-44,base.kr,,Chungcheongnamdo [Ch'ungch'ŏngnam-do]
+worldstates_kr-45,base.kr,,Jeonrabugdo [Chŏllabuk-do]
+worldstates_kr-46,base.kr,,Jeonranamdo [Chŏllanam-do]
+worldstates_kr-47,base.kr,,Gyeongsangbugdo [Kyŏngsangbuk-do]
+worldstates_kr-48,base.kr,,Gyeongsangnamdo [Kyŏngsangnam-do]
+worldstates_kr-49,base.kr,,Jeju-teukbyeoljachido [Jeju]
+worldstates_kr-50,base.kr,,Sejong
+worldstates_kw-ah,base.kw,AH,Al Aḩmadī
+worldstates_kw-fa,base.kw,FA,Al Farwānīyah
+worldstates_kw-ha,base.kw,HA,Ḩawallī
+worldstates_kw-ja,base.kw,JA,Al Jahrā’
+worldstates_kw-ku,base.kw,KU,Al Kuwayt
+worldstates_kw-mu,base.kw,MU,Mubārak al Kabīr
+worldstates_kz-akm,base.kz,AKM,Aqmola oblysy
+worldstates_kz-akt,base.kz,AKT,Aqtöbe oblysy
+worldstates_kz-ala,base.kz,ALA,Almaty
+worldstates_kz-alm,base.kz,ALM,Almaty oblysy
+worldstates_kz-ast,base.kz,AST,Astana
+worldstates_kz-aty,base.kz,ATY,Atyraū oblysy
+worldstates_kz-kar,base.kz,KAR,Qaraghandy oblysy
+worldstates_kz-kus,base.kz,KUS,Qostanay oblysy
+worldstates_kz-kzy,base.kz,KZY,Qyzylorda oblysy
+worldstates_kz-man,base.kz,MAN,Mangghystaū oblysy
+worldstates_kz-pav,base.kz,PAV,Pavlodar oblysy
+worldstates_kz-sev,base.kz,SEV,Soltüstik Qazaqstan oblysy
+worldstates_kz-vos,base.kz,VOS,Shyghys Qazaqstan oblysy
+worldstates_kz-yuz,base.kz,YUZ,Ongtüstik Qazaqstan oblysy
+worldstates_kz-zap,base.kz,ZAP,Batys Qazaqstan oblysy
+worldstates_kz-zha,base.kz,ZHA,Zhambyl oblysy
+worldstates_la-at,base.la,AT,Attapu [Attopeu]
+worldstates_la-bk,base.la,BK,Bokèo
+worldstates_la-bl,base.la,BL,Bolikhamxai [Borikhane]
+worldstates_la-ch,base.la,CH,Champasak [Champassak]
+worldstates_la-ho,base.la,HO,Houaphan
+worldstates_la-kh,base.la,KH,Khammouan
+worldstates_la-lm,base.la,LM,Louang Namtha
+worldstates_la-lp,base.la,LP,Louangphabang [Louang Prabang)
+worldstates_la-ou,base.la,OU,Oudômxai [Oudomsai]
+worldstates_la-ph,base.la,PH,Phôngsali [Phong Saly]
+worldstates_la-sl,base.la,SL,Salavan [Saravane]
+worldstates_la-sv,base.la,SV,Savannakhét
+worldstates_la-vi,base.la,VI,Vientiane
+worldstates_la-vt,base.la,VT,Vientiane
+worldstates_la-xa,base.la,XA,Xaignabouli [Sayaboury]
+worldstates_la-xe,base.la,XE,Xékong [Sékong]
+worldstates_la-xi,base.la,XI,Xiangkhouang [Xieng Khouang]
+worldstates_la-xn,base.la,XN,Xaisômboun
+worldstates_lb-ak,base.lb,AK,Aakkâr
+worldstates_lb-as,base.lb,AS,Liban‐Nord
+worldstates_lb-ba,base.lb,BA,Beyrouth
+worldstates_lb-bh,base.lb,BH,Baalbek-Hermel
+worldstates_lb-bi,base.lb,BI,El Béqaa
+worldstates_lb-ja,base.lb,JA,Liban‐Sud
+worldstates_lb-jl,base.lb,JL,Mont‐Liban
+worldstates_lb-na,base.lb,NA,Nabatîyé
+worldstates_lc-1,base.lc,,Anse la Raye
+worldstates_lc-2,base.lc,,Castries
+worldstates_lc-3,base.lc,,Choiseul
+worldstates_lc-5,base.lc,,Dennery
+worldstates_lc-6,base.lc,,Gros Islet
+worldstates_lc-7,base.lc,,Laborie
+worldstates_lc-8,base.lc,,Micoud
+worldstates_lc-10,base.lc,,Soufrière
+worldstates_lc-11,base.lc,,Vieux Fort
+worldstates_lc-12,base.lc,,Canaries
+worldstates_li-1,base.li,,Balzers
+worldstates_li-2,base.li,,Eschen
+worldstates_li-3,base.li,,Gamprin
+worldstates_li-4,base.li,,Mauren
+worldstates_li-5,base.li,,Planken
+worldstates_li-6,base.li,,Ruggell
+worldstates_li-7,base.li,,Schaan
+worldstates_li-8,base.li,,Schellenberg
+worldstates_li-9,base.li,,Triesen
+worldstates_li-10,base.li,,Triesenberg
+worldstates_li-11,base.li,,Vaduz
+worldstates_lk-1,base.lk,,Basnāhira paḷāta
+worldstates_lk-11,base.lk,,Colombo
+worldstates_lk-12,base.lk,,Gampaha
+worldstates_lk-13,base.lk,,Kalutara
+worldstates_lk-2,base.lk,,Madhyama paḷāta
+worldstates_lk-21,base.lk,,Kandy
+worldstates_lk-22,base.lk,,Matale
+worldstates_lk-23,base.lk,,Nuwara Eliya
+worldstates_lk-3,base.lk,,Dakuṇu paḷāta
+worldstates_lk-31,base.lk,,Galle
+worldstates_lk-32,base.lk,,Matara
+worldstates_lk-33,base.lk,,Hambantota
+worldstates_lk-4,base.lk,,Uturu paḷāta
+worldstates_lk-41,base.lk,,Jaffna
+worldstates_lk-42,base.lk,,Kilinochchi
+worldstates_lk-43,base.lk,,Mannar
+worldstates_lk-44,base.lk,,Vavuniya
+worldstates_lk-45,base.lk,,Mullaittivu
+worldstates_lk-5,base.lk,,Næ̆gĕnahira paḷāta
+worldstates_lk-51,base.lk,,Batticaloa
+worldstates_lk-52,base.lk,,Ampara
+worldstates_lk-53,base.lk,,Trincomalee
+worldstates_lk-6,base.lk,,Vayamba paḷāta
+worldstates_lk-61,base.lk,,Kurunegala
+worldstates_lk-62,base.lk,,Puttalam
+worldstates_lk-7,base.lk,,Uturumæ̆da paḷāta
+worldstates_lk-71,base.lk,,Anuradhapura
+worldstates_lk-72,base.lk,,Polonnaruwa
+worldstates_lk-8,base.lk,,Ūva paḷāta
+worldstates_lk-81,base.lk,,Badulla
+worldstates_lk-82,base.lk,,Monaragala
+worldstates_lk-9,base.lk,,Sabaragamuva paḷāta
+worldstates_lk-91,base.lk,,Ratnapura
+worldstates_lk-92,base.lk,,Kegalla
+worldstates_lr-bg,base.lr,BG,Bong
+worldstates_lr-bm,base.lr,BM,Bomi
+worldstates_lr-cm,base.lr,CM,Grand Cape Mount
+worldstates_lr-gb,base.lr,GB,Grand Bassa
+worldstates_lr-gg,base.lr,GG,Grand Gedeh
+worldstates_lr-gk,base.lr,GK,Grand Kru
+worldstates_lr-gp,base.lr,GP,Gbarpolu
+worldstates_lr-lo,base.lr,LO,Lofa
+worldstates_lr-mg,base.lr,MG,Margibi
+worldstates_lr-mo,base.lr,MO,Montserrado
+worldstates_lr-my,base.lr,MY,Maryland
+worldstates_lr-ni,base.lr,NI,Nimba
+worldstates_lr-rg,base.lr,RG,River Gee
+worldstates_lr-ri,base.lr,RI,Rivercess
+worldstates_lr-si,base.lr,SI,Sinoe
+worldstates_ls-a,base.ls,A,Maseru
+worldstates_ls-b,base.ls,B,Butha-Buthe
+worldstates_ls-c,base.ls,C,Leribe
+worldstates_ls-d,base.ls,D,Berea
+worldstates_ls-e,base.ls,E,Mafeteng
+worldstates_ls-f,base.ls,F,Mohale's Hoek
+worldstates_ls-g,base.ls,G,Quthing
+worldstates_ls-h,base.ls,H,Qacha's Nek
+worldstates_ls-j,base.ls,J,Mokhotlong
+worldstates_ls-k,base.ls,K,Thaba-Tseka
+worldstates_lt-1,base.lt,,Akmenė
+worldstates_lt-2,base.lt,,Alytaus miestas
+worldstates_lt-3,base.lt,,Alytus
+worldstates_lt-4,base.lt,,Anykščiai
+worldstates_lt-5,base.lt,,Birštono
+worldstates_lt-6,base.lt,,Biržai
+worldstates_lt-7,base.lt,,Druskininkai
+worldstates_lt-8,base.lt,,Elektrénai
+worldstates_lt-9,base.lt,,Ignalina
+worldstates_lt-10,base.lt,,Jonava
+worldstates_lt-11,base.lt,,Joniškis
+worldstates_lt-12,base.lt,,Jurbarkas
+worldstates_lt-13,base.lt,,Kaišiadorys
+worldstates_lt-14,base.lt,,Kalvarijos
+worldstates_lt-15,base.lt,,Kauno miestas
+worldstates_lt-16,base.lt,,Kaunas
+worldstates_lt-17,base.lt,,Kazlų Rūdos
+worldstates_lt-18,base.lt,,Kėdainiai
+worldstates_lt-19,base.lt,,Kelmė
+worldstates_lt-20,base.lt,,Klaipėdos miestas
+worldstates_lt-21,base.lt,,Klaipėda
+worldstates_lt-22,base.lt,,Kretinga
+worldstates_lt-23,base.lt,,Kupiškis
+worldstates_lt-24,base.lt,,Lazdijai
+worldstates_lt-25,base.lt,,Marijampolė
+worldstates_lt-26,base.lt,,Mažeikiai
+worldstates_lt-27,base.lt,,Molėtai
+worldstates_lt-28,base.lt,,Neringa
+worldstates_lt-29,base.lt,,Pagégiai
+worldstates_lt-30,base.lt,,Pakruojis
+worldstates_lt-31,base.lt,,Palangos miestas
+worldstates_lt-32,base.lt,,Panevėžio miestas
+worldstates_lt-33,base.lt,,Panevėžys
+worldstates_lt-34,base.lt,,Pasvalys
+worldstates_lt-35,base.lt,,Plungė
+worldstates_lt-36,base.lt,,Prienai
+worldstates_lt-37,base.lt,,Radviliškis
+worldstates_lt-38,base.lt,,Raseiniai
+worldstates_lt-39,base.lt,,Rietavo
+worldstates_lt-40,base.lt,,Rokiškis
+worldstates_lt-41,base.lt,,Šakiai
+worldstates_lt-42,base.lt,,Šalčininkai
+worldstates_lt-43,base.lt,,Šiaulių miestas
+worldstates_lt-44,base.lt,,Šiauliai
+worldstates_lt-45,base.lt,,Šilalė
+worldstates_lt-46,base.lt,,Šilutė
+worldstates_lt-47,base.lt,,Širvintos
+worldstates_lt-48,base.lt,,Skuodas
+worldstates_lt-49,base.lt,,Švenčionys
+worldstates_lt-50,base.lt,,Tauragė
+worldstates_lt-51,base.lt,,Telšiai
+worldstates_lt-52,base.lt,,Trakai
+worldstates_lt-53,base.lt,,Ukmergė
+worldstates_lt-54,base.lt,,Utena
+worldstates_lt-55,base.lt,,Varėna
+worldstates_lt-56,base.lt,,Vilkaviškis
+worldstates_lt-57,base.lt,,Vilniaus miestas
+worldstates_lt-58,base.lt,,Vilnius
+worldstates_lt-59,base.lt,,Visaginas
+worldstates_lt-60,base.lt,,Zarasai
+worldstates_lt-al,base.lt,AL,Alytaus Apskritis
+worldstates_lt-kl,base.lt,KL,Klaipėdos apskritis
+worldstates_lt-ku,base.lt,KU,Kauno Apskritis
+worldstates_lt-mr,base.lt,MR,Marijampolės apskritis
+worldstates_lt-pn,base.lt,PN,Panevėžio apskritis
+worldstates_lt-sa,base.lt,SA,Šiaulių Apskritis
+worldstates_lt-ta,base.lt,TA,Tauragės apskritis
+worldstates_lt-te,base.lt,TE,Telšių Apskritis
+worldstates_lt-ut,base.lt,UT,Utenos Apskritis
+worldstates_lt-vl,base.lt,VL,Vilniaus Apskritis
+worldstates_lu-d,base.lu,D,Diekirch
+worldstates_lu-g,base.lu,G,Grevenmacher
+worldstates_lu-l,base.lu,L,Luxembourg (fr)
+worldstates_lv-1,base.lv,,Aglonas novads (Aglona)
+worldstates_lv-2,base.lv,,Aizkraukles novads (Aizkraukle)
+worldstates_lv-3,base.lv,,Aizputes novads (Aizpute)
+worldstates_lv-4,base.lv,,Aknīstes novads (Aknīste)
+worldstates_lv-5,base.lv,,Alojas novads (Aloja)
+worldstates_lv-6,base.lv,,Alsungas novads (Alsunga)
+worldstates_lv-7,base.lv,,Alūksnes novads (Alūksne)
+worldstates_lv-8,base.lv,,Amatas novads (Amata)
+worldstates_lv-9,base.lv,,Apes novads (Ape)
+worldstates_lv-10,base.lv,,Auces novads (Auce)
+worldstates_lv-11,base.lv,,Ādažu novads (Ādaži)
+worldstates_lv-12,base.lv,,Babītes novads (Babīte)
+worldstates_lv-13,base.lv,,Baldones novads (Baldone)
+worldstates_lv-14,base.lv,,Baltinavas novads (Baltinava)
+worldstates_lv-15,base.lv,,Balvu novads (Balvi)
+worldstates_lv-16,base.lv,,Bauskas novads (Bauska)
+worldstates_lv-17,base.lv,,Beverīnas novads (Beverīna)
+worldstates_lv-18,base.lv,,Brocēnu novads (Brocēni)
+worldstates_lv-19,base.lv,,Burtnieku novads (Burtnieki)
+worldstates_lv-20,base.lv,,Carnikavas novads (Carnikava)
+worldstates_lv-21,base.lv,,Cesvaines novads (Cesvaine)
+worldstates_lv-22,base.lv,,Cēsu novads (Cēsis)
+worldstates_lv-23,base.lv,,Ciblas novads (Cibla)
+worldstates_lv-24,base.lv,,Dagdas novads (Dagda)
+worldstates_lv-25,base.lv,,Daugavpils novads (Daugavpils)
+worldstates_lv-26,base.lv,,Dobeles novads (Dobele)
+worldstates_lv-27,base.lv,,Dundagas novads (Dundaga)
+worldstates_lv-28,base.lv,,Durbes novads (Durbe)
+worldstates_lv-29,base.lv,,Engures novads (Engure)
+worldstates_lv-30,base.lv,,Ērgļu novads (Ērgļi)
+worldstates_lv-31,base.lv,,Garkalnes novads (Garkalne)
+worldstates_lv-32,base.lv,,Grobiņas novads (Grobiņa)
+worldstates_lv-33,base.lv,,Gulbenes novads (Gulbene)
+worldstates_lv-34,base.lv,,Iecavas novads (Iecava)
+worldstates_lv-35,base.lv,,Ikšķiles novads (Ikšķile)
+worldstates_lv-36,base.lv,,Ilūkstes novads (Ilūkste)
+worldstates_lv-37,base.lv,,Inčukalna novads (Inčukalns)
+worldstates_lv-38,base.lv,,"Jaunjelgavas novads
+
+(Jaunjelgava)"
+worldstates_lv-39,base.lv,,"Jaunpiebalgas novads
+
+(Jaunpiebalga)"
+worldstates_lv-40,base.lv,,Jaunpils novads (Jaunpils)
+worldstates_lv-41,base.lv,,Jelgavas novads (Jelgava)
+worldstates_lv-42,base.lv,,Jēkabpils novads (Jēkabpils)
+worldstates_lv-43,base.lv,,Kandavas novads (Kandava)
+worldstates_lv-44,base.lv,,Kārsavas novads (Kārsava)
+worldstates_lv-45,base.lv,,Kocēnu novads (Kocēni)
+worldstates_lv-46,base.lv,,Kokneses novads (Koknese)
+worldstates_lv-47,base.lv,,Kraslavas novads (Krāslava)
+worldstates_lv-48,base.lv,,Krimuldas novads (Krimulda)
+worldstates_lv-49,base.lv,,Krustpils novads (Krustpils)
+worldstates_lv-50,base.lv,,Kuldīgas novads (Kuldīga)
+worldstates_lv-51,base.lv,,Ķeguma novads (Ķegums)
+worldstates_lv-52,base.lv,,Ķekavas novads (Ķekava)
+worldstates_lv-53,base.lv,,Lielvārdes novads (Lielvārde)
+worldstates_lv-54,base.lv,,Limbažu novads (Limbaži)
+worldstates_lv-55,base.lv,,Līgatnes novads (Līgatne)
+worldstates_lv-56,base.lv,,Līvānu novads (Līvāni)
+worldstates_lv-57,base.lv,,Lubanas novads (Lubāna)
+worldstates_lv-58,base.lv,,Ludzas novads (Ludza)
+worldstates_lv-59,base.lv,,Madonas novads (Madona)
+worldstates_lv-60,base.lv,,Mazsalacas novads (Mazsalaca)
+worldstates_lv-61,base.lv,,Mālpils novads (Mālpils)
+worldstates_lv-62,base.lv,,Mārupes novads (Mārupe)
+worldstates_lv-63,base.lv,,Mērsraga novads (Mērsrags)
+worldstates_lv-64,base.lv,,Naukšēnu novads (Naukšēni)
+worldstates_lv-65,base.lv,,Neretas novads (Nereta)
+worldstates_lv-66,base.lv,,Nīcas novads (Nīca)
+worldstates_lv-67,base.lv,,Ogres novads (Ogre)
+worldstates_lv-68,base.lv,,Olaines novads (Olaine)
+worldstates_lv-69,base.lv,,Ozolnieku novads (Ozolnieki)
+worldstates_lv-70,base.lv,,Pārgaujas novads (Pārgauja)
+worldstates_lv-71,base.lv,,Pāvilostas novads (Pāvilosta)
+worldstates_lv-72,base.lv,,Pļaviņu novads (Pļaviņas)
+worldstates_lv-73,base.lv,,Preilu novads (Preiļi)
+worldstates_lv-74,base.lv,,Priekules novads (Priekule)
+worldstates_lv-75,base.lv,,Priekuļu novads (Priekuļi)
+worldstates_lv-76,base.lv,,Raunas novads (Rauna)
+worldstates_lv-77,base.lv,,Rēzeknes novads (Rēzekne)
+worldstates_lv-78,base.lv,,Riebiņu novads (Riebiņi)
+worldstates_lv-79,base.lv,,Rojas novads (Roja)
+worldstates_lv-80,base.lv,,Ropažu novads (Ropaži)
+worldstates_lv-81,base.lv,,Rucavas novads (Rucava)
+worldstates_lv-82,base.lv,,Rugāju novads (Rugāji)
+worldstates_lv-83,base.lv,,Rundāles novads (Rundāle)
+worldstates_lv-84,base.lv,,Rūjienas novads (Rūjiena)
+worldstates_lv-85,base.lv,,Salas novads (Sala)
+worldstates_lv-86,base.lv,,Salacgrīvas novads (Salacgrīva)
+worldstates_lv-87,base.lv,,Salaspils novads (Salaspils)
+worldstates_lv-88,base.lv,,Saldus novads (Saldus)
+worldstates_lv-89,base.lv,,Saulkrastu novads (Saulkrasti)
+worldstates_lv-90,base.lv,,Sējas novads (Sēja)
+worldstates_lv-91,base.lv,,Siguldas novads (Sigulda)
+worldstates_lv-92,base.lv,,Skrīveru novads (Skrīveri)
+worldstates_lv-93,base.lv,,Skrundas novads (Skrunda)
+worldstates_lv-94,base.lv,,Smiltenes novads (Smiltene)
+worldstates_lv-95,base.lv,,Stopiņu novads (Stopiņi)
+worldstates_lv-96,base.lv,,Strenču novads (Strenči)
+worldstates_lv-97,base.lv,,Talsu novads (Talsi)
+worldstates_lv-98,base.lv,,Tērvetes novads (Tērvete)
+worldstates_lv-99,base.lv,,Tukuma novads (Tukums)
+worldstates_lv-100,base.lv,,Vaiņodes novads (Vaiņode)
+worldstates_lv-101,base.lv,,Valkas novads (Valka)
+worldstates_lv-102,base.lv,,Varakļānu novads (Varakļāni)
+worldstates_lv-103,base.lv,,Vārkavas novads (Vārkava)
+worldstates_lv-104,base.lv,,"Vecpiebalgas novads
+
+(Vecpiebalga)"
+worldstates_lv-105,base.lv,,Vecumnieku novads (Vecumnieki)
+worldstates_lv-106,base.lv,,Ventspils novads (Ventspils)
+worldstates_lv-107,base.lv,,Viesītes novads (Viesīte)
+worldstates_lv-108,base.lv,,Viļakas novads (Viļaka)
+worldstates_lv-109,base.lv,,Viļānu novads (Viļāni)
+worldstates_lv-110,base.lv,,Zilupes novads (Zilupe)
+worldstates_lv-dgv,base.lv,DGV,Daugavpils
+worldstates_lv-jel,base.lv,JEL,Jelgava
+worldstates_lv-jkb,base.lv,JKB,Jēkabpils
+worldstates_lv-jur,base.lv,JUR,Jūrmala
+worldstates_lv-lpx,base.lv,LPX,Liepāja
+worldstates_lv-rez,base.lv,REZ,Rēzekne
+worldstates_lv-rix,base.lv,RIX,Rīga
+worldstates_lv-ven,base.lv,VEN,Ventspils
+worldstates_lv-vmr,base.lv,VMR,Valmiera
+worldstates_ly-ba,base.ly,BA,Banghāzī
+worldstates_ly-bu,base.ly,BU,Al Buţnān
+worldstates_ly-dr,base.ly,DR,Darnah
+worldstates_ly-gt,base.ly,GT,Ghāt
+worldstates_ly-ja,base.ly,JA,Al Jabal al Akhḑar
+worldstates_ly-jg,base.ly,JG,Al Jabal al Gharbī
+worldstates_ly-ji,base.ly,JI,Al Jifārah
+worldstates_ly-ju,base.ly,JU,Al Jufrah
+worldstates_ly-kf,base.ly,KF,Al Kufrah
+worldstates_ly-mb,base.ly,MB,Al Marqab
+worldstates_ly-mi,base.ly,MI,Mişrātah
+worldstates_ly-mj,base.ly,MJ,Al Marj
+worldstates_ly-mq,base.ly,MQ,Murzuq
+worldstates_ly-nl,base.ly,NL,Nālūt
+worldstates_ly-nq,base.ly,NQ,An Nuqaţ al Khams
+worldstates_ly-sb,base.ly,SB,Sabhā
+worldstates_ly-sr,base.ly,SR,Surt
+worldstates_ly-tb,base.ly,TB,Ţarābulus
+worldstates_ly-wa,base.ly,WA,Al Wāḩāt
+worldstates_ly-wd,base.ly,WD,Wādī al Hayāt
+worldstates_ly-ws,base.ly,WS,Wādī ash Shāţiʾ
+worldstates_ly-za,base.ly,ZA,Az Zāwiyah
+worldstates_ma-1,base.ma,,Tanger-Tétouan
+worldstates_ma-2,base.ma,,Gharb-Chrarda-Beni Hssen
+worldstates_ma-3,base.ma,,Taza-Al Hoceima-Taounate
+worldstates_ma-4,base.ma,,L'Oriental
+worldstates_ma-5,base.ma,,Fès-Boulemane
+worldstates_ma-6,base.ma,,Meknès-Tafilalet
+worldstates_ma-7,base.ma,,Rabat-Salé-Zemmour-Zaer
+worldstates_ma-8,base.ma,,Grand Casablanca
+worldstates_ma-9,base.ma,,Chaouia-Ouardigha
+worldstates_ma-10,base.ma,,Doukhala-Abda
+worldstates_ma-11,base.ma,,Marrakech-Tensift-Al Haouz
+worldstates_ma-12,base.ma,,Tadla-Azilal
+worldstates_ma-13,base.ma,,Sous-Massa-Draa
+worldstates_ma-14,base.ma,,Guelmim-Es Semara
+worldstates_ma-15,base.ma,,Laâyoune-Boujdour-Sakia el Hamra
+worldstates_ma-16,base.ma,,Oued ed Dahab-Lagouira
+worldstates_ma-agd,base.ma,AGD,Agadir‐Ida‐Outanane
+worldstates_ma-aou,base.ma,AOU,Aousserd
+worldstates_ma-asz,base.ma,ASZ,Assa-Zag
+worldstates_ma-azi,base.ma,AZI,Azilal
+worldstates_ma-bem,base.ma,BEM,Beni Mellal
+worldstates_ma-ber,base.ma,BER,Berkane
+worldstates_ma-bes,base.ma,BES,Ben Slimane
+worldstates_ma-bod,base.ma,BOD,Boujdour (EH)
+worldstates_ma-bom,base.ma,BOM,Boulemane
+worldstates_ma-cas,base.ma,CAS,Casablanca [Dar el Beïda]*
+worldstates_ma-che,base.ma,CHE,Chefchaouene
+worldstates_ma-chi,base.ma,CHI,Chichaoua
+worldstates_ma-cht,base.ma,CHT,Chtouka-Ait Baha
+worldstates_ma-err,base.ma,ERR,Errachidia
+worldstates_ma-esi,base.ma,ESI,Essaouira
+worldstates_ma-esm,base.ma,ESM,Es Smara (EH)
+worldstates_ma-fah,base.ma,FAH,Fahs-Beni Makada
+worldstates_ma-fes,base.ma,FES,Fès‐Dar‐Dbibegh
+worldstates_ma-fig,base.ma,FIG,Figuig
+worldstates_ma-gue,base.ma,GUE,Guelmim
+worldstates_ma-haj,base.ma,HAJ,El Hajeb
+worldstates_ma-hao,base.ma,HAO,Al Haouz
+worldstates_ma-hoc,base.ma,HOC,Al Hoceïma
+worldstates_ma-ifr,base.ma,IFR,Ifrane
+worldstates_ma-ine,base.ma,INE,Inezgane-Ait Melloul
+worldstates_ma-jdi,base.ma,JDI,El Jadida
+worldstates_ma-jra,base.ma,JRA,Jrada
+worldstates_ma-ken,base.ma,KEN,Kénitra
+worldstates_ma-kes,base.ma,KES,Kelaat Sraghna
+worldstates_ma-khe,base.ma,KHE,Khemisset
+worldstates_ma-khn,base.ma,KHN,Khenifra
+worldstates_ma-kho,base.ma,KHO,Khouribga
+worldstates_ma-laa,base.ma,LAA,Laâyoune
+worldstates_ma-lar,base.ma,LAR,Larache
+worldstates_ma-med,base.ma,MED,Médiouna
+worldstates_ma-mek,base.ma,MEK,Meknès*
+worldstates_ma-mmd,base.ma,MMD,Marrakech-Medina
+worldstates_ma-mmn,base.ma,MMN,Marrakech-Menara
+worldstates_ma-moh,base.ma,MOH,Mohammadia
+worldstates_ma-mou,base.ma,MOU,Moulay Yacoub
+worldstates_ma-nad,base.ma,NAD,Nador
+worldstates_ma-nou,base.ma,NOU,Nouaceur
+worldstates_ma-oua,base.ma,OUA,Ouarzazate
+worldstates_ma-oud,base.ma,OUD,Oued ed Dahab (EH)
+worldstates_ma-ouj,base.ma,OUJ,Oujda‐Angad
+worldstates_ma-rab,base.ma,RAB,Rabat
+worldstates_ma-saf,base.ma,SAF,Safi
+worldstates_ma-sal,base.ma,SAL,Salé
+worldstates_ma-sef,base.ma,SEF,Sefrou
+worldstates_ma-set,base.ma,SET,Settat
+worldstates_ma-sik,base.ma,SIK,Sidi Kacem
+worldstates_ma-skh,base.ma,SKH,Skhirate-Témara
+worldstates_ma-syb,base.ma,SYB,Sidi Youssef Ben Ali
+worldstates_ma-tai,base.ma,TAI,Taourirt
+worldstates_ma-tao,base.ma,TAO,Taounate
+worldstates_ma-tar,base.ma,TAR,Taroudannt
+worldstates_ma-tat,base.ma,TAT,Tata
+worldstates_ma-taz,base.ma,TAZ,Taza
+worldstates_ma-tet,base.ma,TET,Tétouan*
+worldstates_ma-tiz,base.ma,TIZ,Tiznit
+worldstates_ma-tng,base.ma,TNG,Tanger‐Assilah
+worldstates_ma-tnt,base.ma,TNT,Tan-Tan
+worldstates_ma-zag,base.ma,ZAG,Zagora
+worldstates_mc-cl,base.mc,CL,La Colle
+worldstates_mc-co,base.mc,CO,La Condamine
+worldstates_mc-fo,base.mc,FO,Fontvieille
+worldstates_mc-ga,base.mc,GA,La Gare
+worldstates_mc-je,base.mc,JE,Jardin Exotique
+worldstates_mc-la,base.mc,LA,Larvotto
+worldstates_mc-ma,base.mc,MA,Malbousquet
+worldstates_mc-mc,base.mc,MC,Monte‐Carlo
+worldstates_mc-mg,base.mc,MG,Moneghetti
+worldstates_mc-mo,base.mc,MO,Monaco‐Ville
+worldstates_mc-mu,base.mc,MU,Moulins
+worldstates_mc-ph,base.mc,PH,Port‐Hercule
+worldstates_mc-sd,base.mc,SD,Sainte‐Dévote
+worldstates_mc-so,base.mc,SO,La Source
+worldstates_mc-sp,base.mc,SP,Spélugues
+worldstates_mc-sr,base.mc,SR,Saint‐Roman
+worldstates_mc-vr,base.mc,VR,Vallon de la Rousse
+worldstates_md-an,base.md,AN,Anenii Noi
+worldstates_md-ba,base.md,BA,Bălţi
+worldstates_md-bd,base.md,BD,Bender [Tighina]
+worldstates_md-br,base.md,BR,Briceni
+worldstates_md-bs,base.md,BS,Basarabeasca
+worldstates_md-ca,base.md,CA,Cahul
+worldstates_md-cl,base.md,CL,Călăraşi
+worldstates_md-cm,base.md,CM,Cimişlia
+worldstates_md-cr,base.md,CR,Criuleni
+worldstates_md-cs,base.md,CS,Căuşeni
+worldstates_md-ct,base.md,CT,Cantemir
+worldstates_md-cu,base.md,CU,Chişinău
+worldstates_md-do,base.md,DO,Donduşeni
+worldstates_md-dr,base.md,DR,Drochia
+worldstates_md-du,base.md,DU,Dubăsari
+worldstates_md-ed,base.md,ED,Edineţ
+worldstates_md-fa,base.md,FA,Făleşti
+worldstates_md-fl,base.md,FL,Floreşti
+worldstates_md-ga,base.md,GA,"Găgăuzia, Unitatea teritorială
+
+autonomă (UTAG)"
+worldstates_md-gl,base.md,GL,Glodeni
+worldstates_md-hi,base.md,HI,Hînceşti
+worldstates_md-ia,base.md,IA,Ialoveni
+worldstates_md-le,base.md,LE,Leova
+worldstates_md-ni,base.md,NI,Nisporeni
+worldstates_md-oc,base.md,OC,Ocniþa
+worldstates_md-or,base.md,OR,Orhei
+worldstates_md-re,base.md,RE,Rezina
+worldstates_md-ri,base.md,RI,Rîşcani
+worldstates_md-sd,base.md,SD,Şoldăneşti
+worldstates_md-si,base.md,SI,Sîngerei
+worldstates_md-sn,base.md,SN,"Stînga Nistrului, unitatea teritorială din"
+worldstates_md-so,base.md,SO,Soroca
+worldstates_md-st,base.md,ST,Străşeni
+worldstates_md-sv,base.md,SV,Ştefan Vodă
+worldstates_md-ta,base.md,TA,Taraclia
+worldstates_md-te,base.md,TE,Teleneşti
+worldstates_md-un,base.md,UN,Ungheni
+worldstates_me-1,base.me,,Andrijevica
+worldstates_me-2,base.me,,Bar
+worldstates_me-3,base.me,,Berane
+worldstates_me-4,base.me,,Bijelo Polje
+worldstates_me-5,base.me,,Budva
+worldstates_me-6,base.me,,Cetinje
+worldstates_me-7,base.me,,Danilovgrad
+worldstates_me-8,base.me,,Herceg-Novi
+worldstates_me-9,base.me,,Kolašin
+worldstates_me-10,base.me,,Kotor
+worldstates_me-11,base.me,,Mojkovac
+worldstates_me-12,base.me,,Nikšić
+worldstates_me-13,base.me,,Plav
+worldstates_me-14,base.me,,Pljevlja
+worldstates_me-15,base.me,,Plužine
+worldstates_me-16,base.me,,Podgorica
+worldstates_me-17,base.me,,Rožaje
+worldstates_me-18,base.me,,Šavnik
+worldstates_me-19,base.me,,Tivat
+worldstates_me-20,base.me,,Ulcinj
+worldstates_me-21,base.me,,Žabljak
+worldstates_me-22,base.me,,Gusinje
+worldstates_me-23,base.me,,Petnjica
+worldstates_mg-a,base.mg,A,Toamasina
+worldstates_mg-d,base.mg,D,Antsiranana
+worldstates_mg-f,base.mg,F,Fianarantsoa
+worldstates_mg-m,base.mg,M,Mahajanga
+worldstates_mg-t,base.mg,T,Antananarivo
+worldstates_mg-u,base.mg,U,Toliara
+worldstates_mh-alk,base.mh,ALK,Ailuk
+worldstates_mh-all,base.mh,ALL,Ailinglapalap
+worldstates_mh-arn,base.mh,ARN,Arno
+worldstates_mh-aur,base.mh,AUR,Aur
+worldstates_mh-ebo,base.mh,EBO,Ebon
+worldstates_mh-eni,base.mh,ENI,Enewetak and Ujelang
+worldstates_mh-jab,base.mh,JAB,Jabat
+worldstates_mh-jal,base.mh,JAL,Jaluit
+worldstates_mh-kil,base.mh,KIL,Bikini and Kili
+worldstates_mh-kwa,base.mh,KWA,Kwajalein
+worldstates_mh-l,base.mh,L,Ralik chain
+worldstates_mh-lae,base.mh,LAE,Lae
+worldstates_mh-lib,base.mh,LIB,Lib
+worldstates_mh-lik,base.mh,LIK,Likiep
+worldstates_mh-maj,base.mh,MAJ,Majuro
+worldstates_mh-mal,base.mh,MAL,Maloelap
+worldstates_mh-mej,base.mh,MEJ,Mejit
+worldstates_mh-mil,base.mh,MIL,Mili
+worldstates_mh-nmk,base.mh,NMK,Namdrik
+worldstates_mh-nmu,base.mh,NMU,Namu
+worldstates_mh-ron,base.mh,RON,Rongelap
+worldstates_mh-t,base.mh,T,Ratak chain
+worldstates_mh-uja,base.mh,UJA,Ujae
+worldstates_mh-uti,base.mh,UTI,Utrik
+worldstates_mh-wth,base.mh,WTH,Wotho
+worldstates_mh-wtj,base.mh,WTJ,Wotje
+worldstates_mk-1,base.mk,,Aerodrom *
+worldstates_mk-2,base.mk,,Aračinovo
+worldstates_mk-3,base.mk,,Berovo
+worldstates_mk-4,base.mk,,Bitola
+worldstates_mk-5,base.mk,,Bogdanci
+worldstates_mk-6,base.mk,,Bogovinje
+worldstates_mk-7,base.mk,,Bosilovo
+worldstates_mk-8,base.mk,,Brvenica
+worldstates_mk-9,base.mk,,Butel *
+worldstates_mk-10,base.mk,,Valandovo
+worldstates_mk-11,base.mk,,Vasilevo
+worldstates_mk-12,base.mk,,Vevčani
+worldstates_mk-13,base.mk,,Veles
+worldstates_mk-14,base.mk,,Vinica
+worldstates_mk-15,base.mk,,Vraneštica
+worldstates_mk-16,base.mk,,Vrapčište
+worldstates_mk-17,base.mk,,Gazi Baba *
+worldstates_mk-18,base.mk,,Gevgelija
+worldstates_mk-19,base.mk,,Gostivar
+worldstates_mk-20,base.mk,,Gradsko
+worldstates_mk-21,base.mk,,Debar
+worldstates_mk-22,base.mk,,Debarca
+worldstates_mk-23,base.mk,,Delčevo
+worldstates_mk-24,base.mk,,Demir Kapija
+worldstates_mk-25,base.mk,,Demir Hisar
+worldstates_mk-26,base.mk,,Dojran
+worldstates_mk-27,base.mk,,Dolneni
+worldstates_mk-28,base.mk,,Drugovo
+worldstates_mk-29,base.mk,,Gjorče Petrov *
+worldstates_mk-30,base.mk,,Želino
+worldstates_mk-31,base.mk,,Zajas
+worldstates_mk-32,base.mk,,Zelenikovo
+worldstates_mk-33,base.mk,,Zrnovci
+worldstates_mk-34,base.mk,,Ilinden
+worldstates_mk-35,base.mk,,Jegunovce
+worldstates_mk-36,base.mk,,Kavadarci
+worldstates_mk-37,base.mk,,Karbinci
+worldstates_mk-38,base.mk,,Karpoš *
+worldstates_mk-39,base.mk,,Kisela Voda *
+worldstates_mk-40,base.mk,,Kičevo
+worldstates_mk-41,base.mk,,Konče
+worldstates_mk-42,base.mk,,Kočani
+worldstates_mk-43,base.mk,,Kratovo
+worldstates_mk-44,base.mk,,Kriva Palanka
+worldstates_mk-45,base.mk,,Krivogaštani
+worldstates_mk-46,base.mk,,Kruševo
+worldstates_mk-47,base.mk,,Kumanovo
+worldstates_mk-48,base.mk,,Lipkovo
+worldstates_mk-49,base.mk,,Lozovo
+worldstates_mk-50,base.mk,,Mavrovo-i-Rostuša
+worldstates_mk-51,base.mk,,Makedonska Kamenica
+worldstates_mk-52,base.mk,,Makedonski Brod
+worldstates_mk-53,base.mk,,Mogila
+worldstates_mk-54,base.mk,,Negotino
+worldstates_mk-55,base.mk,,Novaci
+worldstates_mk-56,base.mk,,Novo Selo
+worldstates_mk-57,base.mk,,Oslomej
+worldstates_mk-58,base.mk,,Ohrid
+worldstates_mk-59,base.mk,,Petrovec
+worldstates_mk-60,base.mk,,Pehčevo
+worldstates_mk-61,base.mk,,Plasnica
+worldstates_mk-62,base.mk,,Prilep
+worldstates_mk-63,base.mk,,Probištip
+worldstates_mk-64,base.mk,,Radoviš
+worldstates_mk-65,base.mk,,Rankovce
+worldstates_mk-66,base.mk,,Resen
+worldstates_mk-67,base.mk,,Rosoman
+worldstates_mk-68,base.mk,,Saraj *
+worldstates_mk-69,base.mk,,Sveti Nikole
+worldstates_mk-70,base.mk,,Sopište
+worldstates_mk-71,base.mk,,Staro Nagoričane
+worldstates_mk-72,base.mk,,Struga
+worldstates_mk-73,base.mk,,Strumica
+worldstates_mk-74,base.mk,,Studeničani
+worldstates_mk-75,base.mk,,Tearce
+worldstates_mk-76,base.mk,,Tetovo
+worldstates_mk-77,base.mk,,Centar *
+worldstates_mk-78,base.mk,,Centar Župa
+worldstates_mk-79,base.mk,,Čair *
+worldstates_mk-80,base.mk,,Čaška
+worldstates_mk-81,base.mk,,Češinovo-Obleševo
+worldstates_mk-82,base.mk,,Čučer Sandevo
+worldstates_mk-83,base.mk,,Štip
+worldstates_mk-84,base.mk,,Šuto Orizari *
+worldstates_ml-1,base.ml,,Kayes
+worldstates_ml-2,base.ml,,Koulikoro
+worldstates_ml-3,base.ml,,Sikasso
+worldstates_ml-4,base.ml,,Ségou
+worldstates_ml-5,base.ml,,Mopti
+worldstates_ml-6,base.ml,,Tombouctou
+worldstates_ml-7,base.ml,,Gao
+worldstates_ml-8,base.ml,,Kidal
+worldstates_ml-bko,base.ml,BKO,Bamako
+worldstates_mm-1,base.mm,,Sagaing
+worldstates_mm-2,base.mm,,Bago
+worldstates_mm-3,base.mm,,Magway
+worldstates_mm-4,base.mm,,Mandalay
+worldstates_mm-5,base.mm,,Taninthayi
+worldstates_mm-6,base.mm,,Yangon
+worldstates_mm-7,base.mm,,Ayeyawady
+worldstates_mm-11,base.mm,,Kachin
+worldstates_mm-12,base.mm,,Kayah
+worldstates_mm-13,base.mm,,Kayin
+worldstates_mm-14,base.mm,,Chin
+worldstates_mm-15,base.mm,,Mon
+worldstates_mm-16,base.mm,,Rakhine
+worldstates_mm-17,base.mm,,Shan
+worldstates_mm-18,base.mm,,Nay Pyi Taw
+worldstates_mn-35,base.mn,,Orhon
+worldstates_mn-37,base.mn,,Darhan uul
+worldstates_mn-39,base.mn,,Hentiy
+worldstates_mn-41,base.mn,,Hövagöl
+worldstates_mn-43,base.mn,,Hovd
+worldstates_mn-46,base.mn,,Uvs
+worldstates_mn-47,base.mn,,Töv
+worldstates_mn-49,base.mn,,Selenge
+worldstates_mn-51,base.mn,,Sühbaatar
+worldstates_mn-53,base.mn,,Ömnögovĭ
+worldstates_mn-55,base.mn,,Övörhangay
+worldstates_mn-57,base.mn,,Dzavhan
+worldstates_mn-59,base.mn,,Dundgovĭ
+worldstates_mn-61,base.mn,,Dornod
+worldstates_mn-63,base.mn,,Dornogovĭ
+worldstates_mn-64,base.mn,,Govĭ‐Sümber
+worldstates_mn-65,base.mn,,Govĭ-Altay
+worldstates_mn-67,base.mn,,Bulgan
+worldstates_mn-69,base.mn,,Bayanhongor
+worldstates_mn-71,base.mn,,Bayan-Ölgiy
+worldstates_mn-73,base.mn,,Arhangay
+worldstates_mn-1,base.mn,,Ulaanbaatar
+worldstates_mr-1,base.mr,,Hodh ech Chargui
+worldstates_mr-2,base.mr,,Hodh el Gharbi
+worldstates_mr-3,base.mr,,Assaba
+worldstates_mr-4,base.mr,,Gorgol
+worldstates_mr-5,base.mr,,Brakna
+worldstates_mr-6,base.mr,,Trarza
+worldstates_mr-7,base.mr,,Adrar
+worldstates_mr-8,base.mr,,Dakhlet Nouâdhibou
+worldstates_mr-9,base.mr,,Tagant
+worldstates_mr-10,base.mr,,Guidimaka
+worldstates_mr-11,base.mr,,Tiris Zemmour
+worldstates_mr-12,base.mr,,Inchiri
+worldstates_mr-nkc,base.mr,NKC,Nouakchott
+worldstates_mt-1,base.mt,,Attard
+worldstates_mt-2,base.mt,,Balzan
+worldstates_mt-3,base.mt,,Birgu
+worldstates_mt-4,base.mt,,Birkirkara
+worldstates_mt-5,base.mt,,Birżebbuġa
+worldstates_mt-6,base.mt,,Bormla
+worldstates_mt-7,base.mt,,Dingli
+worldstates_mt-8,base.mt,,Fgura
+worldstates_mt-9,base.mt,,Floriana
+worldstates_mt-10,base.mt,,Fontana
+worldstates_mt-11,base.mt,,Gudja
+worldstates_mt-12,base.mt,,Gżira
+worldstates_mt-13,base.mt,,Għajnsielem
+worldstates_mt-14,base.mt,,Għarb
+worldstates_mt-15,base.mt,,Għargħur
+worldstates_mt-16,base.mt,,Għasri
+worldstates_mt-17,base.mt,,Għaxaq
+worldstates_mt-18,base.mt,,Ħamrun
+worldstates_mt-19,base.mt,,Iklin
+worldstates_mt-20,base.mt,,Isla
+worldstates_mt-21,base.mt,,Kalkara
+worldstates_mt-22,base.mt,,Kerċem
+worldstates_mt-23,base.mt,,Kirkop
+worldstates_mt-24,base.mt,,Lija
+worldstates_mt-25,base.mt,,Luqa
+worldstates_mt-26,base.mt,,Marsa
+worldstates_mt-27,base.mt,,Marsaskala
+worldstates_mt-28,base.mt,,Marsaxlokk
+worldstates_mt-29,base.mt,,Mdina
+worldstates_mt-30,base.mt,,Mellieħa
+worldstates_mt-31,base.mt,,Mġarr
+worldstates_mt-32,base.mt,,Mosta
+worldstates_mt-33,base.mt,,Mqabba
+worldstates_mt-34,base.mt,,Msida
+worldstates_mt-35,base.mt,,Mtarfa
+worldstates_mt-36,base.mt,,Munxar
+worldstates_mt-37,base.mt,,Nadur
+worldstates_mt-38,base.mt,,Naxxar
+worldstates_mt-39,base.mt,,Paola
+worldstates_mt-40,base.mt,,Pembroke
+worldstates_mt-41,base.mt,,Pietà
+worldstates_mt-42,base.mt,,Qala
+worldstates_mt-43,base.mt,,Qormi
+worldstates_mt-44,base.mt,,Qrendi
+worldstates_mt-45,base.mt,,Rabat Gozo
+worldstates_mt-46,base.mt,,Rabat Malta
+worldstates_mt-47,base.mt,,Safi
+worldstates_mt-48,base.mt,,Saint Julian's
+worldstates_mt-49,base.mt,,Saint John
+worldstates_mt-50,base.mt,,Saint Lawrence
+worldstates_mt-51,base.mt,,Saint Paul's Bay
+worldstates_mt-52,base.mt,,Sannat
+worldstates_mt-53,base.mt,,Saint Lucia's
+worldstates_mt-54,base.mt,,Santa Venera
+worldstates_mt-55,base.mt,,Siġġiewi
+worldstates_mt-56,base.mt,,Sliema
+worldstates_mt-57,base.mt,,Swieqi
+worldstates_mt-58,base.mt,,Ta' Xbiex
+worldstates_mt-59,base.mt,,Tarxien
+worldstates_mt-60,base.mt,,Valletta
+worldstates_mt-61,base.mt,,Xagħra
+worldstates_mt-62,base.mt,,Xewkija
+worldstates_mt-63,base.mt,,Xgħajra
+worldstates_mt-64,base.mt,,Żabbar
+worldstates_mt-65,base.mt,,Żebbuġ Gozo
+worldstates_mt-66,base.mt,,Żebbuġ Malta
+worldstates_mt-67,base.mt,,Żejtun
+worldstates_mt-68,base.mt,,Żurrieq
+worldstates_mu-ag,base.mu,AG,Agalega Islands
+worldstates_mu-bl,base.mu,BL,Black River
+worldstates_mu-br,base.mu,BR,Beau Bassin-Rose Hill
+worldstates_mu-cc,base.mu,CC,Cargados Carajos Shoals [Saint Brandon Islands]
+worldstates_mu-cu,base.mu,CU,Curepipe
+worldstates_mu-fl,base.mu,FL,Flacq
+worldstates_mu-gp,base.mu,GP,Grand Port
+worldstates_mu-mo,base.mu,MO,Moka
+worldstates_mu-pa,base.mu,PA,Pamplemousses
+worldstates_mu-pl,base.mu,PL,Port Louis
+worldstates_mu-pu,base.mu,PU,Port Louis
+worldstates_mu-pw,base.mu,PW,Plaines wilhems
+worldstates_mu-qb,base.mu,QB,Quatre Bornes
+worldstates_mu-ro,base.mu,RO,Rodrigues Island
+worldstates_mu-rr,base.mu,RR,Rivière du Rempart
+worldstates_mu-sa,base.mu,SA,Savanne
+worldstates_mu-vp,base.mu,VP,Vacoas-Phoenix
+worldstates_mv-0,base.mv,,Alifu Dhaalu
+worldstates_mv-1,base.mv,,Seenu
+worldstates_mv-2,base.mv,,Alifu Alifu
+worldstates_mv-3,base.mv,,Lhaviyani
+worldstates_mv-4,base.mv,,Vaavu
+worldstates_mv-5,base.mv,,Laamu
+worldstates_mv-7,base.mv,,Haa Alif
+worldstates_mv-8,base.mv,,Thaa
+worldstates_mv-12,base.mv,,Meemu
+worldstates_mv-13,base.mv,,Raa
+worldstates_mv-14,base.mv,,Faafu
+worldstates_mv-17,base.mv,,Dhaalu
+worldstates_mv-20,base.mv,,Baa
+worldstates_mv-23,base.mv,,Haa Dhaalu
+worldstates_mv-24,base.mv,,Shaviyani
+worldstates_mv-25,base.mv,,Noonu
+worldstates_mv-26,base.mv,,Kaafu
+worldstates_mv-27,base.mv,,Gaafu Alifu
+worldstates_mv-28,base.mv,,Gaafu Dhaalu
+worldstates_mv-29,base.mv,,Gnaviyani
+worldstates_mv-ce,base.mv,CE,Medhu
+worldstates_mv-mle,base.mv,MLE,Male
+worldstates_mv-nc,base.mv,NC,Medhu-Uthuru
+worldstates_mv-no,base.mv,NO,Uthuru
+worldstates_mv-sc,base.mv,SC,Medhu-Dhekunu
+worldstates_mv-su,base.mv,SU,Dhekunu
+worldstates_mv-un,base.mv,UN,Mathi-Uthuru
+worldstates_mv-us,base.mv,US,Mathi-Dhekunu
+worldstates_mw-ba,base.mw,BA,Balaka
+worldstates_mw-bl,base.mw,BL,Blantyre
+worldstates_mw-c,base.mw,C,Central
+worldstates_mw-ck,base.mw,CK,Chikwawa
+worldstates_mw-cr,base.mw,CR,Chiradzulu
+worldstates_mw-ct,base.mw,CT,Chitipa
+worldstates_mw-de,base.mw,DE,Dedza
+worldstates_mw-do,base.mw,DO,Dowa
+worldstates_mw-kr,base.mw,KR,Karonga
+worldstates_mw-ks,base.mw,KS,Kasungu
+worldstates_mw-li,base.mw,LI,Lilongwe
+worldstates_mw-lk,base.mw,LK,Likoma
+worldstates_mw-mc,base.mw,MC,Mchinji
+worldstates_mw-mg,base.mw,MG,Mangochi
+worldstates_mw-mh,base.mw,MH,Machinga
+worldstates_mw-mu,base.mw,MU,Mulanje
+worldstates_mw-mw,base.mw,MW,Mwanza
+worldstates_mw-mz,base.mw,MZ,Mzimba
+worldstates_mw-n,base.mw,N,Northern
+worldstates_mw-nb,base.mw,NB,Nkhata Bay
+worldstates_mw-ne,base.mw,NE,Neno
+worldstates_mw-ni,base.mw,NI,Ntchisi
+worldstates_mw-nk,base.mw,NK,Nkhotakota
+worldstates_mw-ns,base.mw,NS,Nsanje
+worldstates_mw-nu,base.mw,NU,Ntcheu
+worldstates_mw-ph,base.mw,PH,Phalombe
+worldstates_mw-ru,base.mw,RU,Rumphi
+worldstates_mw-s,base.mw,S,Southern
+worldstates_mw-sa,base.mw,SA,Salima
+worldstates_mw-th,base.mw,TH,Thyolo
+worldstates_mw-zo,base.mw,ZO,Zomba
+worldstates_mx-agu,base.mx,AGU,Aguascalientes
+worldstates_mx-bcn,base.mx,BCN,Baja California
+worldstates_mx-bcs,base.mx,BCS,Baja California Sur
+worldstates_mx-cam,base.mx,CAM,Campeche
+worldstates_mx-chh,base.mx,CHH,Chihuahua
+worldstates_mx-chp,base.mx,CHP,Chiapas
+worldstates_mx-coa,base.mx,COA,Coahuila
+worldstates_mx-col,base.mx,COL,Colima
+worldstates_mx-dif,base.mx,DIF,Distrito Federal
+worldstates_mx-dur,base.mx,DUR,Durango
+worldstates_mx-gro,base.mx,GRO,Guerrero
+worldstates_mx-gua,base.mx,GUA,Guanajuato
+worldstates_mx-hid,base.mx,HID,Hidalgo
+worldstates_mx-jal,base.mx,JAL,Jalisco
+worldstates_mx-mex,base.mx,MEX,México
+worldstates_mx-mic,base.mx,MIC,Michoacán
+worldstates_mx-mor,base.mx,MOR,Morelos
+worldstates_mx-nay,base.mx,NAY,Nayarit
+worldstates_mx-nle,base.mx,NLE,Nuevo León
+worldstates_mx-oax,base.mx,OAX,Oaxaca
+worldstates_mx-pue,base.mx,PUE,Puebla
+worldstates_mx-que,base.mx,QUE,Querétaro
+worldstates_mx-roo,base.mx,ROO,Quintana Roo
+worldstates_mx-sin,base.mx,SIN,Sinaloa
+worldstates_mx-slp,base.mx,SLP,San Luis Potosí
+worldstates_mx-son,base.mx,SON,Sonora
+worldstates_mx-tab,base.mx,TAB,Tabasco
+worldstates_mx-tam,base.mx,TAM,Tamaulipas
+worldstates_mx-tla,base.mx,TLA,Tlaxcala
+worldstates_mx-ver,base.mx,VER,Veracruz
+worldstates_mx-yuc,base.mx,YUC,Yucatán
+worldstates_mx-zac,base.mx,ZAC,Zacatecas
+worldstates_my-1,base.my,,Johor
+worldstates_my-2,base.my,,Kedah
+worldstates_my-3,base.my,,Kelantan
+worldstates_my-4,base.my,,Melaka
+worldstates_my-5,base.my,,Negeri Sembilan
+worldstates_my-6,base.my,,Pahang
+worldstates_my-7,base.my,,Pulau Pinang
+worldstates_my-8,base.my,,Perak
+worldstates_my-9,base.my,,Perlis
+worldstates_my-10,base.my,,Selangor
+worldstates_my-11,base.my,,Terengganu
+worldstates_my-12,base.my,,Sabah
+worldstates_my-13,base.my,,Sarawak
+worldstates_my-14,base.my,,Wilayah Persekutuan Kuala Lumpur
+worldstates_my-15,base.my,,Wilayah Persekutuan Labuan
+worldstates_my-16,base.my,,Wilayah Persekutuan Putrajaya
+worldstates_mz-a,base.mz,A,Niaosa
+worldstates_mz-b,base.mz,B,Manica
+worldstates_mz-g,base.mz,G,Gaza
+worldstates_mz-i,base.mz,I,Inhambane
+worldstates_mz-l,base.mz,L,Maputo
+worldstates_mz-mpm,base.mz,MPM,Maputo
+worldstates_mz-n,base.mz,N,Nampula
+worldstates_mz-p,base.mz,P,Cabo Delgado
+worldstates_mz-q,base.mz,Q,Zambézia
+worldstates_mz-s,base.mz,S,Sofala
+worldstates_mz-t,base.mz,T,Tete
+worldstates_na-ca,base.na,CA,Zambezi
+worldstates_na-er,base.na,ER,Erongo
+worldstates_na-ha,base.na,HA,Hardap
+worldstates_na-ka,base.na,KA,Karas
+worldstates_na-ke,base.na,KE,Kavango East
+worldstates_na-kh,base.na,KH,Khomas
+worldstates_na-ku,base.na,KU,Kunene
+worldstates_na-kw,base.na,KW,Kavango West
+worldstates_na-od,base.na,OD,Otjozondjupa
+worldstates_na-oh,base.na,OH,Omaheke
+worldstates_na-on,base.na,ON,Oshana
+worldstates_na-os,base.na,OS,Omusati
+worldstates_na-ot,base.na,OT,Oshikoto
+worldstates_na-ow,base.na,OW,Ohangwena
+worldstates_ne-1,base.ne,,Agadez
+worldstates_ne-2,base.ne,,Diffa
+worldstates_ne-3,base.ne,,Dosso
+worldstates_ne-4,base.ne,,Maradi
+worldstates_ne-5,base.ne,,Tahoua
+worldstates_ne-6,base.ne,,Tillabéri
+worldstates_ne-7,base.ne,,Zinder
+worldstates_ne-8,base.ne,,Niamey
+worldstates_ng-ab,base.ng,AB,Abia
+worldstates_ng-ad,base.ng,AD,Adamawa
+worldstates_ng-ak,base.ng,AK,Akwa Ibom
+worldstates_ng-an,base.ng,AN,Anambra
+worldstates_ng-ba,base.ng,BA,Bauchi
+worldstates_ng-be,base.ng,BE,Benue
+worldstates_ng-bo,base.ng,BO,Borno
+worldstates_ng-by,base.ng,BY,Bayelsa
+worldstates_ng-cr,base.ng,CR,Cross River
+worldstates_ng-de,base.ng,DE,Delta
+worldstates_ng-eb,base.ng,EB,Ebonyi
+worldstates_ng-ed,base.ng,ED,Edo
+worldstates_ng-ek,base.ng,EK,Ekiti
+worldstates_ng-en,base.ng,EN,Enugu
+worldstates_ng-fc,base.ng,FC,Abuja Capital Territory
+worldstates_ng-go,base.ng,GO,Gombe
+worldstates_ng-im,base.ng,IM,Imo
+worldstates_ng-ji,base.ng,JI,Jigawa
+worldstates_ng-kd,base.ng,KD,Kaduna
+worldstates_ng-ke,base.ng,KE,Kebbi
+worldstates_ng-kn,base.ng,KN,Kano
+worldstates_ng-ko,base.ng,KO,Kogi
+worldstates_ng-kt,base.ng,KT,Katsina
+worldstates_ng-kw,base.ng,KW,Kwara
+worldstates_ng-la,base.ng,LA,Lagos
+worldstates_ng-na,base.ng,NA,Nasarawa
+worldstates_ng-ni,base.ng,NI,Niger
+worldstates_ng-og,base.ng,OG,Ogun
+worldstates_ng-on,base.ng,ON,Ondo
+worldstates_ng-os,base.ng,OS,Osun
+worldstates_ng-oy,base.ng,OY,Oyo
+worldstates_ng-pl,base.ng,PL,Plateau
+worldstates_ng-ri,base.ng,RI,Rivers
+worldstates_ng-so,base.ng,SO,Sokoto
+worldstates_ng-ta,base.ng,TA,Taraba
+worldstates_ng-yo,base.ng,YO,Yobe
+worldstates_ng-za,base.ng,ZA,Zamfara
+worldstates_ni-an,base.ni,AN,Atlántico Norte
+worldstates_ni-as,base.ni,AS,Atlántico Sur
+worldstates_ni-bo,base.ni,BO,Boaco
+worldstates_ni-ca,base.ni,CA,Carazo
+worldstates_ni-ci,base.ni,CI,Chinandega
+worldstates_ni-co,base.ni,CO,Chontales
+worldstates_ni-es,base.ni,ES,Estelí
+worldstates_ni-gr,base.ni,GR,Granada
+worldstates_ni-ji,base.ni,JI,Jinotega
+worldstates_ni-le,base.ni,LE,León
+worldstates_ni-md,base.ni,MD,Madriz
+worldstates_ni-mn,base.ni,MN,Managua
+worldstates_ni-ms,base.ni,MS,Masaya
+worldstates_ni-mt,base.ni,MT,Matagalpa
+worldstates_ni-ns,base.ni,NS,Nueva Segovia
+worldstates_ni-ri,base.ni,RI,Rivas
+worldstates_ni-sj,base.ni,SJ,Río San Juan
+worldstates_nl-dr,base.nl,DR,Drenthe
+worldstates_nl-fl,base.nl,FL,Flevoland
+worldstates_nl-fr,base.nl,FR,Fryslân
+worldstates_nl-ge,base.nl,GE,Gelderland
+worldstates_nl-gr,base.nl,GR,Groningen
+worldstates_nl-li,base.nl,LI,Limburg
+worldstates_nl-nb,base.nl,NB,Noord-Brabant
+worldstates_nl-nh,base.nl,NH,Noord-Holland
+worldstates_nl-ov,base.nl,OV,Overijssel
+worldstates_nl-ut,base.nl,UT,Utrecht
+worldstates_nl-ze,base.nl,ZE,Zeeland
+worldstates_nl-zh,base.nl,ZH,Zuid-Holland
+worldstates_no-1,base.no,,Østfold
+worldstates_no-2,base.no,,Akershus
+worldstates_no-3,base.no,,Oslo
+worldstates_no-4,base.no,,Hedmark
+worldstates_no-5,base.no,,Oppland
+worldstates_no-6,base.no,,Buskerud
+worldstates_no-7,base.no,,Vestfold
+worldstates_no-8,base.no,,Telemark
+worldstates_no-9,base.no,,Aust-Agder
+worldstates_no-10,base.no,,Vest-Agder
+worldstates_no-11,base.no,,Rogaland
+worldstates_no-12,base.no,,Hordaland
+worldstates_no-14,base.no,,Sogn og Fjordane
+worldstates_no-15,base.no,,Møre og Romsdal
+worldstates_no-16,base.no,,Sør-Trøndelag
+worldstates_no-17,base.no,,Nord-Trøndelag
+worldstates_no-18,base.no,,Nordland
+worldstates_no-19,base.no,,Troms
+worldstates_no-20,base.no,,Finnmark
+worldstates_no-21,base.no,,"Svalbard (Arctic Region) (See
+
+also country code SJ)"
+worldstates_no-22,base.no,,"Jan Mayen (Arctic Region) (See
+
+also country code SJ)"
+worldstates_np-ba,base.np,BA,Bagmati
+worldstates_np-bh,base.np,BH,Bheri
+worldstates_np-dh,base.np,DH,Dhawalagiri
+worldstates_np-ga,base.np,GA,Gandaki
+worldstates_np-ja,base.np,JA,Janakpur
+worldstates_np-ka,base.np,KA,Karnali
+worldstates_np-ko,base.np,KO,Kosi [Koshi]
+worldstates_np-lu,base.np,LU,Lumbini
+worldstates_np-ma,base.np,MA,Mahakali
+worldstates_np-me,base.np,ME,Mechi
+worldstates_np-na,base.np,NA,Narayani
+worldstates_np-ra,base.np,RA,Rapti
+worldstates_np-sa,base.np,SA,Sagarmatha
+worldstates_np-se,base.np,SE,Seti
+worldstates_nr-1,base.nr,,Aiwo
+worldstates_nr-2,base.nr,,Anabar
+worldstates_nr-3,base.nr,,Anetan
+worldstates_nr-4,base.nr,,Anibare
+worldstates_nr-5,base.nr,,Baiti
+worldstates_nr-6,base.nr,,Boe
+worldstates_nr-7,base.nr,,Buada
+worldstates_nr-8,base.nr,,Denigomodu
+worldstates_nr-9,base.nr,,Ewa
+worldstates_nr-10,base.nr,,Ijuw
+worldstates_nr-11,base.nr,,Meneng
+worldstates_nr-12,base.nr,,Nibok
+worldstates_nr-13,base.nr,,Uaboe
+worldstates_nr-14,base.nr,,Yaren
+worldstates_nz-auk,base.nz,AUK,Auckland
+worldstates_nz-bop,base.nz,BOP,Bay of Plenty
+worldstates_nz-can,base.nz,CAN,Canterbury
+worldstates_nz-cit,base.nz,CIT,Chatham Islands Territory
+worldstates_nz-gis,base.nz,GIS,Gisborne District
+worldstates_nz-hkb,base.nz,HKB,Hawkes's Bay
+worldstates_nz-mbh,base.nz,MBH,Marlborough District
+worldstates_nz-mwt,base.nz,MWT,Manawatu-Wanganui
+worldstates_nz-nsn,base.nz,NSN,Nelson City
+worldstates_nz-ntl,base.nz,NTL,Northland
+worldstates_nz-ota,base.nz,OTA,Otago
+worldstates_nz-stl,base.nz,STL,Southland
+worldstates_nz-tas,base.nz,TAS,Tasman District
+worldstates_nz-tki,base.nz,TKI,Taranaki
+worldstates_nz-wgn,base.nz,WGN,Wellington
+worldstates_nz-wko,base.nz,WKO,Waikato
+worldstates_nz-wtc,base.nz,WTC,West Coast
+worldstates_om-ba,base.om,BA,Al Bāţinah
+worldstates_om-bu,base.om,BU,Al Buraymī
+worldstates_om-da,base.om,DA,Ad Dākhilīyah
+worldstates_om-ma,base.om,MA,Masqaţ
+worldstates_om-mu,base.om,MU,Musandam
+worldstates_om-sh,base.om,SH,Ash Sharqīyah
+worldstates_om-wu,base.om,WU,AI Wusţa
+worldstates_om-za,base.om,ZA,Az Zāhirah
+worldstates_om-zu,base.om,ZU,Z̧ufār
+worldstates_pa-1,base.pa,,Bocas del Toro
+worldstates_pa-10,base.pa,,Panamá Oeste
+worldstates_pa-2,base.pa,,Coclé
+worldstates_pa-3,base.pa,,Colón
+worldstates_pa-4,base.pa,,Chiriquí
+worldstates_pa-5,base.pa,,Darién
+worldstates_pa-6,base.pa,,Herrera
+worldstates_pa-7,base.pa,,Los Santos
+worldstates_pa-8,base.pa,,Panamá
+worldstates_pa-9,base.pa,,Veraguas
+worldstates_pa-em,base.pa,EM,Emberá
+worldstates_pa-ky,base.pa,KY,Kuna Yala
+worldstates_pa-nb,base.pa,NB,Ngöbe-Buglé
+worldstates_pe-ama,base.pe,AMA,Amazonas
+worldstates_pe-anc,base.pe,ANC,Ancash
+worldstates_pe-apu,base.pe,APU,Apurímac
+worldstates_pe-are,base.pe,ARE,Arequipa
+worldstates_pe-aya,base.pe,AYA,Ayacucho
+worldstates_pe-caj,base.pe,CAJ,Cajamarca
+worldstates_pe-cal,base.pe,CAL,El Callao
+worldstates_pe-cus,base.pe,CUS,Cuzco [Cusco]
+worldstates_pe-huc,base.pe,HUC,Huánuco
+worldstates_pe-huv,base.pe,HUV,Huancavelica
+worldstates_pe-ica,base.pe,ICA,Ica
+worldstates_pe-jun,base.pe,JUN,Junín
+worldstates_pe-lal,base.pe,LAL,La Libertad
+worldstates_pe-lam,base.pe,LAM,Lambayeque
+worldstates_pe-lim,base.pe,LIM,Lima
+worldstates_pe-lma,base.pe,LMA,Lima hatun llaqta
+worldstates_pe-lor,base.pe,LOR,Loreto
+worldstates_pe-mdd,base.pe,MDD,Madre de Dios
+worldstates_pe-moq,base.pe,MOQ,Moquegua
+worldstates_pe-pas,base.pe,PAS,Pasco
+worldstates_pe-piu,base.pe,PIU,Piura
+worldstates_pe-pun,base.pe,PUN,Puno
+worldstates_pe-sam,base.pe,SAM,San Martín
+worldstates_pe-tac,base.pe,TAC,Tacna
+worldstates_pe-tum,base.pe,TUM,Tumbes
+worldstates_pe-uca,base.pe,UCA,Ucayali
+worldstates_pg-cpk,base.pg,CPK,Chimbu
+worldstates_pg-cpm,base.pg,CPM,Central
+worldstates_pg-ebr,base.pg,EBR,East New Britain
+worldstates_pg-ehg,base.pg,EHG,Eastern Highlands
+worldstates_pg-epw,base.pg,EPW,Enga
+worldstates_pg-esw,base.pg,ESW,East Sepik
+worldstates_pg-gpk,base.pg,GPK,Gulf
+worldstates_pg-hla,base.pg,HLA,Hela
+worldstates_pg-jwk,base.pg,JWK,Jiwaka
+worldstates_pg-mba,base.pg,MBA,Milne Bay
+worldstates_pg-mpl,base.pg,MPL,Morobe
+worldstates_pg-mpm,base.pg,MPM,Madang
+worldstates_pg-mrl,base.pg,MRL,Manus
+worldstates_pg-ncd,base.pg,NCD,National Capital District (Port Moresby)
+worldstates_pg-nik,base.pg,NIK,New Ireland
+worldstates_pg-npp,base.pg,NPP,Northern
+worldstates_pg-nsb,base.pg,NSB,Bougainville
+worldstates_pg-san,base.pg,SAN,West Sepik
+worldstates_pg-shm,base.pg,SHM,Southern Highlands
+worldstates_pg-wbk,base.pg,WBK,West New Britain
+worldstates_pg-whm,base.pg,WHM,Western Highlands
+worldstates_pg-wpd,base.pg,WPD,Western
+worldstates_ph-0,base.ph,,National Capital Région (Manila)
+worldstates_ph-abr,base.ph,ABR,Abra
+worldstates_ph-agn,base.ph,AGN,Agusan del Norte
+worldstates_ph-ags,base.ph,AGS,Agusan del Sur
+worldstates_ph-akl,base.ph,AKL,Aklan
+worldstates_ph-alb,base.ph,ALB,Albay
+worldstates_ph-ant,base.ph,ANT,Antique
+worldstates_ph-apa,base.ph,APA,Apayao
+worldstates_ph-aur,base.ph,AUR,Aurora
+worldstates_ph-ban,base.ph,BAN,Bataan
+worldstates_ph-bas,base.ph,BAS,Basilan
+worldstates_ph-ben,base.ph,BEN,Benguet
+worldstates_ph-bil,base.ph,BIL,Biliran
+worldstates_ph-boh,base.ph,BOH,Bohol
+worldstates_ph-btg,base.ph,BTG,Batangas
+worldstates_ph-btn,base.ph,BTN,Batanes
+worldstates_ph-buk,base.ph,BUK,Bukidnon
+worldstates_ph-bul,base.ph,BUL,Bulacan
+worldstates_ph-cag,base.ph,CAG,Cagayan
+worldstates_ph-cam,base.ph,CAM,Camiguin
+worldstates_ph-can,base.ph,CAN,Camarines Norte
+worldstates_ph-cap,base.ph,CAP,Capiz
+worldstates_ph-cas,base.ph,CAS,Camarines Sur
+worldstates_ph-cat,base.ph,CAT,Catanduanes
+worldstates_ph-cav,base.ph,CAV,Cavite
+worldstates_ph-ceb,base.ph,CEB,Cebu
+worldstates_ph-com,base.ph,COM,Compostela Valley
+worldstates_ph-dao,base.ph,DAO,Davao Oriental
+worldstates_ph-das,base.ph,DAS,Davao del Sur
+worldstates_ph-dav,base.ph,DAV,Davao del Norte
+worldstates_ph-din,base.ph,DIN,Dinagat Islands
+worldstates_ph-eas,base.ph,EAS,Eastern Samar
+worldstates_ph-gui,base.ph,GUI,Guimaras
+worldstates_ph-ifu,base.ph,IFU,Ifugao
+worldstates_ph-ili,base.ph,ILI,Iloilo
+worldstates_ph-iln,base.ph,ILN,Ilocos Norte
+worldstates_ph-ils,base.ph,ILS,Ilocos Sur
+worldstates_ph-isa,base.ph,ISA,Isabela
+worldstates_ph-kal,base.ph,KAL,Kalinga-Apayao
+worldstates_ph-lag,base.ph,LAG,Laguna
+worldstates_ph-lan,base.ph,LAN,Lanao del Norte
+worldstates_ph-las,base.ph,LAS,Lanao del Sur
+worldstates_ph-ley,base.ph,LEY,Leyte
+worldstates_ph-lun,base.ph,LUN,La Union
+worldstates_ph-mag,base.ph,MAG,Maguindanao
+worldstates_ph-mas,base.ph,MAS,Masbate
+worldstates_ph-mdc,base.ph,MDC,Mindoro Occidental
+worldstates_ph-mdr,base.ph,MDR,Mindoro Oriental
+worldstates_ph-mou,base.ph,MOU,Mountain Province
+worldstates_ph-msc,base.ph,MSC,Misamis Occidental
+worldstates_ph-msr,base.ph,MSR,Misamis Oriental
+worldstates_ph-nco,base.ph,NCO,Kotabato
+worldstates_ph-nec,base.ph,NEC,Negros occidental
+worldstates_ph-ner,base.ph,NER,Negros oriental
+worldstates_ph-nsa,base.ph,NSA,Northern Samar
+worldstates_ph-nue,base.ph,NUE,Nueva Ecija
+worldstates_ph-nuv,base.ph,NUV,Nueva Vizcaya
+worldstates_ph-pam,base.ph,PAM,Pampanga
+worldstates_ph-pan,base.ph,PAN,Pangasinan
+worldstates_ph-plw,base.ph,PLW,Palawan
+worldstates_ph-que,base.ph,QUE,Quezon
+worldstates_ph-qui,base.ph,QUI,Quirino
+worldstates_ph-riz,base.ph,RIZ,Rizal
+worldstates_ph-rom,base.ph,ROM,Romblon
+worldstates_ph-sar,base.ph,SAR,Sarangani
+worldstates_ph-sco,base.ph,SCO,South Cotabato
+worldstates_ph-sig,base.ph,SIG,Siquijor
+worldstates_ph-sle,base.ph,SLE,Southern Leyte
+worldstates_ph-slu,base.ph,SLU,Sulu
+worldstates_ph-sor,base.ph,SOR,Sorsogon
+worldstates_ph-suk,base.ph,SUK,Sultan Kudarat
+worldstates_ph-sun,base.ph,SUN,Surigao del Norte
+worldstates_ph-sur,base.ph,SUR,Surigao del Sur
+worldstates_ph-tar,base.ph,TAR,Tarlac
+worldstates_ph-taw,base.ph,TAW,Tawi-Tawi
+worldstates_ph-wsa,base.ph,WSA,Western Samar
+worldstates_ph-zan,base.ph,ZAN,Zamboanga del Norte
+worldstates_ph-zas,base.ph,ZAS,Zamboanga del Sur
+worldstates_ph-zmb,base.ph,ZMB,Zambales
+worldstates_ph-zsi,base.ph,ZSI,Zamboanga Sibuguey [Zamboanga Sibugay]
+worldstates_pk-ba,base.pk,BA,Balochistan
+worldstates_pk-gb,base.pk,GB,Gilgit-Baltistan
+worldstates_pk-is,base.pk,IS,Islamabad
+worldstates_pk-jk,base.pk,JK,Azad Kashmir
+worldstates_pk-kp,base.pk,KP,Khyber Pakhtunkhwa
+worldstates_pk-pb,base.pk,PB,Punjab
+worldstates_pk-sd,base.pk,SD,Sindh
+worldstates_pk-ta,base.pk,TA,Federally Administered Tribal Areas
+worldstates_pl-ds,base.pl,DS,Dolnośląskie
+worldstates_pl-kp,base.pl,KP,Kujawsko-pomorskie
+worldstates_pl-lb,base.pl,LB,Lubuskie
+worldstates_pl-ld,base.pl,LD,Łódzkie
+worldstates_pl-lu,base.pl,LU,Lubelskie
+worldstates_pl-ma,base.pl,MA,Małopolskie
+worldstates_pl-mz,base.pl,MZ,Mazowieckie
+worldstates_pl-op,base.pl,OP,Opolskie
+worldstates_pl-pd,base.pl,PD,Podlaskie
+worldstates_pl-pk,base.pl,PK,Podkarpackie
+worldstates_pl-pm,base.pl,PM,Pomorskie
+worldstates_pl-sk,base.pl,SK,Świętokrzyskie
+worldstates_pl-sl,base.pl,SL,Śląskie
+worldstates_pl-wn,base.pl,WN,Warmińsko-mazurskie
+worldstates_pl-wp,base.pl,WP,Wielkopolskie
+worldstates_pl-zp,base.pl,ZP,Zachodniopomorskie
+worldstates_ps-bth,base.ps,BTH,Bethlehem
+worldstates_ps-deb,base.ps,DEB,Deir El Balah
+worldstates_ps-gza,base.ps,GZA,Gaza
+worldstates_ps-hbn,base.ps,HBN,Hebron
+worldstates_ps-jem,base.ps,JEM,Jerusalem
+worldstates_ps-jrh,base.ps,JRH,Jericho – Al Aghwar
+worldstates_ps-kys,base.ps,KYS,Khan Yunis
+worldstates_ps-nbs,base.ps,NBS,Nablus
+worldstates_ps-ngz,base.ps,NGZ,North Gaza
+worldstates_ps-qqa,base.ps,QQA,Qalqilya
+worldstates_ps-rbh,base.ps,RBH,Ramallah
+worldstates_ps-rfh,base.ps,RFH,Rafah
+worldstates_ps-slt,base.ps,SLT,Salfit
+worldstates_ps-tbs,base.ps,TBS,Tubas
+worldstates_ps-tkm,base.ps,TKM,Tulkarm
+worldstates_pt-1,base.pt,,Aveiro
+worldstates_pt-2,base.pt,,Beja
+worldstates_pt-3,base.pt,,Braga
+worldstates_pt-4,base.pt,,Bragança
+worldstates_pt-5,base.pt,,Castelo Branco
+worldstates_pt-6,base.pt,,Coimbra
+worldstates_pt-7,base.pt,,Évora
+worldstates_pt-8,base.pt,,Faro
+worldstates_pt-9,base.pt,,Guarda
+worldstates_pt-10,base.pt,,Leiria
+worldstates_pt-11,base.pt,,Lisboa
+worldstates_pt-12,base.pt,,Portalegre
+worldstates_pt-13,base.pt,,Porto
+worldstates_pt-14,base.pt,,Santarém
+worldstates_pt-15,base.pt,,Setúbal
+worldstates_pt-16,base.pt,,Viana do Castelo
+worldstates_pt-17,base.pt,,Vila Real
+worldstates_pt-18,base.pt,,Viseu
+worldstates_pt-20,base.pt,,Região Autónoma dos Açores
+worldstates_pt-30,base.pt,,Região Autónoma da Madeira
+worldstates_pw-2,base.pw,,Aimeliik    
+worldstates_pw-4,base.pw,,Airai       
+worldstates_pw-10,base.pw,,Angaur      
+worldstates_pw-50,base.pw,,Hatobohei   
+worldstates_pw-100,base.pw,,Kayangel    
+worldstates_pw-150,base.pw,,Koror       
+worldstates_pw-212,base.pw,,Melekeok    
+worldstates_pw-214,base.pw,,Ngaraard    
+worldstates_pw-218,base.pw,,Ngarchelong 
+worldstates_pw-222,base.pw,,Ngardmau    
+worldstates_pw-224,base.pw,,Ngatpang    
+worldstates_pw-226,base.pw,,Ngchesar    
+worldstates_pw-227,base.pw,,Ngeremlengui
+worldstates_pw-228,base.pw,,Ngiwal      
+worldstates_pw-350,base.pw,,Peleliu     
+worldstates_pw-370,base.pw,,Sonsorol    
+worldstates_py-1,base.py,,Concepción
+worldstates_py-10,base.py,,Alto Paraná
+worldstates_py-11,base.py,,Central
+worldstates_py-12,base.py,,Ñeembucú
+worldstates_py-13,base.py,,Amambay
+worldstates_py-14,base.py,,Canindeyú
+worldstates_py-15,base.py,,Presidente Hayes
+worldstates_py-16,base.py,,Alto Paraguay
+worldstates_py-19,base.py,,Boquerón
+worldstates_py-2,base.py,,San Pedro
+worldstates_py-3,base.py,,Cordillera
+worldstates_py-4,base.py,,Guairá
+worldstates_py-5,base.py,,Caaguazú
+worldstates_py-6,base.py,,Caazapá
+worldstates_py-7,base.py,,Itapúa
+worldstates_py-8,base.py,,Misiones
+worldstates_py-9,base.py,,Paraguarí
+worldstates_py-asu,base.py,ASU,Asunción
+worldstates_qa-da,base.qa,DA,Ad Dawhah
+worldstates_qa-kh,base.qa,KH,Al Khawr wa adh Dhakhīrah
+worldstates_qa-ms,base.qa,MS,Ash Shamāl
+worldstates_qa-ra,base.qa,RA,Ar Rayyān
+worldstates_qa-us,base.qa,US,Umm Şalāl
+worldstates_qa-wa,base.qa,WA,Al Wakrah
+worldstates_qa-za,base.qa,ZA,Az̧ Z̧a‘āyin
+worldstates_ro-ab,base.ro,AB,Alba
+worldstates_ro-ag,base.ro,AG,Argeş
+worldstates_ro-ar,base.ro,AR,Arad
+worldstates_ro-b,base.ro,B,Bucureşti
+worldstates_ro-bc,base.ro,BC,Bacău
+worldstates_ro-bh,base.ro,BH,Bihor
+worldstates_ro-bn,base.ro,BN,Bistriţa-Năsăud
+worldstates_ro-br,base.ro,BR,Brāila
+worldstates_ro-bt,base.ro,BT,Botoşani
+worldstates_ro-bv,base.ro,BV,Braşov
+worldstates_ro-bz,base.ro,BZ,Buzău
+worldstates_ro-cj,base.ro,CJ,Cluj
+worldstates_ro-cl,base.ro,CL,Călărasi
+worldstates_ro-cs,base.ro,CS,Caraş-Severin
+worldstates_ro-ct,base.ro,CT,Constarţa
+worldstates_ro-cv,base.ro,CV,Covasna
+worldstates_ro-db,base.ro,DB,Dâmboviţa
+worldstates_ro-dj,base.ro,DJ,Dolj
+worldstates_ro-gj,base.ro,GJ,Gorj
+worldstates_ro-gl,base.ro,GL,Galaţi
+worldstates_ro-gr,base.ro,GR,Giurgiu
+worldstates_ro-hd,base.ro,HD,Hunedoara
+worldstates_ro-hr,base.ro,HR,Harghita
+worldstates_ro-if,base.ro,IF,Ilfov
+worldstates_ro-il,base.ro,IL,Ialomiţa
+worldstates_ro-is,base.ro,IS,Iaşi
+worldstates_ro-mh,base.ro,MH,Mehedinţi
+worldstates_ro-mm,base.ro,MM,Maramureş
+worldstates_ro-ms,base.ro,MS,Mureş
+worldstates_ro-nt,base.ro,NT,Neamţ
+worldstates_ro-ot,base.ro,OT,Olt
+worldstates_ro-ph,base.ro,PH,Prahova
+worldstates_ro-sb,base.ro,SB,Sibiu
+worldstates_ro-sj,base.ro,SJ,Sălaj
+worldstates_ro-sm,base.ro,SM,Satu Mare
+worldstates_ro-sv,base.ro,SV,Suceava
+worldstates_ro-tl,base.ro,TL,Tulcea
+worldstates_ro-tm,base.ro,TM,Timiş
+worldstates_ro-tr,base.ro,TR,Teleorman
+worldstates_ro-vl,base.ro,VL,Vâlcea
+worldstates_ro-vn,base.ro,VN,Vrancea
+worldstates_ro-vs,base.ro,VS,Vaslui
+worldstates_rs-0,base.rs,,Beograd
+worldstates_rs-1,base.rs,,Severnobački okrug
+worldstates_rs-2,base.rs,,Srednjebanatski okrug
+worldstates_rs-3,base.rs,,Severnobanatski okrug
+worldstates_rs-4,base.rs,,Južnobanatski okrug
+worldstates_rs-5,base.rs,,Zapadnobački okrug
+worldstates_rs-6,base.rs,,Južnobački okrug
+worldstates_rs-7,base.rs,,Sremski okrug
+worldstates_rs-8,base.rs,,Mačvanski okrug
+worldstates_rs-9,base.rs,,Kolubarski okrug
+worldstates_rs-10,base.rs,,Podunavski okrug
+worldstates_rs-11,base.rs,,Braničevski okrug
+worldstates_rs-12,base.rs,,Šumadijski okrug
+worldstates_rs-13,base.rs,,Pomoravski okrug
+worldstates_rs-14,base.rs,,Borski okrug
+worldstates_rs-15,base.rs,,Zaječarski okrug
+worldstates_rs-16,base.rs,,Zlatiborski okrug
+worldstates_rs-17,base.rs,,Moravički okrug
+worldstates_rs-18,base.rs,,Raški okrug
+worldstates_rs-19,base.rs,,Rasinski okrug
+worldstates_rs-20,base.rs,,Nišavski okrug
+worldstates_rs-21,base.rs,,Toplički okrug
+worldstates_rs-22,base.rs,,Pirotski okrug
+worldstates_rs-23,base.rs,,Jablanički okrug
+worldstates_rs-24,base.rs,,Pčinjski okrug
+worldstates_rs-25,base.rs,,Kosovski okrug
+worldstates_rs-26,base.rs,,Pećki okrug
+worldstates_rs-27,base.rs,,Prizrenski okrug
+worldstates_rs-28,base.rs,,Kosovsko‐Mitrovački okrug
+worldstates_rs-29,base.rs,,Kosovsko‐Pomoravski okrug
+worldstates_rs-km,base.rs,KM,Kosovo-Metohija
+worldstates_rs-vo,base.rs,VO,Vojvodina
+worldstates_ru-ad,base.ru,AD,"Adygeya, Respublika"
+worldstates_ru-al,base.ru,AL,"Altay, Respublika"
+worldstates_ru-alt,base.ru,ALT,Altayskiy kray
+worldstates_ru-amu,base.ru,AMU,Amurskaya oblast'
+worldstates_ru-ark,base.ru,ARK,"Arkhangel'skaya oblast,"
+worldstates_ru-ast,base.ru,AST,Astrakhanskaya oblast'
+worldstates_ru-ba,base.ru,BA,"Bashkortostan, Respublika"
+worldstates_ru-bel,base.ru,BEL,Belgorodskaya oblast'
+worldstates_ru-bry,base.ru,BRY,Bryanskaya oblast'
+worldstates_ru-bu,base.ru,BU,"Buryatiya, Respublika"
+worldstates_ru-ce,base.ru,CE,Chechenskaya Respublika
+worldstates_ru-che,base.ru,CHE,Chelyabinskaya oblast'
+worldstates_ru-chu,base.ru,CHU,Chukotskiy avtonomnyy okrug
+worldstates_ru-cu,base.ru,CU,Chuvashskaya Respublika
+worldstates_ru-da,base.ru,DA,"Dagestan, Respublika"
+worldstates_ru-in,base.ru,IN,Ingushskaya Respublika [Respublika Ingushetiya]
+worldstates_ru-irk,base.ru,IRK,Irkutskaya oblast'
+worldstates_ru-iva,base.ru,IVA,Ivanovskaya oblast'
+worldstates_ru-kam,base.ru,KAM,Kamchatskaya oblast'
+worldstates_ru-kb,base.ru,KB,Kabardino-Balkarskaya Respublika
+worldstates_ru-kc,base.ru,KC,Karachayevo-Cherkesskaya Respublika
+worldstates_ru-kda,base.ru,KDA,Krasnodarskiy kray
+worldstates_ru-kem,base.ru,KEM,Kemerovskaya oblast'
+worldstates_ru-kgd,base.ru,KGD,"Kaliningradskaya oblast,"
+worldstates_ru-kgn,base.ru,KGN,Kurganskaya oblast'
+worldstates_ru-kha,base.ru,KHA,Khabarovskiy kray
+worldstates_ru-khm,base.ru,KHM,Khanty-Mansiyskiy avtonomnyy okrug
+worldstates_ru-kir,base.ru,KIR,Kirovskaya oblast'
+worldstates_ru-kk,base.ru,KK,"Khakasiya, Respublika"
+worldstates_ru-kl,base.ru,KL,"Kalmykiya, Respublika"
+worldstates_ru-klu,base.ru,KLU,Kaluzhskaya oblast'
+worldstates_ru-ko,base.ru,KO,"Komi, Respublika"
+worldstates_ru-kos,base.ru,KOS,Kostromskaya oblast'
+worldstates_ru-kr,base.ru,KR,"Kareliya, Respublika"
+worldstates_ru-krs,base.ru,KRS,Kurskaya oblast'
+worldstates_ru-kya,base.ru,KYA,Krasnoyarskiy kray
+worldstates_ru-len,base.ru,LEN,Leningradskaya oblast'
+worldstates_ru-lip,base.ru,LIP,Lipetskaya oblast'
+worldstates_ru-mag,base.ru,MAG,Magadanskaya oblast'
+worldstates_ru-me,base.ru,ME,"Mariy El, Respublika"
+worldstates_ru-mo,base.ru,MO,"Mordoviya, Respublika"
+worldstates_ru-mos,base.ru,MOS,Moskovskaya oblast'
+worldstates_ru-mow,base.ru,MOW,Moskva
+worldstates_ru-mur,base.ru,MUR,Murmanskaya oblast'
+worldstates_ru-nen,base.ru,NEN,Nenetskiy avtonomnyy okrug
+worldstates_ru-ngr,base.ru,NGR,Novgorodskaya oblast'
+worldstates_ru-niz,base.ru,NIZ,Nizhegorodskaya oblast'
+worldstates_ru-nvs,base.ru,NVS,Novosibirskaya oblast'
+worldstates_ru-oms,base.ru,OMS,Omskaya oblast'
+worldstates_ru-ore,base.ru,ORE,Orenburgskaya oblast'
+worldstates_ru-orl,base.ru,ORL,Orlovskaya oblast'
+worldstates_ru-per,base.ru,PER,Perm
+worldstates_ru-pnz,base.ru,PNZ,Penzenskaya oblast'
+worldstates_ru-pri,base.ru,PRI,Primorskiy kray
+worldstates_ru-psk,base.ru,PSK,Pskovskaya oblast'
+worldstates_ru-ros,base.ru,ROS,Rostovskaya oblast'
+worldstates_ru-rya,base.ru,RYA,Ryazanskaya oblast'
+worldstates_ru-sa,base.ru,SA,"Sakha, Respublika [Yakutiya]"
+worldstates_ru-sak,base.ru,SAK,Sakhalinskaya oblast'
+worldstates_ru-sam,base.ru,SAM,Samarskaya oblast'
+worldstates_ru-sar,base.ru,SAR,Saratovskaya oblast'
+worldstates_ru-se,base.ru,SE,"Severnaya Osetiya, Respublika Alaniya] [Respublika Severnaya Osetiya-Alaniya]"
+worldstates_ru-smo,base.ru,SMO,Smolenskaya oblast'
+worldstates_ru-spe,base.ru,SPE,Sankt-Peterburg
+worldstates_ru-sta,base.ru,STA,Stavropol'skiy kray
+worldstates_ru-sve,base.ru,SVE,Sverdlovskaya oblast'
+worldstates_ru-ta,base.ru,TA,"Tatarstan, Respublika"
+worldstates_ru-tam,base.ru,TAM,Tambovskaya oblast'
+worldstates_ru-tom,base.ru,TOM,Tomskaya oblast'
+worldstates_ru-tul,base.ru,TUL,Tul'skaya oblast'
+worldstates_ru-tve,base.ru,TVE,Tverskaya oblast'
+worldstates_ru-ty,base.ru,TY,"Tyva, Respublika [Tuva]"
+worldstates_ru-tyu,base.ru,TYU,Tyumenskaya oblast'
+worldstates_ru-ud,base.ru,UD,Udmurtskaya Respublika
+worldstates_ru-uly,base.ru,ULY,Ul'yanovskaya oblast'
+worldstates_ru-vgg,base.ru,VGG,Volgogradskaya oblast'
+worldstates_ru-vla,base.ru,VLA,Vladimirskaya oblast'
+worldstates_ru-vlg,base.ru,VLG,Vologodskaya oblast'
+worldstates_ru-vor,base.ru,VOR,Voronezhskaya oblast'
+worldstates_ru-yan,base.ru,YAN,Yamalo-Nenetskiy avtonomnyy okrug
+worldstates_ru-yar,base.ru,YAR,Yaroslavskaya oblast'
+worldstates_ru-yev,base.ru,YEV,Yevreyskaya avtonomnaya oblast'
+worldstates_ru-zab,base.ru,ZAB,Zabaykal'skiy kray
+worldstates_rw-1,base.rw,,Ville de Kigali
+worldstates_rw-2,base.rw,,Est
+worldstates_rw-3,base.rw,,Nord
+worldstates_rw-4,base.rw,,Ouest
+worldstates_rw-5,base.rw,,Sud
+worldstates_sa-1,base.sa,,Ar Riyād
+worldstates_sa-2,base.sa,,Makkah al Mukarramah
+worldstates_sa-3,base.sa,,Al Madīnah al Munawwarah
+worldstates_sa-4,base.sa,,Ash Sharqīyah
+worldstates_sa-5,base.sa,,AI Qaşīm
+worldstates_sa-6,base.sa,,Hā'il
+worldstates_sa-7,base.sa,,Tabūk
+worldstates_sa-8,base.sa,,AI Hudūd ash Shamālīyah
+worldstates_sa-9,base.sa,,Jāzān
+worldstates_sa-10,base.sa,,Najrān
+worldstates_sa-11,base.sa,,AI Bāhah
+worldstates_sa-12,base.sa,,AI Jawf
+worldstates_sa-14,base.sa,,'Asīr
+worldstates_sb-ce,base.sb,CE,Central
+worldstates_sb-ch,base.sb,CH,Choiseul
+worldstates_sb-ct,base.sb,CT,Capital Territory (Honiara)
+worldstates_sb-gu,base.sb,GU,Guadalcanal
+worldstates_sb-is,base.sb,IS,Isabel
+worldstates_sb-mk,base.sb,MK,Makira‐Ulawa
+worldstates_sb-ml,base.sb,ML,Malaita
+worldstates_sb-rb,base.sb,RB,Rennell and Bellona
+worldstates_sb-te,base.sb,TE,Temotu
+worldstates_sb-we,base.sb,WE,Western
+worldstates_sc-1,base.sc,,Anse aux Pins
+worldstates_sc-2,base.sc,,Anse Boileau         
+worldstates_sc-3,base.sc,,Anse Étoile          
+worldstates_sc-4,base.sc,,Au Cap
+worldstates_sc-5,base.sc,,Anse Royale          
+worldstates_sc-6,base.sc,,Baie Lazare          
+worldstates_sc-7,base.sc,,Baie Sainte Anne     
+worldstates_sc-8,base.sc,,Beau Vallon          
+worldstates_sc-9,base.sc,,Bel Air              
+worldstates_sc-10,base.sc,,Bel Ombre            
+worldstates_sc-11,base.sc,,Cascade              
+worldstates_sc-12,base.sc,,Glacis               
+worldstates_sc-13,base.sc,,Grand'Anse Mahé
+worldstates_sc-14,base.sc,,Grand'Anse Praslin
+worldstates_sc-15,base.sc,,La Digue             
+worldstates_sc-16,base.sc,,La Rivière Anglaise  
+worldstates_sc-17,base.sc,,Mont Buxton          
+worldstates_sc-18,base.sc,,Mont Fleuri          
+worldstates_sc-19,base.sc,,Plaisance            
+worldstates_sc-20,base.sc,,Pointe La Rue        
+worldstates_sc-21,base.sc,,Port Glaud           
+worldstates_sc-22,base.sc,,Saint Louis          
+worldstates_sc-23,base.sc,,Takamaka             
+worldstates_sc-24,base.sc,,Lemamel
+worldstates_sc-25,base.sc,,Ros Kaiman
+worldstates_sd-dc,base.sd,DC,Zalingei
+worldstates_sd-de,base.sd,DE,Sharq Dārfūr
+worldstates_sd-dn,base.sd,DN,Shamāl Dārfūr
+worldstates_sd-ds,base.sd,DS,Janūb Dārfūr
+worldstates_sd-dw,base.sd,DW,Gharb Dārfūr
+worldstates_sd-gd,base.sd,GD,Al Qadārif
+worldstates_sd-gz,base.sd,GZ,Al Jazīrah
+worldstates_sd-ka,base.sd,KA,Kassalā
+worldstates_sd-kh,base.sd,KH,Al Kharţūm
+worldstates_sd-kn,base.sd,KN,Shamāl Kurdufān
+worldstates_sd-ks,base.sd,KS,Janūb Kurdufān
+worldstates_sd-nb,base.sd,NB,An Nil al Azraq
+worldstates_sd-no,base.sd,NO,Ash Shamālīyah
+worldstates_sd-nr,base.sd,NR,An Nīl
+worldstates_sd-nw,base.sd,NW,An Nīl al Abyaḑ
+worldstates_sd-rs,base.sd,RS,Al Baḩr al Aḩmar
+worldstates_sd-si,base.sd,SI,Sinnār
+worldstates_se-ab,base.se,AB,Stockholms län
+worldstates_se-ac,base.se,AC,Västerbottens län
+worldstates_se-bd,base.se,BD,Norrbottens län
+worldstates_se-c,base.se,C,Uppsala län
+worldstates_se-d,base.se,D,Södermanlands län
+worldstates_se-e,base.se,E,Östergötlands län
+worldstates_se-f,base.se,F,Jönköpings län
+worldstates_se-g,base.se,G,Kronoborgs län
+worldstates_se-h,base.se,H,Kalmar län
+worldstates_se-i,base.se,I,Gotlands län
+worldstates_se-k,base.se,K,Blekinge län
+worldstates_se-m,base.se,M,Skåne län
+worldstates_se-n,base.se,N,Hallands län
+worldstates_se-o,base.se,O,Västra Götalands län
+worldstates_se-s,base.se,S,Värmlands län
+worldstates_se-t,base.se,T,Örebro län
+worldstates_se-u,base.se,U,Västmanlands län
+worldstates_se-w,base.se,W,Dalarnes län
+worldstates_se-x,base.se,X,Gävleborgs län
+worldstates_se-y,base.se,Y,Västernorrlands län
+worldstates_se-z,base.se,Z,Jämtlands län
+worldstates_sg-1,base.sg,,Central Singapore
+worldstates_sg-2,base.sg,,North East
+worldstates_sg-3,base.sg,,North West
+worldstates_sg-4,base.sg,,South East
+worldstates_sg-5,base.sg,,South West
+worldstates_sh-ac,base.sh,AC,Ascension
+worldstates_sh-hl,base.sh,HL,Saint Helena
+worldstates_sh-ta,base.sh,TA,Tristan da Cunha
+worldstates_si-1,base.si,,Ajdovščina
+worldstates_si-2,base.si,,Beltinci
+worldstates_si-3,base.si,,Bled
+worldstates_si-4,base.si,,Bohinj
+worldstates_si-5,base.si,,Borovnica
+worldstates_si-6,base.si,,Bovec
+worldstates_si-7,base.si,,Brda
+worldstates_si-8,base.si,,Brezovica
+worldstates_si-9,base.si,,Brežice
+worldstates_si-10,base.si,,Tišina
+worldstates_si-11,base.si,,Celje
+worldstates_si-12,base.si,,Cerklje na Gorenjskem
+worldstates_si-13,base.si,,Cerknica
+worldstates_si-14,base.si,,Cerkno
+worldstates_si-15,base.si,,Črenšovci
+worldstates_si-16,base.si,,Črna na Koroškem
+worldstates_si-17,base.si,,Črnomelj
+worldstates_si-18,base.si,,Destrnik
+worldstates_si-19,base.si,,Divača
+worldstates_si-20,base.si,,Dobrepolje
+worldstates_si-21,base.si,,Dobrova-Polhov Gradec
+worldstates_si-22,base.si,,Dol pri Ljubljani
+worldstates_si-23,base.si,,Domžale
+worldstates_si-24,base.si,,Dornava
+worldstates_si-25,base.si,,Dravograd
+worldstates_si-26,base.si,,Duplek
+worldstates_si-27,base.si,,Gorenja vas-Poljane
+worldstates_si-28,base.si,,Gorišnica
+worldstates_si-29,base.si,,Gornja Radgona
+worldstates_si-30,base.si,,Gornji Grad
+worldstates_si-31,base.si,,Gornji Petrovci
+worldstates_si-32,base.si,,Grosuplje
+worldstates_si-33,base.si,,Šalovci
+worldstates_si-34,base.si,,Hrastnik
+worldstates_si-35,base.si,,Hrpelje-Kozina
+worldstates_si-36,base.si,,Idrija
+worldstates_si-37,base.si,,Ig
+worldstates_si-38,base.si,,Ilirska Bistrica
+worldstates_si-39,base.si,,Ivančna Gorica
+worldstates_si-40,base.si,,Izola
+worldstates_si-41,base.si,,Jesenice
+worldstates_si-42,base.si,,Juršinci
+worldstates_si-43,base.si,,Kamnik
+worldstates_si-44,base.si,,Kanal
+worldstates_si-45,base.si,,Kidričevo
+worldstates_si-46,base.si,,Kobarid
+worldstates_si-47,base.si,,Kobilje
+worldstates_si-48,base.si,,Kočevje
+worldstates_si-49,base.si,,Komen
+worldstates_si-50,base.si,,Koper
+worldstates_si-51,base.si,,Kozje
+worldstates_si-52,base.si,,Kranj
+worldstates_si-53,base.si,,Kranjska Gora
+worldstates_si-54,base.si,,Krško
+worldstates_si-55,base.si,,Kungota
+worldstates_si-56,base.si,,Kuzma
+worldstates_si-57,base.si,,Laško
+worldstates_si-58,base.si,,Lenart
+worldstates_si-59,base.si,,Lendava
+worldstates_si-60,base.si,,Litija
+worldstates_si-61,base.si,,Ljubljana
+worldstates_si-62,base.si,,Ljubno
+worldstates_si-63,base.si,,Ljutomer
+worldstates_si-64,base.si,,Logatec
+worldstates_si-65,base.si,,Loška dolina
+worldstates_si-66,base.si,,Loški Potok
+worldstates_si-67,base.si,,Luče
+worldstates_si-68,base.si,,Lukovica
+worldstates_si-69,base.si,,Majšperk
+worldstates_si-70,base.si,,Maribor
+worldstates_si-71,base.si,,Medvode
+worldstates_si-72,base.si,,Mengeš
+worldstates_si-73,base.si,,Metlika
+worldstates_si-74,base.si,,Mežica
+worldstates_si-75,base.si,,Miren-Kostanjevica
+worldstates_si-76,base.si,,Mislinja
+worldstates_si-77,base.si,,Moravče
+worldstates_si-78,base.si,,Moravske Toplice
+worldstates_si-79,base.si,,Mozirje
+worldstates_si-80,base.si,,Murska Sobota
+worldstates_si-81,base.si,,Muta
+worldstates_si-82,base.si,,Naklo
+worldstates_si-83,base.si,,Nazarje
+worldstates_si-84,base.si,,Nova Gorica
+worldstates_si-85,base.si,,Novo mesto
+worldstates_si-86,base.si,,Odranci
+worldstates_si-87,base.si,,Ormož
+worldstates_si-88,base.si,,Osilnica
+worldstates_si-89,base.si,,Pesnica
+worldstates_si-90,base.si,,Piran
+worldstates_si-91,base.si,,Pivka
+worldstates_si-92,base.si,,Podčetrtek
+worldstates_si-93,base.si,,Podvelka
+worldstates_si-94,base.si,,Postojna
+worldstates_si-95,base.si,,Preddvor
+worldstates_si-96,base.si,,Ptuj
+worldstates_si-97,base.si,,Puconci
+worldstates_si-98,base.si,,Rače-Fram
+worldstates_si-99,base.si,,Radeče
+worldstates_si-100,base.si,,Radenci
+worldstates_si-101,base.si,,Radlje ob Dravi
+worldstates_si-102,base.si,,Radovljica
+worldstates_si-103,base.si,,Ravne na Koroškem
+worldstates_si-104,base.si,,Ribnica
+worldstates_si-105,base.si,,Rogašovci
+worldstates_si-106,base.si,,Rogaška Slatina
+worldstates_si-107,base.si,,Rogatec
+worldstates_si-108,base.si,,Ruše
+worldstates_si-109,base.si,,Semič
+worldstates_si-110,base.si,,Sevnica
+worldstates_si-111,base.si,,Sežana
+worldstates_si-112,base.si,,Slovenj Gradec
+worldstates_si-113,base.si,,Slovenska Bistrica
+worldstates_si-114,base.si,,Slovenske Konjice
+worldstates_si-115,base.si,,Starše
+worldstates_si-116,base.si,,Sveti Jurij
+worldstates_si-117,base.si,,Šenčur
+worldstates_si-118,base.si,,Šentilj
+worldstates_si-119,base.si,,Šentjernej
+worldstates_si-120,base.si,,Šentjur
+worldstates_si-121,base.si,,Škocjan
+worldstates_si-122,base.si,,Škofja Loka
+worldstates_si-123,base.si,,Škofljica
+worldstates_si-124,base.si,,Šmarje pri Jelšah
+worldstates_si-125,base.si,,Šmartno ob Paki
+worldstates_si-126,base.si,,Šoštanj
+worldstates_si-127,base.si,,Štore
+worldstates_si-128,base.si,,Tolmin
+worldstates_si-129,base.si,,Trbovlje
+worldstates_si-130,base.si,,Trebnje
+worldstates_si-131,base.si,,Tržič
+worldstates_si-132,base.si,,Turnišče
+worldstates_si-133,base.si,,Velenje
+worldstates_si-134,base.si,,Velike Lašče
+worldstates_si-135,base.si,,Videm
+worldstates_si-136,base.si,,Vipava
+worldstates_si-137,base.si,,Vitanje
+worldstates_si-138,base.si,,Vodice
+worldstates_si-139,base.si,,Vojnik
+worldstates_si-140,base.si,,Vrhnika
+worldstates_si-141,base.si,,Vuzenica
+worldstates_si-142,base.si,,Zagorje ob Savi
+worldstates_si-143,base.si,,Zavrč
+worldstates_si-144,base.si,,Zreče
+worldstates_si-146,base.si,,Železniki
+worldstates_si-147,base.si,,Žiri
+worldstates_si-148,base.si,,Benedikt
+worldstates_si-149,base.si,,Bistrica ob Sotli
+worldstates_si-150,base.si,,Bloke
+worldstates_si-151,base.si,,Braslovče
+worldstates_si-152,base.si,,Cankova
+worldstates_si-153,base.si,,Cerkvenjak
+worldstates_si-154,base.si,,Dobje
+worldstates_si-155,base.si,,Dobrna
+worldstates_si-156,base.si,,Dobrovnik
+worldstates_si-157,base.si,,Dolenjske Toplice
+worldstates_si-158,base.si,,Grad
+worldstates_si-159,base.si,,Hajdina
+worldstates_si-160,base.si,,Hoče-Slivnica
+worldstates_si-161,base.si,,Hodoš
+worldstates_si-162,base.si,,Horjul
+worldstates_si-163,base.si,,Jezersko
+worldstates_si-164,base.si,,Komenda
+worldstates_si-165,base.si,,Kostel
+worldstates_si-166,base.si,,Križevci
+worldstates_si-167,base.si,,Lovrenc na Pohorju
+worldstates_si-168,base.si,,Markovci
+worldstates_si-169,base.si,,Miklavž na Dravskem polju
+worldstates_si-170,base.si,,Mirna Peč
+worldstates_si-171,base.si,,Oplotnica
+worldstates_si-172,base.si,,Podlehnik
+worldstates_si-173,base.si,,Polzela
+worldstates_si-174,base.si,,Prebold
+worldstates_si-175,base.si,,Prevalje
+worldstates_si-176,base.si,,Razkrižje
+worldstates_si-177,base.si,,Ribnica na Pohorju
+worldstates_si-178,base.si,,Selnica ob Dravi
+worldstates_si-179,base.si,,Sodražica
+worldstates_si-180,base.si,,Solčava
+worldstates_si-181,base.si,,Sveta Ana
+worldstates_si-182,base.si,,Sveti Andraž v Slovenskih goricah
+worldstates_si-183,base.si,,Šempeter-Vrtojba
+worldstates_si-184,base.si,,Tabor
+worldstates_si-185,base.si,,Trnovska vas
+worldstates_si-186,base.si,,Trzin
+worldstates_si-187,base.si,,Velika Polana
+worldstates_si-188,base.si,,Veržej
+worldstates_si-189,base.si,,Vransko
+worldstates_si-190,base.si,,Žalec
+worldstates_si-191,base.si,,Žetale
+worldstates_si-192,base.si,,Žirovnica
+worldstates_si-193,base.si,,Žužemberk
+worldstates_si-194,base.si,,Šmartno pri Litiji
+worldstates_si-195,base.si,,Apače
+worldstates_si-196,base.si,,Cirkulane
+worldstates_si-197,base.si,,Kosanjevica na Krki
+worldstates_si-198,base.si,,Makole
+worldstates_si-199,base.si,,Mokronog-Trebelno
+worldstates_si-200,base.si,,Poljčane
+worldstates_si-201,base.si,,Renèe-Vogrsko
+worldstates_si-202,base.si,,Središče ob Dravi
+worldstates_si-203,base.si,,Straža
+worldstates_si-204,base.si,,"Sveta Trojica v Slovenskih
+
+Goricah"
+worldstates_si-205,base.si,,Sveti Tomaž
+worldstates_si-206,base.si,,Šmarješke Toplice
+worldstates_si-207,base.si,,Gorje
+worldstates_si-208,base.si,,Log-Dragomer
+worldstates_si-209,base.si,,Rečica ob Savinji
+worldstates_si-210,base.si,,Sveti Jurij v Slovenskih Goricah
+worldstates_si-211,base.si,,Šentrupert
+worldstates_si-212,base.si,,Mirna
+worldstates_sk-bc,base.sk,BC,Banskobystrický kraj
+worldstates_sk-bl,base.sk,BL,Bratislavský kraj
+worldstates_sk-ki,base.sk,KI,Košický kraj
+worldstates_sk-ni,base.sk,NI,Nitriansky kraj
+worldstates_sk-pv,base.sk,PV,Prešovský kraj
+worldstates_sk-ta,base.sk,TA,Trnavský kraj
+worldstates_sk-tc,base.sk,TC,Trenčiansky kraj
+worldstates_sk-zi,base.sk,ZI,Žilinský kraj
+worldstates_sl-e,base.sl,E,Eastern
+worldstates_sl-n,base.sl,N,Northern
+worldstates_sl-s,base.sl,S,Southern
+worldstates_sl-w,base.sl,W,Western Area (Freetown)
+worldstates_sm-1,base.sm,,Acquaviva      
+worldstates_sm-2,base.sm,,Chiesanuova    
+worldstates_sm-3,base.sm,,Domagnano      
+worldstates_sm-4,base.sm,,Faetano        
+worldstates_sm-5,base.sm,,Fiorentino     
+worldstates_sm-6,base.sm,,Borgo Maggiore 
+worldstates_sm-7,base.sm,,San Marino     
+worldstates_sm-8,base.sm,,Montegiardino  
+worldstates_sm-9,base.sm,,Serravalle     
+worldstates_sn-db ,base.sn,DB ,Diourbel
+worldstates_sn-dk,base.sn,DK,Dakar
+worldstates_sn-fk,base.sn,FK,Fatick
+worldstates_sn-ka,base.sn,KA,Kaffrine
+worldstates_sn-kd,base.sn,KD,Kolda
+worldstates_sn-ke,base.sn,KE,Kédougou
+worldstates_sn-kl,base.sn,KL,Kaolack
+worldstates_sn-lg,base.sn,LG,Louga
+worldstates_sn-mt,base.sn,MT,Matam
+worldstates_sn-se,base.sn,SE,Sédhiou
+worldstates_sn-sl,base.sn,SL,Saint-Louis
+worldstates_sn-tc,base.sn,TC,Tambacounda
+worldstates_sn-th,base.sn,TH,Thiès
+worldstates_sn-zg,base.sn,ZG,Ziguinchor
+worldstates_so-aw,base.so,AW,Awdal
+worldstates_so-bk,base.so,BK,Bakool
+worldstates_so-bn,base.so,BN,Banaadir
+worldstates_so-br,base.so,BR,Bari
+worldstates_so-by,base.so,BY,Bay
+worldstates_so-ga,base.so,GA,Galguduud
+worldstates_so-ge ,base.so,GE ,Gedo
+worldstates_so-hi,base.so,HI,Hiiraan
+worldstates_so-jd,base.so,JD,Jubbada Dhexe
+worldstates_so-jh,base.so,JH,Jubbada Hoose
+worldstates_so-mu,base.so,MU,Mudug
+worldstates_so-nu,base.so,NU,Nugaal
+worldstates_so-sa,base.so,SA,Sanaag
+worldstates_so-sd,base.so,SD,Shabeellaha Dhexe
+worldstates_so-sh,base.so,SH,Shabeellaha Hoose
+worldstates_so-so,base.so,SO,Sool
+worldstates_so-to,base.so,TO,Togdheer
+worldstates_so-wo,base.so,WO,Woqooyi Galbeed
+worldstates_sr-br,base.sr,BR,Brokopondo
+worldstates_sr-cm,base.sr,CM,Commewijne
+worldstates_sr-cr,base.sr,CR,Coronie
+worldstates_sr-ma,base.sr,MA,Marowijne
+worldstates_sr-ni,base.sr,NI,Nickerie
+worldstates_sr-pm,base.sr,PM,Paramaribo
+worldstates_sr-pr,base.sr,PR,Para
+worldstates_sr-sa,base.sr,SA,Saramacca
+worldstates_sr-si,base.sr,SI,Sipaliwini
+worldstates_sr-wa,base.sr,WA,Wanica
+worldstates_ss-bn,base.ss,BN,Northern Bahr el Ghazal
+worldstates_ss-bw,base.ss,BW,Western Bahr el Ghazal
+worldstates_ss-ec,base.ss,EC,Central Equatoria
+worldstates_ss-ee,base.ss,EE,Eastern Equatoria
+worldstates_ss-ew,base.ss,EW,Western Equatoria
+worldstates_ss-jg,base.ss,JG,Jonglei
+worldstates_ss-lk,base.ss,LK,Lakes
+worldstates_ss-nu,base.ss,NU,Upper Nile
+worldstates_ss-uy,base.ss,UY,Unity
+worldstates_ss-wr,base.ss,WR,Warrap
+worldstates_st-p,base.st,P,Príncipe
+worldstates_st-s,base.st,S,São Tomé
+worldstates_sv-ah,base.sv,AH,Ahuachapán
+worldstates_sv-ca,base.sv,CA,Cabañas
+worldstates_sv-ch,base.sv,CH,Chalatenango
+worldstates_sv-cu,base.sv,CU,Cuscatlán
+worldstates_sv-li,base.sv,LI,La Libertad
+worldstates_sv-mo,base.sv,MO,Morazán
+worldstates_sv-pa,base.sv,PA,La Paz
+worldstates_sv-sa,base.sv,SA,Santa Ana
+worldstates_sv-sm,base.sv,SM,San Miguel
+worldstates_sv-so,base.sv,SO,Sonsonate
+worldstates_sv-ss,base.sv,SS,San Salvador
+worldstates_sv-sv,base.sv,SV,San Vicente
+worldstates_sv-un,base.sv,UN,La Unión
+worldstates_sv-us,base.sv,US,Usulután
+worldstates_sy-di,base.sy,DI,Dimashq
+worldstates_sy-dr,base.sy,DR,Dar'ā
+worldstates_sy-dy,base.sy,DY,Dayr az Zawr
+worldstates_sy-ha,base.sy,HA,AI Hasakah
+worldstates_sy-hi,base.sy,HI,Himş
+worldstates_sy-hl,base.sy,HL,Halab
+worldstates_sy-hm,base.sy,HM,Hamāh
+worldstates_sy-id,base.sy,ID,Idlib
+worldstates_sy-la,base.sy,LA,AI Lādhiqīyah
+worldstates_sy-qu,base.sy,Qu,AI Qunayţirah
+worldstates_sy-ra,base.sy,RA,Ar Raqqah
+worldstates_sy-rd,base.sy,RD,Rīf Dimashq
+worldstates_sy-su,base.sy,SU,As Suwaydā'
+worldstates_sy-ta,base.sy,TA,Ţarţūs
+worldstates_td-ba,base.td,BA,Batha
+worldstates_td-bg,base.td,BG,Baḩr al Ghazāl
+worldstates_td-bo,base.td,BO,Būrkū
+worldstates_td-cb,base.td,CB,Chari-Baguirmi
+worldstates_td-ee,base.td,EE,Ennedi-Est
+worldstates_td-eo,base.td,EO,Ennedi-Ouest
+worldstates_td-gr,base.td,GR,Guéra
+worldstates_td-hl,base.td,HL,Hadjer Lamis
+worldstates_td-ka,base.td,KA,Kanem
+worldstates_td-lc,base.td,LC,Lac
+worldstates_td-lo,base.td,LO,Logone-Occidental
+worldstates_td-lr,base.td,LR,Logone-Oriental
+worldstates_td-ma,base.td,MA,Mandoul
+worldstates_td-mc,base.td,MC,Moyen-Chari
+worldstates_td-me,base.td,ME,Mayo‐Kebbi‐Est
+worldstates_td-mo,base.td,MO,Mayo‐Kebbi‐Ouest
+worldstates_td-nd,base.td,ND,Ville de Ndjamena
+worldstates_td-od,base.td,OD,Ouaddaï
+worldstates_td-sa,base.td,SA,Salamat
+worldstates_td-si,base.td,SI,Sīlā
+worldstates_td-ta,base.td,TA,Tandjilé
+worldstates_td-ti,base.td,TI,Tibastī
+worldstates_td-wf,base.td,WF,Wadi Fira
+worldstates_tg-c,base.tg,C,Centre
+worldstates_tg-k,base.tg,K,Kara
+worldstates_tg-m,base.tg,M,Maritime (Région)
+worldstates_tg-p,base.tg,P,Plateaux
+worldstates_tg-s,base.tg,S,Savannes
+worldstates_th-10,base.th,,Krung Thep Maha Nakhon [Bangkok]
+worldstates_th-11,base.th,,Samut Prakan
+worldstates_th-12,base.th,,Nonthaburi
+worldstates_th-13,base.th,,Pathum Thani
+worldstates_th-14,base.th,,Phra Nakhon Si Ayutthaya
+worldstates_th-15,base.th,,Ang Thong
+worldstates_th-16,base.th,,Lop Buri
+worldstates_th-17,base.th,,Sing Buri
+worldstates_th-18,base.th,,Chai Nat
+worldstates_th-19,base.th,,Saraburi
+worldstates_th-20,base.th,,Chon Buri
+worldstates_th-21,base.th,,Rayong
+worldstates_th-22,base.th,,Chanthaburi
+worldstates_th-23,base.th,,Trat
+worldstates_th-24,base.th,,Chachoengsao
+worldstates_th-25,base.th,,Prachin Buri
+worldstates_th-26,base.th,,Nakhon Nayok
+worldstates_th-27,base.th,,Sa Kaeo
+worldstates_th-30,base.th,,Nakhon Ratchasima
+worldstates_th-31,base.th,,Buri Ram
+worldstates_th-32,base.th,,Surin
+worldstates_th-33,base.th,,Si Sa Ket
+worldstates_th-34,base.th,,Ubon Ratchathani
+worldstates_th-35,base.th,,Yasothon
+worldstates_th-36,base.th,,Chaiyaphum
+worldstates_th-37,base.th,,Amnat Charoen
+worldstates_th-38,base.th,,Bueng Kan
+worldstates_th-39,base.th,,Nong Bua Lam Phu
+worldstates_th-40,base.th,,Khon Kaen
+worldstates_th-41,base.th,,Udon Thani
+worldstates_th-42,base.th,,Loei
+worldstates_th-43,base.th,,Nong Khai
+worldstates_th-44,base.th,,Maha Sarakham
+worldstates_th-45,base.th,,Roi Et
+worldstates_th-46,base.th,,Kalasin
+worldstates_th-47,base.th,,Sakon Nakhon
+worldstates_th-48,base.th,,Nakhon Phanom
+worldstates_th-49,base.th,,Mukdahan
+worldstates_th-50,base.th,,Chiang Mai
+worldstates_th-51,base.th,,Lamphun
+worldstates_th-52,base.th,,Lampang
+worldstates_th-53,base.th,,Uttaradit
+worldstates_th-54,base.th,,Phrae
+worldstates_th-55,base.th,,Nan
+worldstates_th-56,base.th,,Phayao
+worldstates_th-57,base.th,,Chiang Rai
+worldstates_th-58,base.th,,Mae Hong Son
+worldstates_th-60,base.th,,Nakhon Sawan
+worldstates_th-61,base.th,,Uthai Thani
+worldstates_th-62,base.th,,Kamphaeng Phet
+worldstates_th-63,base.th,,Tak
+worldstates_th-64,base.th,,Sukhothai
+worldstates_th-65,base.th,,Phitsanulok
+worldstates_th-66,base.th,,Phichit
+worldstates_th-67,base.th,,Phetchabun
+worldstates_th-70,base.th,,Ratchaburi
+worldstates_th-71,base.th,,Kanchanaburi
+worldstates_th-72,base.th,,Suphan Buri
+worldstates_th-73,base.th,,Nakhon Pathom
+worldstates_th-74,base.th,,Samut Sakhon
+worldstates_th-75,base.th,,Samut Songkhram
+worldstates_th-76,base.th,,Phetchaburi
+worldstates_th-77,base.th,,Prachuap Khiri Khan
+worldstates_th-80,base.th,,Nakhon Si Thammarat
+worldstates_th-81,base.th,,Krabi
+worldstates_th-82,base.th,,Phangnga
+worldstates_th-83,base.th,,Phuket
+worldstates_th-84,base.th,,Surat Thani
+worldstates_th-85,base.th,,Ranong
+worldstates_th-86,base.th,,Chumphon
+worldstates_th-90,base.th,,Songkhla
+worldstates_th-91,base.th,,Satun
+worldstates_th-92,base.th,,Trang
+worldstates_th-93,base.th,,Phatthalung
+worldstates_th-94,base.th,,Pattani
+worldstates_th-95,base.th,,Yala
+worldstates_th-96,base.th,,Narathiwat
+worldstates_th-s ,base.th,S ,Phatthaya
+worldstates_tj-du,base.tj,DU,Dushanbe
+worldstates_tj-gb,base.tj,GB,Kŭhistoni Badakhshon
+worldstates_tj-kt,base.tj,KT,Khatlon
+worldstates_tj-su,base.tj,SU,Sughd
+worldstates_tl-al,base.tl,AL,Aileu
+worldstates_tl-an,base.tl,AN,Ainaro
+worldstates_tl-ba,base.tl,BA,Baucau
+worldstates_tl-bo,base.tl,BO,Bobonaro
+worldstates_tl-co,base.tl,CO,Cova Lima
+worldstates_tl-di,base.tl,DI,Díli
+worldstates_tl-er,base.tl,ER,Ermera
+worldstates_tl-la,base.tl,LA,Lautem
+worldstates_tl-li,base.tl,LI,Liquiça
+worldstates_tl-mf,base.tl,MF,Manufahi
+worldstates_tl-mt,base.tl,MT,Manatuto
+worldstates_tl-oe,base.tl,OE,Oecussi
+worldstates_tl-vi,base.tl,VI,Viqueque
+worldstates_tm-a,base.tm,A,Ahal
+worldstates_tm-b,base.tm,B,Balkan
+worldstates_tm-d,base.tm,D,Daşoguz
+worldstates_tm-l,base.tm,L,Lebap
+worldstates_tm-m,base.tm,M,Mary
+worldstates_tm-s,base.tm,S,Aşgabat
+worldstates_tn-11,base.tn,,Tunis
+worldstates_tn-12,base.tn,,Ariana
+worldstates_tn-13,base.tn,,Ben Arous
+worldstates_tn-14,base.tn,,La Manouba
+worldstates_tn-21,base.tn,,Nabeul
+worldstates_tn-22,base.tn,,Zaghouan
+worldstates_tn-23,base.tn,,Bizerte
+worldstates_tn-31,base.tn,,Béja
+worldstates_tn-32,base.tn,,Jendouba
+worldstates_tn-33,base.tn,,Le Kef
+worldstates_tn-34,base.tn,,Siliana
+worldstates_tn-41,base.tn,,Kairouan
+worldstates_tn-42,base.tn,,Kasserine
+worldstates_tn-43,base.tn,,Sidi Bouzid
+worldstates_tn-51,base.tn,,Sousse
+worldstates_tn-52,base.tn,,Monastir
+worldstates_tn-53,base.tn,,Mahdia
+worldstates_tn-61,base.tn,,Sfax
+worldstates_tn-71,base.tn,,Gafsa
+worldstates_tn-72,base.tn,,Tozeur
+worldstates_tn-73,base.tn,,Kebili
+worldstates_tn-81,base.tn,,Gabès
+worldstates_tn-82,base.tn,,Medenine
+worldstates_tn-83,base.tn,,Tataouine
+worldstates_to-1,base.to,,'Eua
+worldstates_to-2,base.to,,Ha'apai
+worldstates_to-3,base.to,,Niuas
+worldstates_to-4,base.to,,Tongatapu
+worldstates_to-5,base.to,,Vava'u
+worldstates_tr-1,base.tr,,Adana
+worldstates_tr-2,base.tr,,Adiyaman
+worldstates_tr-3,base.tr,,Afyonkarahisar
+worldstates_tr-4,base.tr,,Ağrı
+worldstates_tr-5,base.tr,,Amasya
+worldstates_tr-6,base.tr,,Ankara
+worldstates_tr-7,base.tr,,Antalya
+worldstates_tr-8,base.tr,,Artvin
+worldstates_tr-9,base.tr,,Aydın
+worldstates_tr-10,base.tr,,Balıkesir
+worldstates_tr-11,base.tr,,Bilecik
+worldstates_tr-12,base.tr,,Bingöl
+worldstates_tr-13,base.tr,,Bitlis
+worldstates_tr-14,base.tr,,Bolu
+worldstates_tr-15,base.tr,,Burdur
+worldstates_tr-16,base.tr,,Bursa
+worldstates_tr-17,base.tr,,Canakkale
+worldstates_tr-18,base.tr,,Çankırı
+worldstates_tr-19,base.tr,,Corum
+worldstates_tr-20,base.tr,,Denizli
+worldstates_tr-21,base.tr,,Diyarbakir
+worldstates_tr-22,base.tr,,Edirne
+worldstates_tr-23,base.tr,,Elazığ
+worldstates_tr-24,base.tr,,Erzincan
+worldstates_tr-25,base.tr,,Erzurum
+worldstates_tr-26,base.tr,,Eskişehir
+worldstates_tr-27,base.tr,,Gaziantep
+worldstates_tr-28,base.tr,,Giresun
+worldstates_tr-29,base.tr,,Gümüşhane
+worldstates_tr-30,base.tr,,Hakkari
+worldstates_tr-31,base.tr,,Hatay
+worldstates_tr-32,base.tr,,Isparta
+worldstates_tr-33,base.tr,,Mersin
+worldstates_tr-34,base.tr,,İstanbul
+worldstates_tr-35,base.tr,,İzmir
+worldstates_tr-36,base.tr,,Kars
+worldstates_tr-37,base.tr,,Kastamonu
+worldstates_tr-38,base.tr,,Kayseri
+worldstates_tr-39,base.tr,,Kırklareli
+worldstates_tr-40,base.tr,,Kırşehir
+worldstates_tr-41,base.tr,,Kocaeli
+worldstates_tr-42,base.tr,,Konya
+worldstates_tr-43,base.tr,,Kütahya
+worldstates_tr-44,base.tr,,Malatya
+worldstates_tr-45,base.tr,,Manisa
+worldstates_tr-46,base.tr,,Kahramanmaraş
+worldstates_tr-47,base.tr,,Mardin
+worldstates_tr-48,base.tr,,Muğla
+worldstates_tr-49,base.tr,,Muş
+worldstates_tr-50,base.tr,,Nevsehir
+worldstates_tr-51,base.tr,,Niğde
+worldstates_tr-52,base.tr,,Ordu
+worldstates_tr-53,base.tr,,Rize
+worldstates_tr-54,base.tr,,Sakarya
+worldstates_tr-55,base.tr,,Samsun
+worldstates_tr-56,base.tr,,Siirt
+worldstates_tr-57,base.tr,,Sinop
+worldstates_tr-58,base.tr,,Sivas
+worldstates_tr-59,base.tr,,Tekirdağ
+worldstates_tr-60,base.tr,,Tokat
+worldstates_tr-61,base.tr,,Trabzon
+worldstates_tr-62,base.tr,,Tunceli
+worldstates_tr-63,base.tr,,Şanlıurfa
+worldstates_tr-64,base.tr,,Uşak
+worldstates_tr-65,base.tr,,Van
+worldstates_tr-66,base.tr,,Yozgat
+worldstates_tr-67,base.tr,,Zonguldak
+worldstates_tr-68,base.tr,,Aksaray
+worldstates_tr-69,base.tr,,Bayburt
+worldstates_tr-70,base.tr,,Karaman
+worldstates_tr-71,base.tr,,Kırıkkale
+worldstates_tr-72,base.tr,,Batman
+worldstates_tr-73,base.tr,,Şırnak
+worldstates_tr-74,base.tr,,Bartın
+worldstates_tr-75,base.tr,,Ardahan
+worldstates_tr-76,base.tr,,Iğdır
+worldstates_tr-77,base.tr,,Yalova
+worldstates_tr-78,base.tr,,Karabuk
+worldstates_tr-79,base.tr,,Kilis
+worldstates_tr-80,base.tr,,Osmaniye
+worldstates_tr-81,base.tr,,Düzce
+worldstates_tt-ari,base.tt,ARI,Arima
+worldstates_tt-cha,base.tt,CHA,Chaguanas
+worldstates_tt-ctt,base.tt,CTT,Couva-Tabaquite-Talparo
+worldstates_tt-dmn,base.tt,DMN,Diego Martin
+worldstates_tt-eto,base.tt,ETO,Eastern Tobago
+worldstates_tt-ped,base.tt,PED,Penal-Debe
+worldstates_tt-pos,base.tt,POS,Port of Spain
+worldstates_tt-prt,base.tt,PRT,Princes Town
+worldstates_tt-ptf,base.tt,PTF,Point Fortin
+worldstates_tt-rcm,base.tt,RCM,Rio Claro-Mayaro
+worldstates_tt-sfo,base.tt,SFO,San Fernando
+worldstates_tt-sge,base.tt,SGE,Sangre Grande
+worldstates_tt-sip,base.tt,SIP,Siparia
+worldstates_tt-sjl,base.tt,SJL,San Juan-Laventille
+worldstates_tt-tup,base.tt,TUP,Tunapuna-Piarco
+worldstates_tt-wto,base.tt,WTO,Western Tobago
+worldstates_tv-fun,base.tv,FUN,Funafuti
+worldstates_tv-nit,base.tv,NIT,Niutao
+worldstates_tv-niu,base.tv,NIU,Nui
+worldstates_tv-nkf,base.tv,NKF,Nukufetau
+worldstates_tv-nkl,base.tv,NKL,Nukulaelae
+worldstates_tv-nma,base.tv,NMA,Nanumea
+worldstates_tv-nmg,base.tv,NMG,Nanumanga
+worldstates_tv-vai,base.tv,VAI,Vaitupu
+worldstates_tw-cha,base.tw,CHA,Changhua
+worldstates_tw-cyi,base.tw,CYI,Chiayi
+worldstates_tw-cyq,base.tw,CYQ,Chiayi
+worldstates_tw-hsq,base.tw,HSQ,Hsinchu
+worldstates_tw-hsz,base.tw,HSZ,Hsinchu
+worldstates_tw-hua,base.tw,HUA,Hualien
+worldstates_tw-ila,base.tw,ILA,Ilan
+worldstates_tw-kee,base.tw,KEE,Keelung
+worldstates_tw-khh,base.tw,KHH,Kaohsiung
+worldstates_tw-khq,base.tw,KHQ,Kaohsiung
+worldstates_tw-mia,base.tw,MIA,Miaoli
+worldstates_tw-nan,base.tw,NAN,Nantou
+worldstates_tw-pen,base.tw,PEN,Penghu
+worldstates_tw-pif,base.tw,PIF,Pingtung
+worldstates_tw-tao,base.tw,TAO,Taoyuan
+worldstates_tw-tnn,base.tw,TNN,Tainan
+worldstates_tw-tnq,base.tw,TNQ,Tainan
+worldstates_tw-tpe,base.tw,TPE,Taipei
+worldstates_tw-tpq,base.tw,TPQ,Taipei
+worldstates_tw-ttt,base.tw,TTT,Taitung
+worldstates_tw-txg,base.tw,TXG,Taichung
+worldstates_tw-txq,base.tw,TXQ,Taichung
+worldstates_tw-yun,base.tw,YUN,Yunlin
+worldstates_tz-1,base.tz,,Arusha
+worldstates_tz-2,base.tz,,Dar es Salaam
+worldstates_tz-3,base.tz,,Dodoma
+worldstates_tz-4,base.tz,,Iringa
+worldstates_tz-5,base.tz,,Kagera
+worldstates_tz-6,base.tz,,Kaskazini Pemba
+worldstates_tz-7,base.tz,,Kaskazini Unguja
+worldstates_tz-8,base.tz,,Kigoma
+worldstates_tz-9,base.tz,,Kilimanjaro
+worldstates_tz-10,base.tz,,Kusini Pemba
+worldstates_tz-11,base.tz,,Kusini Unguja
+worldstates_tz-12,base.tz,,Lindi
+worldstates_tz-13,base.tz,,Mara
+worldstates_tz-14,base.tz,,Mbeya
+worldstates_tz-15,base.tz,,Mjini Magharibi
+worldstates_tz-16,base.tz,,Morogoro
+worldstates_tz-17,base.tz,,Mtwara
+worldstates_tz-18,base.tz,,Mwanza
+worldstates_tz-19,base.tz,,Pwani
+worldstates_tz-20,base.tz,,Rukwa
+worldstates_tz-21,base.tz,,Ruvuma
+worldstates_tz-22,base.tz,,Shinyanga
+worldstates_tz-23,base.tz,,Singida
+worldstates_tz-24,base.tz,,Tabora
+worldstates_tz-25,base.tz,,Tanga
+worldstates_tz-26,base.tz,,Manyara
+worldstates_tz-27,base.tz,,Geita
+worldstates_tz-28,base.tz,,Katavi
+worldstates_tz-29,base.tz,,Njombe
+worldstates_tz-30,base.tz,,Simiyu
+worldstates_ua-5,base.ua,,Vinnytska oblast
+worldstates_ua-7,base.ua,,Volynska oblast
+worldstates_ua-9,base.ua,,Luhanska oblast
+worldstates_ua-12,base.ua,,Dnipropetrovska oblast
+worldstates_ua-14,base.ua,,Donetska oblast
+worldstates_ua-18,base.ua,,Zhytomyrska oblast
+worldstates_ua-21,base.ua,,Zakarpatska oblast
+worldstates_ua-23,base.ua,,Zaporizka oblast
+worldstates_ua-26,base.ua,,Ivano‐Frankivska oblast
+worldstates_ua-30,base.ua,,Kyiv
+worldstates_ua-32,base.ua,,Kyivska oblast
+worldstates_ua-35,base.ua,,Kirovohradska oblast
+worldstates_ua-40,base.ua,,Sevastopol
+worldstates_ua-43,base.ua,,Avtonomna Respublika Krym
+worldstates_ua-46,base.ua,,Lvivska oblast
+worldstates_ua-48,base.ua,,Mykolaivska oblast
+worldstates_ua-51,base.ua,,Odeska oblast
+worldstates_ua-53,base.ua,,Poltavska oblast
+worldstates_ua-56,base.ua,,Rivnenska oblast
+worldstates_ua-59,base.ua,,Sumska oblast
+worldstates_ua-61,base.ua,,Ternopilska oblast
+worldstates_ua-63,base.ua,,Kharkivska oblast
+worldstates_ua-65,base.ua,,Khersonska oblast
+worldstates_ua-68,base.ua,,Khmelnytska oblast
+worldstates_ua-71,base.ua,,Cherkaska oblast
+worldstates_ua-74,base.ua,,Chernihivska oblast
+worldstates_ua-77,base.ua,,Chernivetska oblast
+worldstates_ug-101,base.ug,,Kalangala
+worldstates_ug-102,base.ug,,Kampala
+worldstates_ug-103,base.ug,,Kiboga
+worldstates_ug-104,base.ug,,Luwero
+worldstates_ug-105,base.ug,,Masaka
+worldstates_ug-106,base.ug,,Mpigi
+worldstates_ug-107,base.ug,,Mubende
+worldstates_ug-108,base.ug,,Mukono
+worldstates_ug-109,base.ug,,Nakasongola
+worldstates_ug-110,base.ug,,Rakai
+worldstates_ug-111,base.ug,,Sembabule
+worldstates_ug-112,base.ug,,Kayunga
+worldstates_ug-113,base.ug,,Wakiso
+worldstates_ug-114,base.ug,,Mityana
+worldstates_ug-115,base.ug,,Nakaseke
+worldstates_ug-116,base.ug,,Lyantonde
+worldstates_ug-117,base.ug,,Buikwe
+worldstates_ug-118,base.ug,,Bukomansibi
+worldstates_ug-119,base.ug,,Butambala
+worldstates_ug-120,base.ug,,Buvuma
+worldstates_ug-121,base.ug,,Gomba
+worldstates_ug-122,base.ug,,Kalungu
+worldstates_ug-123,base.ug,,Kyankwanzi
+worldstates_ug-124,base.ug,,Lwengo
+worldstates_ug-201,base.ug,,Bugiri
+worldstates_ug-202,base.ug,,Busia
+worldstates_ug-203,base.ug,,Iganga
+worldstates_ug-204,base.ug,,Jinja
+worldstates_ug-205,base.ug,,Kamuli
+worldstates_ug-206,base.ug,,Kapchorwa
+worldstates_ug-207,base.ug,,Katakwi
+worldstates_ug-208,base.ug,,Kumi
+worldstates_ug-209,base.ug,,Mbale
+worldstates_ug-210,base.ug,,Pallisa
+worldstates_ug-211,base.ug,,Soroti
+worldstates_ug-212,base.ug,,Tororo
+worldstates_ug-213,base.ug,,Kaberamaido
+worldstates_ug-215,base.ug,,Sironko
+worldstates_ug-216,base.ug,,Amuria
+worldstates_ug-217,base.ug,,Budaka
+worldstates_ug-218,base.ug,,Bukwa
+worldstates_ug-219,base.ug,,Butaleja
+worldstates_ug-220,base.ug,,Kaliro
+worldstates_ug-221,base.ug,,Manafwa
+worldstates_ug-222,base.ug,,Namutumba
+worldstates_ug-223,base.ug,,Bududa
+worldstates_ug-224,base.ug,,Bukedea
+worldstates_ug-225,base.ug,,Bulambuli
+worldstates_ug-226,base.ug,,Buyende
+worldstates_ug-227,base.ug,,Kibuku
+worldstates_ug-228,base.ug,,Kween
+worldstates_ug-229,base.ug,,Luuka
+worldstates_ug-230,base.ug,,Namayingo
+worldstates_ug-231,base.ug,,Ngora
+worldstates_ug-232,base.ug,,Serere
+worldstates_ug-244,base.ug,,Mayuge
+worldstates_ug-301,base.ug,,Adjumani
+worldstates_ug-302,base.ug,,Apac
+worldstates_ug-303,base.ug,,Arua
+worldstates_ug-304,base.ug,,Gulu
+worldstates_ug-305,base.ug,,Kitgum
+worldstates_ug-306,base.ug,,Kotido
+worldstates_ug-307,base.ug,,Lira
+worldstates_ug-308,base.ug,,Moroto
+worldstates_ug-309,base.ug,,Moyo
+worldstates_ug-310,base.ug,,Nebbi
+worldstates_ug-311,base.ug,,Nakapiripirit
+worldstates_ug-312,base.ug,,Pader
+worldstates_ug-313,base.ug,,Yumbe
+worldstates_ug-314,base.ug,,Amolatar
+worldstates_ug-315,base.ug,,Kaabong
+worldstates_ug-316,base.ug,,Koboko
+worldstates_ug-317,base.ug,,Abim
+worldstates_ug-318,base.ug,,Dokolo
+worldstates_ug-319,base.ug,,Amuru
+worldstates_ug-320,base.ug,,Maracha
+worldstates_ug-321,base.ug,,Oyam
+worldstates_ug-401,base.ug,,Bundibugyo
+worldstates_ug-402,base.ug,,Bushenyi
+worldstates_ug-403,base.ug,,Hoima
+worldstates_ug-404,base.ug,,Kabale
+worldstates_ug-405,base.ug,,Kabarole
+worldstates_ug-406,base.ug,,Kasese
+worldstates_ug-407,base.ug,,Kibaale
+worldstates_ug-408,base.ug,,Kisoro
+worldstates_ug-409,base.ug,,Masindi
+worldstates_ug-410,base.ug,,Mbarara
+worldstates_ug-411,base.ug,,Ntungamo
+worldstates_ug-412,base.ug,,Rukungiri
+worldstates_ug-413,base.ug,,Kamwenge
+worldstates_ug-414,base.ug,,Kanungu
+worldstates_ug-415,base.ug,,Kyenjojo
+worldstates_ug-416,base.ug,,Ibanda
+worldstates_ug-417,base.ug,,Isingiro
+worldstates_ug-418,base.ug,,Kiruhura
+worldstates_ug-419,base.ug,,Buliisa
+worldstates_ug-420,base.ug,,Kiryandongo
+worldstates_ug-421,base.ug,,Kyegegwa
+worldstates_ug-422,base.ug,,Mitooma
+worldstates_ug-423,base.ug,,Ntoroko
+worldstates_ug-424,base.ug,,Rubirizi
+worldstates_ug-425,base.ug,,Sheema
+worldstates_um-67,base.um,,Johnston Atoll (ISO reserved code = JT)
+worldstates_um-71,base.um,,Midway Islands (ISO reserved code = I)
+worldstates_um-76,base.um,,Navassa Island (ISO reserved code = NV)
+worldstates_um-79,base.um,,Wake Island (ISO reserved code = WK)
+worldstates_um-81,base.um,,Baker Island
+worldstates_um-84,base.um,,Howland Island
+worldstates_um-86,base.um,,Jarvis Island
+worldstates_um-89,base.um,,Kingman Reef
+worldstates_um-95,base.um,,Palmyra Atoll
+worldstates_us-ak,base.us,AK,Alaska
+worldstates_us-al,base.us,AL,Alabama
+worldstates_us-ar,base.us,AR,Arkansas
+worldstates_us-as,base.us,AS,American Samoa (see also separate entry under AS)
+worldstates_us-az,base.us,AZ,Arizona
+worldstates_us-ca,base.us,CA,California
+worldstates_us-co,base.us,CO,Colorado
+worldstates_us-ct,base.us,CT,Connecticut
+worldstates_us-dc,base.us,DC,District of Columbia
+worldstates_us-de,base.us,DE,Delaware
+worldstates_us-fl,base.us,FL,Florida
+worldstates_us-ga,base.us,GA,Georgia
+worldstates_us-gu,base.us,GU,Guam (see also separate entry under GU)
+worldstates_us-hi,base.us,HI,Hawaii
+worldstates_us-ia,base.us,IA,Iowa
+worldstates_us-id,base.us,ID,Idaho
+worldstates_us-il,base.us,IL,Illinois
+worldstates_us-in,base.us,IN,Indiana
+worldstates_us-ks,base.us,KS,Kansas
+worldstates_us-ky,base.us,KY,Kentucky
+worldstates_us-la,base.us,LA,Louisiana
+worldstates_us-ma,base.us,MA,Massachusetts
+worldstates_us-md,base.us,MD,Maryland
+worldstates_us-me,base.us,ME,Maine
+worldstates_us-mi,base.us,MI,Michigan
+worldstates_us-mn,base.us,MN,Minnesota
+worldstates_us-mo,base.us,MO,Missouri
+worldstates_us-mp,base.us,MP,Northern Mariana Islands (see also separate entry MP)
+worldstates_us-ms,base.us,MS,Mississippi
+worldstates_us-mt,base.us,MT,Montana
+worldstates_us-nc,base.us,NC,North Carolina
+worldstates_us-nd,base.us,ND,North Dakota
+worldstates_us-ne,base.us,NE,Nebraska
+worldstates_us-nh,base.us,NH,New Hampshire
+worldstates_us-nj,base.us,NJ,New Jersey
+worldstates_us-nm,base.us,NM,New Mexico
+worldstates_us-nv,base.us,NV,Nevada
+worldstates_us-ny,base.us,NY,New York
+worldstates_us-oh,base.us,OH,Ohio
+worldstates_us-ok,base.us,OK,Oklahoma
+worldstates_us-or,base.us,OR,Oregon
+worldstates_us-pa,base.us,PA,Pennsylvania
+worldstates_us-pr,base.us,PR,Puerto Rico (see also separate entry under PR)
+worldstates_us-ri,base.us,RI,Rhode Island
+worldstates_us-sc,base.us,SC,South Carolina
+worldstates_us-sd,base.us,SD,South Dakota
+worldstates_us-tn,base.us,TN,Tennessee
+worldstates_us-tx,base.us,TX,Texas
+worldstates_us-um,base.us,UM,U.S. Minor Outlying Islands (cf. separate entry UM)
+worldstates_us-ut,base.us,UT,Utah
+worldstates_us-va,base.us,VA,Virginia
+worldstates_us-vi,base.us,VI,Virgin Islands of the U.S. (see also separate entry VI)
+worldstates_us-vt,base.us,VT,Vermont
+worldstates_us-wa,base.us,WA,Washington
+worldstates_us-wi,base.us,WI,Wisconsin
+worldstates_us-wv,base.us,WV,West Virginia
+worldstates_us-wy,base.us,WY,Wyoming
+worldstates_uy-ar,base.uy,AR,Artigas
+worldstates_uy-ca,base.uy,CA,Canelones
+worldstates_uy-cl,base.uy,CL,Cerro Largo
+worldstates_uy-co,base.uy,CO,Colonia
+worldstates_uy-du,base.uy,DU,Durazno
+worldstates_uy-fd,base.uy,FD,Florida
+worldstates_uy-fs,base.uy,FS,Flores
+worldstates_uy-la,base.uy,LA,Lavalleja
+worldstates_uy-ma,base.uy,MA,Maldonado
+worldstates_uy-mo,base.uy,MO,Montevideo
+worldstates_uy-pa,base.uy,PA,Paysandú
+worldstates_uy-rn,base.uy,RN,Río Negro
+worldstates_uy-ro,base.uy,RO,Rocha
+worldstates_uy-rv,base.uy,RV,Rivera
+worldstates_uy-sa,base.uy,SA,Salto
+worldstates_uy-sj,base.uy,SJ,San José
+worldstates_uy-so,base.uy,SO,Soriano
+worldstates_uy-ta,base.uy,TA,Tacuarembó
+worldstates_uy-tt,base.uy,TT,Treinta y Tres
+worldstates_uz-an,base.uz,AN,Andijon
+worldstates_uz-bu,base.uz,BU,Bukhoro
+worldstates_uz-fa,base.uz,FA,Farg‘ona
+worldstates_uz-ji,base.uz,JI,Jizzax
+worldstates_uz-kh,base.uz,KH,Khorazm
+worldstates_uz-ng,base.uz,NG,Namangan
+worldstates_uz-nw,base.uz,NW,Nawoiy
+worldstates_uz-qa,base.uz,QA,Qashqadaryo
+worldstates_uz-qr,base.uz,QR,Qoraqalpog‘iston Respublikasi
+worldstates_uz-sa,base.uz,SA,Samarqand
+worldstates_uz-si,base.uz,SI,Sirdaryo
+worldstates_uz-su,base.uz,SU,Surkhondaryo
+worldstates_uz-tk,base.uz,TK,Toshkent
+worldstates_uz-to,base.uz,TO,Toshkent
+worldstates_uz-xo,base.uz,XO,Xorazm
+worldstates_vc-1,base.vc,,Charlotte     
+worldstates_vc-2,base.vc,,Saint Andrew  
+worldstates_vc-3,base.vc,,Saint David   
+worldstates_vc-4,base.vc,,Saint George  
+worldstates_vc-5,base.vc,,Saint Patrick 
+worldstates_vc-6,base.vc,,Grenadines    
+worldstates_ve-a,base.ve,A,Distrito Capital
+worldstates_ve-b,base.ve,B,Anzoátegui
+worldstates_ve-c,base.ve,C,Apure
+worldstates_ve-d,base.ve,D,Aragua
+worldstates_ve-e,base.ve,E,Barinas
+worldstates_ve-f,base.ve,F,Bolívar
+worldstates_ve-g,base.ve,G,Carabobo
+worldstates_ve-h,base.ve,H,Cojedes
+worldstates_ve-i,base.ve,I,Falcón
+worldstates_ve-j,base.ve,J,Guárico
+worldstates_ve-k,base.ve,K,Lara
+worldstates_ve-l,base.ve,L,Mérida
+worldstates_ve-m,base.ve,M,Miranda
+worldstates_ve-n,base.ve,N,Monagas
+worldstates_ve-o,base.ve,O,Nueva Esparta
+worldstates_ve-p,base.ve,P,Portuguesa
+worldstates_ve-r,base.ve,R,Sucre
+worldstates_ve-s,base.ve,S,Táchira
+worldstates_ve-t,base.ve,T,Trujillo
+worldstates_ve-u,base.ve,U,Yaracuy
+worldstates_ve-v,base.ve,V,Zulia
+worldstates_ve-w,base.ve,W,Dependencias Federales
+worldstates_ve-x,base.ve,X,vargas
+worldstates_ve-y,base.ve,Y,Delta Amacuro
+worldstates_ve-z,base.ve,Z,Amazonas
+worldstates_vn-1,base.vn,,Lai Châu
+worldstates_vn-2,base.vn,,Lào Cai
+worldstates_vn-3,base.vn,,Hà Giang
+worldstates_vn-4,base.vn,,Cao Bằng
+worldstates_vn-5,base.vn,,Sơn La
+worldstates_vn-6,base.vn,,Yên Bái
+worldstates_vn-7,base.vn,,Tuyên Quang
+worldstates_vn-9,base.vn,,Lạng Sơn
+worldstates_vn-13,base.vn,,Quảng Ninh
+worldstates_vn-14,base.vn,,Hòa Bình
+worldstates_vn-18,base.vn,,Ninh Bình
+worldstates_vn-20,base.vn,,Thái Bình
+worldstates_vn-21,base.vn,,Thanh Hóa
+worldstates_vn-22,base.vn,,Nghệ An
+worldstates_vn-23,base.vn,,Hà Tĩnh
+worldstates_vn-24,base.vn,,Quảng Bình
+worldstates_vn-25,base.vn,,Quảng Trị
+worldstates_vn-26,base.vn,,Thừa Thiên-Huế
+worldstates_vn-27,base.vn,,Quảng Nam
+worldstates_vn-28,base.vn,,Kon Tum
+worldstates_vn-29,base.vn,,Quảng Ngãi
+worldstates_vn-30,base.vn,,Gia Lai
+worldstates_vn-31,base.vn,,Bình Định
+worldstates_vn-32,base.vn,,Phú Yên
+worldstates_vn-33,base.vn,,Đắk Lắk
+worldstates_vn-34,base.vn,,Khánh Hòa
+worldstates_vn-35,base.vn,,Lâm Ðồng
+worldstates_vn-36,base.vn,,Ninh Thuận
+worldstates_vn-37,base.vn,,Tây Ninh
+worldstates_vn-39,base.vn,,Ðồng Nai
+worldstates_vn-40,base.vn,,Bình Thuận
+worldstates_vn-41,base.vn,,Long An
+worldstates_vn-43,base.vn,,Bà Rịa - Vũng Tàu
+worldstates_vn-44,base.vn,,An Giang
+worldstates_vn-45,base.vn,,Ðồng Tháp
+worldstates_vn-46,base.vn,,Tiền Giang
+worldstates_vn-47,base.vn,,Kiến Giang
+worldstates_vn-49,base.vn,,Vĩnh Long
+worldstates_vn-50,base.vn,,Bến Tre
+worldstates_vn-51,base.vn,,Trà Vinh
+worldstates_vn-52,base.vn,,Sóc Trăng
+worldstates_vn-53,base.vn,,Bắc Kạn
+worldstates_vn-54,base.vn,,Bắc Giang
+worldstates_vn-55,base.vn,,Bạc Liêu
+worldstates_vn-56,base.vn,,Bắc Ninh
+worldstates_vn-57,base.vn,,Bình Dương
+worldstates_vn-58,base.vn,,Bình Phước
+worldstates_vn-59,base.vn,,Cà Mau
+worldstates_vn-61,base.vn,,Hải Dương
+worldstates_vn-63,base.vn,,Hà Nam
+worldstates_vn-66,base.vn,,Hưng Yên
+worldstates_vn-67,base.vn,,Nam Ðịnh
+worldstates_vn-68,base.vn,,Phú Thọ
+worldstates_vn-69,base.vn,,Thái Nguyên
+worldstates_vn-70,base.vn,,Vĩnh Phúc
+worldstates_vn-71,base.vn,,Điện Biên
+worldstates_vn-72,base.vn,,Đắk Nông
+worldstates_vn-73,base.vn,,Hậu Giang
+worldstates_vn-ct,base.vn,CT,Can Tho
+worldstates_vn-dn,base.vn,DN,"Da Nang, thanh pho"
+worldstates_vn-hn,base.vn,HN,Ha Noi
+worldstates_vn-hp,base.vn,HP,Hai Phong
+worldstates_vn-sg,base.vn,SG,Ho Chi Minh
+worldstates_vu-map,base.vu,MAP,Malampa
+worldstates_vu-pam,base.vu,PAM,Pénama
+worldstates_vu-sam,base.vu,SAM,Sanma
+worldstates_vu-see,base.vu,SEE,Shéfa
+worldstates_vu-tae,base.vu,TAE,Taféa
+worldstates_vu-tob,base.vu,TOB,Torba
+worldstates_ws-aa,base.ws,AA,A'ana
+worldstates_ws-al,base.ws,AL,Aiga‐i‐le‐Tai
+worldstates_ws-at,base.ws,AT,Atua
+worldstates_ws-fa,base.ws,FA,Fa'asaleleaga
+worldstates_ws-ge,base.ws,GE,Gaga'emauga
+worldstates_ws-gi,base.ws,GI,Gagaifomauga
+worldstates_ws-pa,base.ws,PA,Palauli
+worldstates_ws-sa,base.ws,SA,Satupa 'itea
+worldstates_ws-tu,base.ws,TU,Tuamasaga
+worldstates_ws-vf,base.ws,VF,Va'a-o-Fonoti
+worldstates_ws-vs,base.ws,VS,Vaisigano
+worldstates_ye-ab,base.ye,AB,Abyān
+worldstates_ye-ad,base.ye,AD,'Adan
+worldstates_ye-am,base.ye,AM,'Amrān
+worldstates_ye-ba,base.ye,BA,Al Bayda'
+worldstates_ye-da,base.ye,DA,Aḑ Ḑāli'
+worldstates_ye-dh,base.ye,DH,Dhamār
+worldstates_ye-hd,base.ye,HD,Ḩaḑramawt
+worldstates_ye-hj,base.ye,HJ,Ḩajjah
+worldstates_ye-hu,base.ye,HU,Al Ḩudaydah
+worldstates_ye-ib,base.ye,IB,Ibb
+worldstates_ye-ja,base.ye,JA,Al Jawf
+worldstates_ye-la,base.ye,LA,Lahij
+worldstates_ye-ma,base.ye,MA,Ma'rib
+worldstates_ye-mr,base.ye,MR,Al Mahrah
+worldstates_ye-mw,base.ye,MW,Al Maḩwīt
+worldstates_ye-ra,base.ye,RA,Raymah
+worldstates_ye-sa,base.ye,SA,Amānat al ‘Āşimah [city]
+worldstates_ye-sd,base.ye,SD,Sa'dah
+worldstates_ye-sh,base.ye,SH,Shabwah
+worldstates_ye-sn,base.ye,SN,Şanʻā'
+worldstates_ye-ta,base.ye,TA,Ta'izz
+worldstates_za-ec,base.za,EC,Eastern Cape
+worldstates_za-fs,base.za,FS,Free State
+worldstates_za-gt,base.za,GT,Gauteng
+worldstates_za-lp,base.za,LP,Limpopo
+worldstates_za-mp,base.za,MP,Mpumalanga
+worldstates_za-nc,base.za,NC,Northern Cape
+worldstates_za-nl,base.za,NL,Kwazulu-Natal
+worldstates_za-nw,base.za,NW,North-West
+worldstates_za-wc,base.za,WC,Western Cape
+worldstates_zm-1,base.zm,,Western
+worldstates_zm-2,base.zm,,Central
+worldstates_zm-3,base.zm,,Eastern
+worldstates_zm-4,base.zm,,Luapula
+worldstates_zm-5,base.zm,,Northern
+worldstates_zm-6,base.zm,,North-Western
+worldstates_zm-7,base.zm,,Southern
+worldstates_zm-8,base.zm,,Copperbelt
+worldstates_zm-9,base.zm,,Lusaka
+worldstates_zm-10,base.zm,,Muchinga
+worldstates_zw-bu,base.zw,BU,Bulawayo
+worldstates_zw-ha,base.zw,HA,Harare
+worldstates_zw-ma,base.zw,MA,Manicaland
+worldstates_zw-mc,base.zw,MC,Mashonaland Central
+worldstates_zw-me,base.zw,ME,Mashonaland East
+worldstates_zw-mi,base.zw,MI,Midlands
+worldstates_zw-mn,base.zw,MN,Matabeleland North
+worldstates_zw-ms,base.zw,MS,Matabeleland South
+worldstates_zw-mv,base.zw,MV,Masvingo
+worldstates_zw-mw,base.zw,MW,Mashonaland West
